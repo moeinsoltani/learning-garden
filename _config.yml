@@ -1,6 +1,22 @@
-title: Linux Networking — Learning Journal
-description: Practical Linux networking from namespaces to eBPF
-theme: jekyll-theme-cayman
+title: Linux Networking
+description: Practical Linux networking — from namespaces to eBPF
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 
-markdown: kramdown
-highlighter: rouge
+baseurl: "/learn-networking"
+url: "https://moeinsoltani.github.io"
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Linux Networking Learning Journal"
+
+exclude:
+  - CLAUDE.md
+  - "*.sh"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

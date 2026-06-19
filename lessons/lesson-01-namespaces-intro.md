@@ -1,8 +1,10 @@
 ---
 title: "Lesson 01 — What a Network Namespace Is"
+nav_order: 1
+parent: "Phase 1: Foundations"
 ---
 
-<a href="../" style="display:inline-block;padding:6px 16px;background:#159957;color:white;border-radius:4px;text-decoration:none;font-size:0.9em;">← Home</a>
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
 
 ---
 

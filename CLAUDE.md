@@ -15,17 +15,33 @@ For each lesson:
 6. Only move to the next lesson when checkpoints pass
 7. At the end of each Phase, give a written test covering all lessons in that phase
 
+## Site Theme
+- Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
+- Config: `_config.yml` — do not change the theme without updating this file
+- Phase parent pages live in `lessons/phase-NN-name.md` with `has_children: true`
+- Lesson files live in `lessons/lesson-NN-topic.md` with `parent: "Phase N: Name"`
+
 ## Lesson File Format
-Each lesson file must contain:
-- Jekyll front matter with `title:` field
-- A **home button** at the top: `<a href="../" style="display:inline-block;padding:6px 16px;background:#159957;color:white;border-radius:4px;text-decoration:none;font-size:0.9em;">← Home</a>`
+Each lesson file must have this exact front matter:
+```yaml
+---
+title: "Lesson NN — Title"
+nav_order: N
+parent: "Phase N: Name"
+---
+```
+
+Then immediately after front matter:
+- **Home button**: `[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }` (Just the Docs button style, uses Jekyll relative_url so it works under /learn-networking/ baseurl)
 - **Concept** — mental model, analogy, ASCII diagram
 - **How it works** — mechanics (brief, focused on "why")
-- **Lab** — exact commands with expected output ($ prompt = run this, # = comment)
-- **Checkpoint** — questions with a `**Your answer:**` blank field AND a hidden model answer using `<details><summary>Show Answer</summary>...</details>`
-- **Homework** — one task slightly harder than the lab, with a hidden model answer
+- **Lab** — exact commands with expected output (`$` = run this, `#` = comment)
+- **Checkpoint** — each question has:
+  1. `**Your answer:**` blank field for the student
+  2. A hidden model answer: `<details><summary>Show Answer</summary><br>Answer here.</details>`
+- **Homework** — one harder task with its own hidden model answer
 
-Model answers must be written for every checkpoint question and homework item.
+Model answers must always be written — never leave a checkpoint or homework without one.
 
 ## Lesson Index
 - Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is

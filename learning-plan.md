@@ -1,3 +1,9 @@
+---
+title: Learning Plan
+nav_order: 2
+nav_exclude: false
+---
+
 # Linux Networking Learning Plan
 
 ---
