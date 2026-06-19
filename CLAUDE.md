@@ -17,11 +17,15 @@ For each lesson:
 
 ## Lesson File Format
 Each lesson file must contain:
+- Jekyll front matter with `title:` field
+- A **home button** at the top: `<a href="../" style="display:inline-block;padding:6px 16px;background:#159957;color:white;border-radius:4px;text-decoration:none;font-size:0.9em;">← Home</a>`
 - **Concept** — mental model, analogy, ASCII diagram
 - **How it works** — mechanics (brief, focused on "why")
 - **Lab** — exact commands with expected output ($ prompt = run this, # = comment)
-- **Checkpoint** — questions with a `**Your answer:**` field left blank for the student to fill in
-- **Homework** — one task slightly harder than the lab, done independently before next lesson
+- **Checkpoint** — questions with a `**Your answer:**` blank field AND a hidden model answer using `<details><summary>Show Answer</summary>...</details>`
+- **Homework** — one task slightly harder than the lab, with a hidden model answer
+
+Model answers must be written for every checkpoint question and homework item.
 
 ## Lesson Index
 - Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is

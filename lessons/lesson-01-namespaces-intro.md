@@ -1,4 +1,12 @@
-# Lesson 1: What a Network Namespace Is
+---
+title: "Lesson 01 — What a Network Namespace Is"
+---
+
+<a href="../" style="display:inline-block;padding:6px 16px;background:#159957;color:white;border-radius:4px;text-decoration:none;font-size:0.9em;">← Home</a>
+
+---
+
+# Lesson 01: What a Network Namespace Is
 
 ## Concept
 
@@ -126,40 +134,55 @@ The default namespace has interfaces and routes. They do not see each other.
 
 ## Checkpoint
 
-Answer these questions in your own words. Write your answers below each question.
-Do not look them up — the goal is to check your understanding, not find the right words.
-
-**Q1. What exactly is isolated when you create a network namespace?**
-List at least four things.
-
-**Your answer:**
-
+Answer each question in your own words first. Then reveal the answer to check yourself.
 
 ---
 
-**Q2. A web server is listening on port 443 inside namespace `ns1`.
-Can another process on the host (default namespace) connect to it on 127.0.0.1:443?
-Why or why not?**
+**Q1. What exactly is isolated when you create a network namespace? List at least four things.**
 
 **Your answer:**
 
+<details>
+<summary>Show Answer</summary>
+<br>
+Network interfaces (eth0, lo, veth0, etc.), IP addresses assigned to those interfaces, the routing table, the ARP/neighbor table (which MAC address owns which IP), firewall rules (nftables/iptables rulesets), and sockets (which process is listening on which port). All of these are per-namespace — each namespace has its own independent copy.
+</details>
 
 ---
 
-**Q3. You move a process into namespace `ns1`. The process calls `open("/etc/hosts")`.
-Does it read the host's `/etc/hosts` or ns1's `/etc/hosts`?
-Explain why.**
+**Q2. A web server is listening on port 443 inside namespace `ns1`. Can another process on the host (default namespace) connect to it on `127.0.0.1:443`? Why or why not?**
 
 **Your answer:**
 
+<details>
+<summary>Show Answer</summary>
+<br>
+No. The socket bound to port 443 lives inside ns1's networking context. The host's 127.0.0.1 is the loopback address of the default namespace — a completely separate room. A process in the default namespace has no visibility into ns1's sockets at all. To connect across namespaces you need a virtual interface linking the two (covered in a later lesson).
+</details>
 
 ---
 
-**Q4. A new namespace is created. What is the state of its loopback interface?
-Why does this matter?**
+**Q3. You move a process into namespace `ns1`. The process calls `open("/etc/hosts")`. Does it read the host's `/etc/hosts` or ns1's `/etc/hosts`? Explain why.**
 
 **Your answer:**
 
+<details>
+<summary>Show Answer</summary>
+<br>
+It reads the host's /etc/hosts. Network namespaces only isolate networking — the filesystem is not touched. To give a namespace its own filesystem you need a separate mount namespace as well. This is exactly what Docker does: it combines a network namespace, a mount namespace, a PID namespace, and cgroups. A network namespace alone is not a container.
+</details>
+
+---
+
+**Q4. A new namespace is created. What is the state of its loopback interface? Why does this matter?**
+
+**Your answer:**
+
+<details>
+<summary>Show Answer</summary>
+<br>
+The loopback interface (lo) exists but is DOWN with no IP address assigned. This matters because many applications try to connect to 127.0.0.1 — to reach themselves or other local services. If lo is down those connections fail immediately, even though no external network is involved. You must explicitly run `ip link set lo up` inside a new namespace before using it.
+</details>
 
 ---
 
@@ -168,11 +191,16 @@ Why does this matter?**
 Do this before Lesson 2.
 
 1. Create a namespace called `myns`
-2. Inside `myns`, bring up the loopback interface: `ip link set lo up`
-3. Check that lo now has an IP: `ip addr show lo` — you should see `127.0.0.1/8`
+2. Inside `myns`, bring up the loopback interface: `sudo ip netns exec myns ip link set lo up`
+3. Check that lo now has an IP: `sudo ip netns exec myns ip addr show lo` — you should see `127.0.0.1/8`
 4. Delete `myns`
 
-Write one sentence about what bringing `lo` up does and why it was not up by default.
+Write one sentence below about what bringing `lo` up does and why it was not up by default.
 
 **Your answer:**
 
+<details>
+<summary>Show Answer</summary>
+<br>
+Running `ip link set lo up` activates the loopback interface and causes the kernel to automatically assign 127.0.0.1/8 to it. It is not up by default because the kernel creates namespaces in a completely blank state — it makes no assumptions about what the namespace will be used for, so nothing is configured until you explicitly ask for it.
+</details>
