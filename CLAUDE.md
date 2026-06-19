@@ -62,7 +62,7 @@ When the student asks a question about a term or concept from a lesson:
 
 ## Lesson Index
 - Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
-- Lesson 02: `lessons/lesson-02-host-as-namespace.md` — The host is just another namespace
+- Lesson 02: `lessons/lesson-02-host-as-namespace.md` — The host is just another namespace ✓
 - Lesson 03: `lessons/lesson-03-build-namespaces.md` — Build two isolated namespaces
 
 *(Update this index as lessons are created)*

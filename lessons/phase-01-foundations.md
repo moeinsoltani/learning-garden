@@ -14,3 +14,4 @@ and the basic `ip` command suite.
 |---|--------|--------|
 | 01 | [What a network namespace is](lesson-01-namespaces-intro) | In progress |
 | 02 | [The host is just another namespace](lesson-02-host-as-namespace) | In progress |
+| 03 | [Build two isolated namespaces](lesson-03-build-namespaces) | In progress |
