@@ -48,9 +48,32 @@ Each network namespace has its own independent copy of:
 | Network interfaces | `eth0`, `lo`, `veth0` |
 | IP addresses | 10.0.0.1 on eth0 |
 | Routing table | `default via 10.0.0.1` |
-| ARP / neighbor table | which MAC owns 10.0.0.2 |
+| [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol) / neighbor table | which MAC owns 10.0.0.2 |
 | Firewall rules | nftables / iptables rulesets |
-| Sockets | which process is listening on :80 |
+| [Sockets](https://en.wikipedia.org/wiki/Network_socket) | which process is listening on :80 |
+
+{: .note }
+> **What is a socket?**
+> A socket is the kernel object that connects a process to the network. When a
+> program (say, a web server) wants to receive traffic, it asks the kernel for a
+> socket on a specific port — e.g. port 80. The kernel creates a mailbox: any
+> packet arriving for that port gets delivered to that socket, and the process
+> reads from it.
+>
+> ```
+>  Process (nginx)
+>       |
+>    [socket]   ← kernel object, lives inside a specific namespace
+>       |
+>  Network stack
+>       |
+>     eth0
+> ```
+>
+> Because sockets are per-namespace, two processes can each bind to port 80
+> without conflict — one inside `ns1`, one on the host. The kernel knows which
+> namespace each socket belongs to and routes packets accordingly.
+> Run `ss -tulpn` on your VM to list all open sockets.
 
 If you bind a process to port 80 inside `ns1`, it does **not** conflict with
 a process listening on port 80 in the default namespace. They are in separate rooms.
@@ -65,7 +88,7 @@ Network namespaces only isolate networking. The following are still shared:
 - **The filesystem** — unless you also use a mount namespace (containers do both)
 - **Processes** — a process in ns1 is still visible in the host's process table
   (unless you also use a PID namespace)
-- **CPU and memory** — no isolation at all unless you add cgroups
+- **CPU and memory** — no isolation at all unless you add [cgroups](https://en.wikipedia.org/wiki/Cgroups)
 
 This is why a "network namespace" alone does not make a container. Docker combines
 network namespaces with PID namespaces, mount namespaces, and cgroups.
@@ -131,6 +154,19 @@ $ sudo ip netns delete ns1
 
 **Expected result:** ns1 has only a DOWN loopback and zero routes.
 The default namespace has interfaces and routes. They do not see each other.
+
+---
+
+## Further Reading
+
+| Topic | Link |
+|---|---|
+| Network namespaces (Linux man page) | [man7.org — network_namespaces(7)](https://man7.org/linux/man-pages/man7/network_namespaces.7.html) |
+| `ip netns` command reference | [man7.org — ip-netns(8)](https://man7.org/linux/man-pages/man8/ip-netns.8.html) |
+| What is a network socket | [Wikipedia — Network socket](https://en.wikipedia.org/wiki/Network_socket) |
+| ARP protocol | [Wikipedia — Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol) |
+| Linux cgroups | [Wikipedia — cgroups](https://en.wikipedia.org/wiki/Cgroups) |
+| OS-level virtualisation (containers) | [Wikipedia — OS-level virtualisation](https://en.wikipedia.org/wiki/OS-level_virtualization) |
 
 ---
 

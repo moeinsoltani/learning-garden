@@ -43,6 +43,25 @@ Then immediately after front matter:
 
 Model answers must always be written — never leave a checkpoint or homework without one.
 
+## Handling Student Questions
+When the student asks a question about a term or concept from a lesson:
+1. Answer briefly in chat
+2. Then update the lesson file to incorporate the answer — either as a `{: .note }` callout block inline with the relevant section, or as expanded text
+3. Add reference links (Wikipedia, man7.org man pages) for any technical term introduced — inline on first mention AND in the lesson's **Further Reading** table
+4. Every lesson must have a **Further Reading** table before the Checkpoint section
+
+### Callout syntax (Just the Docs)
+```markdown
+{: .note }
+> **Title**
+> Body text here.
+```
+
+### Reference link sources to prefer
+- Linux man pages: `https://man7.org/linux/man-pages/manN/name.N.html`
+- Wikipedia: `https://en.wikipedia.org/wiki/Topic`
+- Only include links you are certain exist — do not guess URLs
+
 ## Lesson Index
 - Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is
 - Lesson 02: `lessons/lesson-02-host-as-namespace.md` — The host is just another namespace
