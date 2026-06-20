@@ -2,7 +2,7 @@ title: Linux Systems Learning Journal
 description: Practical Linux systems — networking and virtualization, hands-on
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
-baseurl: "/learn-networking"
+baseurl: "/learning-garden"
 url: "https://moeinsoltani.github.io"
 
 color_scheme: dark

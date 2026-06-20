@@ -57,7 +57,7 @@ parent: "Phase N: Name"
 ```
 
 Then immediately after front matter:
-- **Home button**: `[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }` (Just the Docs button style, uses Jekyll relative_url so it works under /learn-networking/ baseurl)
+- **Home button**: `[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }` (Just the Docs button style, uses Jekyll relative_url so it works under /learning-garden/ baseurl)
 - **Concept** — mental model, analogy, ASCII diagram
 - **How it works** — mechanics (brief, focused on "why")
 - **Lab** — exact commands with expected output (`$` = run this, `#` = comment)
