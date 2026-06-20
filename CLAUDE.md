@@ -67,6 +67,7 @@ The full lesson sequence is defined in `learning-plan.md`. **Always consult it b
 - Lesson 01: `lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
 - Lesson 02: `lessons/lesson-02-host-as-namespace.md` — The host is just another namespace ✓
 - Lesson 03: `lessons/lesson-03-build-namespaces.md` — Build two isolated namespaces ✓
-- Lesson 04: `lessons/lesson-04-ip-addressing.md` — IP addressing fundamentals (addrs)
+- Lesson 04: `lessons/lesson-04-ip-addressing.md` — IP addressing fundamentals (addrs) ✓
+- Lesson 05: `lessons/lesson-05-arp-neigh.md` — Neighbor tables & ARP (neigh) ✓
 
 *(Update this index as lessons are created)*
