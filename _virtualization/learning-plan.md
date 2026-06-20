@@ -1,16 +1,13 @@
 ---
-title: Virtualization Learning Plan
-nav_order: 18
-nav_exclude: true
+title: Learning Plan
+nav_order: 2
 ---
 
 <!--
-  NOTE: This is the curriculum for a SECOND learning track (Linux virtualization /
-  QEMU / KVM). It is intentionally nav_exclude'd for now: the site is currently
-  scoped to "Linux Networking". Wire this into navigation as part of the planned
-  repo restructure to serve both tracks (e.g. a top-level "Virtualization"
-  section, or splitting the site into two collections). Lessons are NOT yet
-  implemented — this file is the plan only, the analogue of learning-plan.md.
+  Curriculum for the Linux Virtualization (QEMU/KVM) track. Lessons are NOT yet
+  implemented — this file is the plan only. Lessons will live in
+  _virtualization/lessons/ with phase parent pages, mirroring the networking
+  track. See CLAUDE.md for the file format and methodology.
 -->
 
 # Linux Virtualization Learning Plan — QEMU & KVM

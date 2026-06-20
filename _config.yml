@@ -1,5 +1,5 @@
-title: Linux Networking
-description: Practical Linux networking — from namespaces to eBPF
+title: Linux Systems Learning Journal
+description: Practical Linux systems — networking and virtualization, hands-on
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 baseurl: "/learn-networking"
@@ -11,7 +11,27 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Linux Networking Learning Journal"
+footer_content: "Linux Systems Learning Journal"
+
+# Two learning tracks, each its own Just the Docs navigation section.
+# Permalink keeps the in-collection path (e.g. lessons/lesson-NN) so the
+# existing relative phase→lesson links keep resolving.
+collections:
+  networking:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+  virtualization:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+
+just_the_docs:
+  collections:
+    networking:
+      name: Linux Networking
+      nav_fold: true
+    virtualization:
+      name: Linux Virtualization
+      nav_fold: true
 
 exclude:
   - CLAUDE.md
