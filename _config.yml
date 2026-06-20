@@ -13,6 +13,16 @@ back_to_top_text: "Back to top"
 
 footer_content: "Linux Systems Learning Journal"
 
+# Apply the Just the Docs theme layout to every file (regular pages AND the
+# documents in the networking/virtualization collections). Collection documents
+# do NOT inherit a layout automatically, so without this they render as bare,
+# unthemed HTML. An empty `path` scope matches all pages and collection docs.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # Two learning tracks, each its own Just the Docs navigation section.
 # Permalink keeps the in-collection path (e.g. lessons/lesson-NN) so the
 # existing relative phase→lesson links keep resolving.

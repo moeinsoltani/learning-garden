@@ -144,6 +144,67 @@ Each track has its own plan; **always consult the relevant one before creating a
 *(Networking track complete — update this index if lessons change)*
 
 ## Virtualization Lesson Index
-*(No lessons implemented yet. Follow `_virtualization/learning-plan.md` in order;
-create files at `_virtualization/lessons/lesson-NN-topic.md` with phase parent pages
-`_virtualization/lessons/phase-NN-name.md`. Update this index as lessons are created.)*
+Phase parent pages live at `_virtualization/lessons/phase-NN-name.md`.
+- Lesson 01: `_virtualization/lessons/lesson-01-what-virtualization-is.md` — What virtualization actually is ✓
+- Lesson 02: `_virtualization/lessons/lesson-02-hypervisor-types.md` — Hypervisor types and where KVM fits ✓
+- Lesson 03: `_virtualization/lessons/lesson-03-qemu-kvm-division.md` — The QEMU + KVM division of labor ✓
+- Lesson 04: `_virtualization/lessons/lesson-04-rings-trap-emulate.md` — Rings, privileged instructions, trap-and-emulate ✓
+- Lesson 05: `_virtualization/lessons/lesson-05-vtx-amdv.md` — Hardware virtualization extensions (VT-x/AMD-V) ✓
+- Lesson 06: `_virtualization/lessons/lesson-06-ept-npt-slat.md` — Memory virtualization: EPT/NPT (SLAT) ✓
+- Lesson 07: `_virtualization/lessons/lesson-07-host-readiness.md` — Checking/enabling virtualization on the host ✓
+- Lesson 08: `_virtualization/lessons/lesson-08-dev-kvm-ioctl.md` — The /dev/kvm ioctl API ✓
+- Lesson 09: `_virtualization/lessons/lesson-09-kvm-modules-params.md` — KVM kernel modules and parameters ✓
+- Lesson 10: `_virtualization/lessons/lesson-10-vm-exit-loop.md` — The VM-exit loop in depth ✓
+- Lesson 11: `_virtualization/lessons/lesson-11-observing-kvm.md` — Observing KVM at runtime ✓
+- Lesson 12: `_virtualization/lessons/lesson-12-qemu-command-line.md` — Anatomy of a QEMU command line ✓
+- Lesson 13: `_virtualization/lessons/lesson-13-machine-types-accel.md` — Machine types and accelerators ✓
+- Lesson 14: `_virtualization/lessons/lesson-14-firmware-boot.md` — Firmware and the boot path ✓
+- Lesson 15: `_virtualization/lessons/lesson-15-monitor-hmp-qmp.md` — The QEMU monitor: HMP and QMP ✓
+- Lesson 16: `_virtualization/lessons/lesson-16-display-console.md` — Display, console, and remote access ✓
+- Lesson 17: `_virtualization/lessons/lesson-17-vcpu-models.md` — vCPU models and feature flags ✓
+- Lesson 18: `_virtualization/lessons/lesson-18-cpu-topology.md` — CPU topology ✓
+- Lesson 19: `_virtualization/lessons/lesson-19-memory-hugepages.md` — Guest memory backends and hugepages ✓
+- Lesson 20: `_virtualization/lessons/lesson-20-balloon-ksm.md` — Ballooning and KSM ✓
+- Lesson 21: `_virtualization/lessons/lesson-21-numa.md` — NUMA awareness ✓
+- Lesson 22: `_virtualization/lessons/lesson-22-image-formats-qemu-img.md` — Disk image formats and qemu-img ✓
+- Lesson 23: `_virtualization/lessons/lesson-23-qcow2-internals.md` — qcow2 internals: backing files & CoW ✓
+- Lesson 24: `_virtualization/lessons/lesson-24-block-device-models.md` — Block device models ✓
+- Lesson 25: `_virtualization/lessons/lesson-25-caching-aio.md` — Caching modes and AIO ✓
+- Lesson 26: `_virtualization/lessons/lesson-26-snapshots.md` — Snapshots ✓
+- Lesson 27: `_virtualization/lessons/lesson-27-virtio-standard.md` — The virtio standard ✓
+- Lesson 28: `_virtualization/lessons/lesson-28-virtio-devices.md` — The core virtio devices ✓
+- Lesson 29: `_virtualization/lessons/lesson-29-vhost.md` — vhost: moving the datapath into the kernel ✓
+- Lesson 30: `_virtualization/lessons/lesson-30-vhost-user-vsock.md` — vhost-user, vsock, shared-memory datapaths ✓
+- Lesson 31: `_virtualization/lessons/lesson-31-slirp.md` — User-mode networking (SLIRP) ✓
+- Lesson 32: `_virtualization/lessons/lesson-32-tap-bridge.md` — TAP + bridge networking ✓
+- Lesson 33: `_virtualization/lessons/lesson-33-accelerated-net.md` — Accelerated networking: vhost-net & multiqueue ✓
+- Lesson 34: `_virtualization/lessons/lesson-34-macvtap-sriov.md` — macvtap and SR-IOV networking ✓
+- Lesson 35: `_virtualization/lessons/lesson-35-iommu.md` — The IOMMU ✓
+- Lesson 36: `_virtualization/lessons/lesson-36-vfio-pci.md` — VFIO PCI passthrough ✓
+- Lesson 37: `_virtualization/lessons/lesson-37-gpu-passthrough.md` — GPU passthrough ✓
+- Lesson 38: `_virtualization/lessons/lesson-38-sriov-mdev.md` — SR-IOV and mediated devices ✓
+- Lesson 39: `_virtualization/lessons/lesson-39-libvirt-virsh.md` — libvirt architecture and virsh ✓
+- Lesson 40: `_virtualization/lessons/lesson-40-domain-xml.md` — The domain XML ✓
+- Lesson 41: `_virtualization/lessons/lesson-41-storage-pools.md` — Storage pools and volumes ✓
+- Lesson 42: `_virtualization/lessons/lesson-42-libvirt-networks.md` — libvirt virtual networks ✓
+- Lesson 43: `_virtualization/lessons/lesson-43-virt-install.md` — virt-install and the desktop tools ✓
+- Lesson 44: `_virtualization/lessons/lesson-44-cloud-init.md` — Cloud images and cloud-init ✓
+- Lesson 45: `_virtualization/lessons/lesson-45-libguestfs.md` — libguestfs: editing images without booting ✓
+- Lesson 46: `_virtualization/lessons/lesson-46-templates-cloning.md` — Templates and cloning ✓
+- Lesson 47: `_virtualization/lessons/lesson-47-backup-checkpoints.md` — Domain snapshots, checkpoints, incremental backup ✓
+- Lesson 48: `_virtualization/lessons/lesson-48-migration-mechanics.md` — Live migration mechanics ✓
+- Lesson 49: `_virtualization/lessons/lesson-49-migration-practice.md` — Live migration in practice ✓
+- Lesson 50: `_virtualization/lessons/lesson-50-cpu-pinning.md` — CPU pinning and thread placement ✓
+- Lesson 51: `_virtualization/lessons/lesson-51-memory-numa-tuning.md` — Memory and NUMA tuning in production ✓
+- Lesson 52: `_virtualization/lessons/lesson-52-storage-io-tuning.md` — Storage and I/O tuning ✓
+- Lesson 53: `_virtualization/lessons/lesson-53-observability.md` — Observability: measuring a running VM ✓
+- Lesson 54: `_virtualization/lessons/lesson-54-tuned-profiles.md` — tuned and host profiles ✓
+- Lesson 55: `_virtualization/lessons/lesson-55-nested-virt.md` — Nested virtualization ✓
+- Lesson 56: `_virtualization/lessons/lesson-56-svirt.md` — sVirt: confining QEMU with MAC ✓
+- Lesson 57: `_virtualization/lessons/lesson-57-qemu-hardening.md` — QEMU hardening and sandboxing ✓
+- Lesson 58: `_virtualization/lessons/lesson-58-confidential-computing.md` — Confidential computing ✓
+- Lesson 59: `_virtualization/lessons/lesson-59-microvms.md` — microVMs ✓
+- Lesson 60: `_virtualization/lessons/lesson-60-kata-containers.md` — VM-isolated containers (Kata) ✓
+- Lesson 61: `_virtualization/lessons/lesson-61-platforms-next.md` — Management platforms & where to go next ✓
+
+*(Virtualization track complete — update this index if lessons change)*
