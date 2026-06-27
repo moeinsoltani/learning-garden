@@ -33,6 +33,9 @@ collections:
   virtualization:
     permalink: "/:collection/:path:output_ext"
     output: true
+  security:
+    permalink: "/:collection/:path:output_ext"
+    output: true
 
 just_the_docs:
   collections:
@@ -41,6 +44,9 @@ just_the_docs:
       nav_fold: true
     virtualization:
       name: Linux Virtualization
+      nav_fold: true
+    security:
+      name: Security & Identity
       nav_fold: true
 
 exclude:

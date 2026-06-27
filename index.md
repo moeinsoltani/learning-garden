@@ -29,6 +29,14 @@ performance, security, and microVMs.
 
 [Virtualization learning plan]({{ '/virtualization/learning-plan.html' | relative_url }}){: .btn .btn-primary }
 
+### 🔐 Security & Identity
+
+Cryptography foundations, X.509 certificates & PKI, TLS/SSL, authentication
+(passwords, MFA, passkeys, Kerberos), and federated identity & authorization
+(OAuth 2.0, OIDC, SAML, JWT, SSO, and identity providers).
+
+[Security learning plan]({{ '/security/learning-plan.html' | relative_url }}){: .btn .btn-primary }
+
 ---
 
 {: .note }

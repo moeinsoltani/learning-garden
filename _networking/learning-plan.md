@@ -872,6 +872,381 @@ Then inspect a real Docker container: `docker network inspect bridge` and compar
 
 ---
 
+## [Phase 16: Tunnels & VPNs](lessons/phase-16-tunnels-vpns.html)
+
+### [Lesson 48: Tunneling fundamentals — GRE, IPIP, SIT, FOU](lessons/lesson-48-tunneling-fundamentals.html)
+
+**Goal:** Understand encapsulation without encryption — the substrate every VPN sits on.
+
+**Topics:**
+- Outer vs inner packet; MTU and the overhead problem
+- `ip tunnel` / `ip link add type gre|ipip|sit`; point-to-point vs multipoint (mGRE)
+- FOU/GUE: tunneling inside UDP and why UDP encapsulation matters
+- When you'd use a plain tunnel vs an overlay (VXLAN) vs a VPN
+
+**Lab:** GRE tunnel between two namespaces; tcpdump the outer + inner headers.
+
+**Checkpoint:** Why does a tunnel lower the effective MTU, and what breaks if you ignore it?
+
+---
+
+### [Lesson 49: VPN cryptography building blocks](lessons/lesson-49-vpn-crypto.html)
+
+**Goal:** Acquire the crypto vocabulary every VPN protocol assumes.
+
+**Topics:**
+- Symmetric vs asymmetric crypto; Diffie-Hellman key exchange
+- AEAD ciphers (ChaCha20-Poly1305, AES-GCM); what "authenticated" buys you
+- PKI/certificates vs pre-shared keys; the CIA triad (confidentiality/integrity/authenticity)
+- Threat model: what a VPN does and does *not* protect against
+
+**Checkpoint:** Why is encryption without authentication dangerous? What attack does it allow?
+
+**Cross-reference:** This is a deliberately thin, WireGuard-focused primer so the VPN phase stands on its own. The full treatment of cryptography lives in the **Security & Identity** track, Phase 1 (Cryptography Foundations).
+
+---
+
+### [Lesson 50: IPsec and the kernel xfrm framework](lessons/lesson-50-ipsec-xfrm.html)
+
+**Goal:** Learn the "enterprise standard" VPN and the kernel machinery behind it.
+
+**Topics:**
+- ESP vs AH; transport mode vs tunnel mode
+- Security Associations and the SPD; the `xfrm` subsystem
+- IKEv2 key negotiation; strongSwan as the userspace daemon
+- Why IPsec is powerful but operationally heavy
+
+**Lab:** Site-to-site ESP tunnel in tunnel mode between two namespaces; verify with `ip xfrm state`.
+
+**Checkpoint:** What's the difference between transport and tunnel mode, and when do you use each?
+
+---
+
+### [Lesson 51: WireGuard fundamentals](lessons/lesson-51-wireguard-fundamentals.html)
+
+**Goal:** Master the modern, minimal VPN protocol.
+
+**Topics:**
+- Key pairs and **crypto-key routing** (the AllowedIPs model)
+- The Noise-based handshake; UDP-only, stateless-by-design philosophy
+- `wg`, `wg-quick`, config files; roaming endpoints
+- Why WireGuard deliberately drops IPsec's flexibility
+
+**Lab:** Two-peer WireGuard tunnel; inspect with `wg show`; capture the encrypted UDP.
+
+**Checkpoint:** How does WireGuard decide which peer a given destination IP belongs to?
+
+---
+
+### [Lesson 52: WireGuard internals & userspace datapaths](lessons/lesson-52-wireguard-internals.html)
+
+**Goal:** See how the same protocol runs in-kernel vs in userspace.
+
+**Topics:**
+- Kernel module vs a userspace implementation over a TUN device (Lesson 14 payoff)
+- Userspace TCP/IP stacks (e.g. `netstack`) and when you'd embed one
+- The handshake/cookie anti-DoS mechanism; key rotation
+- Performance levers: UDP batching (GSO/GRO), offloads
+
+**Checkpoint:** What are the trade-offs of a userspace WireGuard datapath vs the kernel module?
+
+---
+
+### [Lesson 53: NAT traversal — STUN, ICE, UDP hole punching](lessons/lesson-53-nat-traversal.html)
+
+**Goal:** Solve the hardest problem in peer-to-peer VPNs — connecting two boxes both behind NAT.
+
+**Topics:**
+- NAT behavior classes (full-cone → address/port-restricted → symmetric)
+- STUN for discovering your public mapping; ICE-style candidate gathering
+- UDP hole punching; port prediction and the birthday-paradox trick for symmetric NAT
+- Why this problem is adversarial and underdocumented in the wild
+
+**Lab:** Simulate two NATs with namespaces + masquerade; demonstrate a successful hole punch.
+
+**Checkpoint:** Why can two symmetric-NAT peers fail to hole-punch, and what's the fallback?
+
+---
+
+### [Lesson 54: Relays and fallback paths](lessons/lesson-54-relays.html)
+
+**Goal:** Guarantee connectivity when a direct path is impossible.
+
+**Topics:**
+- Relay servers: forwarding encrypted traffic when hole punching fails
+- Relaying over HTTPS/443 to survive restrictive firewalls
+- Latency/cost trade-offs; upgrading from relayed to direct mid-session
+- End-to-end encryption so the relay can't read traffic
+
+**Checkpoint:** Why must the relay never be able to decrypt the traffic it forwards?
+
+---
+
+### [Lesson 55: Mesh VPNs and coordination/control planes](lessons/lesson-55-mesh-vpns.html)
+
+**Goal:** Move from point-to-point tunnels to a self-configuring mesh.
+
+**Topics:**
+- Full mesh vs hub-and-spoke; the scaling problem of N² tunnels
+- A coordination/control server: key distribution, peer discovery, node registry
+- Policy-based access control (ACLs) and the zero-trust model
+- Identity (SSO/OIDC), split-DNS for the overlay, subnet routers & exit nodes
+- Open-source mesh orchestrators to study (Nebula, innernet, Headscale)
+
+**Lab:** Stand up a small WireGuard mesh driven by a coordination tool; add/remove a node.
+
+**Checkpoint:** What does the control plane handle vs the data plane in a mesh VPN?
+
+---
+
+### [Lesson 56: TLS-based VPNs (OpenVPN) — the contrast](lessons/lesson-56-tls-vpns.html)
+
+**Goal:** Round out the protocol landscape and understand the trade-offs.
+
+**Topics:**
+- TLS/DTLS tunnels; userspace TUN; cert-based auth
+- TCP-mode vs UDP-mode and the "TCP-over-TCP meltdown"
+- Where TLS VPNs still win (firewall traversal, mature ecosystem)
+
+**Checkpoint:** Why is running a VPN over TCP usually worse than over UDP?
+
+---
+
+### [Lesson 57: Capstone — an encrypted mesh across NAT](lessons/lesson-57-vpn-capstone.html)
+
+**Goal:** Integrate the whole phase.
+
+**Lab:** Three nodes, two behind simulated NAT. They hole-punch into direct WireGuard tunnels; when one NAT is made symmetric, traffic falls back to a relay. Diagnose with `wg show` + tcpdump.
+
+**Checkpoint:** Trace a packet from node A to node B in both the direct and relayed cases. Name every transformation.
+
+---
+
+## [Phase 17: Advanced Routing & Data-Center Fabrics](lessons/phase-17-advanced-routing.html)
+
+### [Lesson 58: Large-scale BGP — route reflectors, communities, policy](lessons/lesson-58-bgp-scale.html)
+
+**Goal:** Run BGP at data-center/provider scale.
+
+**Topics:**
+- The iBGP full-mesh scaling problem → route reflectors
+- BGP communities for tagging and policy
+- route-maps / prefix-lists; ECMP; confederations (briefly)
+
+**Lab:** Multi-router BGP with a route reflector in FRR.
+
+**Checkpoint:** Why does a route reflector exist, and what scaling problem does it solve?
+
+---
+
+### [Lesson 59: BGP EVPN & VXLAN fabrics](lessons/lesson-59-evpn.html)
+
+**Goal:** Replace flood-and-learn overlays with a BGP control plane.
+
+**Topics:**
+- Control-plane MAC learning vs the flood-and-learn VXLAN of Lesson 15
+- EVPN route types (MAC/IP, IMET); VTEP auto-discovery
+- The leaf-spine fabric model; integration with FRR's `bgpd`
+
+**Checkpoint:** How does EVPN replace VXLAN's data-plane MAC flooding, and why is that better at scale?
+
+---
+
+### [Lesson 60: Segment Routing & SRv6](lessons/lesson-60-srv6.html)
+
+**Goal:** Push path decisions to the source and remove state from the core.
+
+**Topics:**
+- Source routing reborn; SR-MPLS vs SRv6
+- The segment list / SID
+- `seg6` in the Linux kernel (`ip -6 route ... encap seg6`)
+- Traffic-engineering use cases
+
+**Checkpoint:** How does segment routing move path decisions to the source, and what state does it remove from the core?
+
+---
+
+### [Lesson 61: Anycast](lessons/lesson-61-anycast.html)
+
+**Goal:** Serve one address from many locations.
+
+**Topics:**
+- One address, many origins; BGP/IGP-based anycast
+- How DNS roots and CDNs use it
+- Health-checked withdrawal; failure semantics (no per-flow guarantees)
+
+**Checkpoint:** Why is anycast great for stateless services but risky for long-lived stateful connections?
+
+---
+
+## [Phase 18: High-Performance Networking](lessons/phase-18-performance.html)
+
+### [Lesson 62: TCP internals — congestion control & flow dynamics](lessons/lesson-62-tcp-internals.html)
+
+**Goal:** Understand what governs a TCP connection's throughput.
+
+**Topics:**
+- Sliding window & window scaling
+- Slow start / congestion avoidance; CUBIC vs **BBR**
+- Bufferbloat; pacing
+- Reading `ss -ti` (cwnd, RTT, retransmits)
+
+**Checkpoint:** What problem does BBR solve that loss-based congestion control (CUBIC) does not?
+
+---
+
+### [Lesson 63: NIC offloads & multiqueue scaling](lessons/lesson-63-nic-offloads.html)
+
+**Goal:** Scale packet processing across CPU cores and the NIC.
+
+**Topics:**
+- GRO/GSO/TSO/checksum offloads (`ethtool -k`)
+- RSS / RPS / XPS
+- IRQ affinity & NAPI; ring buffers
+- Why a single CPU caps throughput
+
+**Checkpoint:** How do RSS and RPS spread packet processing across cores, and how do they differ?
+
+---
+
+### [Lesson 64: Kernel bypass — AF_XDP & DPDK](lessons/lesson-64-kernel-bypass.html)
+
+**Goal:** Move packets without the kernel network stack.
+
+**Topics:**
+- Why bypass the stack; AF_XDP sockets and zero-copy
+- XDP redirect into userspace (ties to Phase 11)
+- DPDK poll-mode drivers and hugepages
+- Trade-offs vs in-kernel processing
+
+**Checkpoint:** What does kernel bypass buy you, and what do you give up?
+
+---
+
+### [Lesson 65: Multipath TCP (MPTCP)](lessons/lesson-65-mptcp.html)
+
+**Goal:** Run one TCP connection across multiple paths.
+
+**Topics:**
+- Subflows; the Linux MPTCP implementation (`mptcpize`, `ip mptcp`)
+- Failover vs aggregation
+- Relevance to mobility/roaming
+
+**Checkpoint:** How does MPTCP keep a connection alive when one underlying path disappears?
+
+---
+
+## [Phase 19: Network Services — DNS, Load Balancing & HA](lessons/phase-19-services.html)
+
+### [Lesson 66: DNS deep dive](lessons/lesson-66-dns.html)
+
+**Goal:** Understand name resolution end to end.
+
+**Topics:**
+- Recursive vs authoritative; the resolution walk
+- `systemd-resolved`; `/etc/resolv.conf` & nsswitch
+- Split DNS / per-domain routing; DoT/DoH; caching & TTLs (extends Lesson 24)
+
+**Checkpoint:** Trace a full recursive resolution from stub resolver to authoritative answer.
+
+---
+
+### [Lesson 67: Layer-4 load balancing — IPVS/LVS](lessons/lesson-67-ipvs.html)
+
+**Goal:** Distribute connections across backends in the kernel.
+
+**Topics:**
+- `ipvsadm`; scheduling algorithms (rr, wrr, lc)
+- DR vs NAT vs tunnel modes
+- Connection persistence; why kube-proxy IPVS mode uses this (ties to Lesson 43)
+
+**Checkpoint:** Why does Direct Routing mode scale better than NAT mode for return traffic?
+
+---
+
+### [Lesson 68: High availability — VRRP & keepalived](lessons/lesson-68-vrrp-keepalived.html)
+
+**Goal:** Make a service IP survive a node failure.
+
+**Topics:**
+- Virtual IP failover; VRRP master/backup election
+- `keepalived` config; health checks
+- Gratuitous ARP on failover (callback to Lesson 5); split-brain risks
+
+**Checkpoint:** What does VRRP send on failover so traffic redirects to the new master, and why?
+
+---
+
+## [Phase 20: Modern Transport & Observability](lessons/phase-20-modern-transport.html)
+
+### [Lesson 69: QUIC & HTTP/3](lessons/lesson-69-quic.html)
+
+**Goal:** Understand the transport replacing TCP for the web.
+
+**Topics:**
+- Connection-oriented over UDP (callback to Lesson 23)
+- Built-in TLS 1.3; stream multiplexing without head-of-line blocking
+- Connection migration; why it's hard to inspect
+
+**Checkpoint:** Why does QUIC run over UDP instead of being a new protocol next to TCP?
+
+---
+
+### [Lesson 70: TLS at the packet level](lessons/lesson-70-tls.html)
+
+**Goal:** Read and reason about a TLS connection on the wire.
+
+**Topics:**
+- Handshake walkthrough; SNI (and ESNI/ECH)
+- What's encrypted vs visible on the wire
+- Cert validation; reading a TLS handshake in tcpdump/tshark
+
+**Checkpoint:** What can a passive observer still learn about a TLS connection despite encryption?
+
+**Cross-reference:** This lesson stays at the wire/observability level (what's on the packet, SNI visibility). The TLS *protocol* internals — handshake mechanics, cipher negotiation, key exchange — are covered in depth in the **Security & Identity** track, Phase 3 (TLS & SSL).
+
+---
+
+### [Lesson 71: Multicast & IGMP](lessons/lesson-71-multicast.html)
+
+**Goal:** Deliver one stream to many receivers efficiently.
+
+**Topics:**
+- Group addressing; IGMP join/leave
+- Multicast routing basics; snooping on bridges
+- When multicast is used (and why it's rare on the public internet)
+
+**Checkpoint:** How does a switch know which ports to forward a multicast stream to?
+
+---
+
+### [Lesson 72: Time synchronization — NTP & PTP](lessons/lesson-72-time-sync.html)
+
+**Goal:** Keep clocks aligned and know when precision matters.
+
+**Topics:**
+- Why clocks drift and why it matters (logs, TLS, distributed systems)
+- NTP hierarchy/strata; `chrony`
+- PTP (hardware timestamping) for sub-microsecond sync
+
+**Checkpoint:** When is NTP insufficient and PTP required?
+
+---
+
+### [Lesson 73: Network observability & telemetry](lessons/lesson-73-observability.html)
+
+**Goal:** Build a systematic view of a running network.
+
+**Topics:**
+- `/proc/net` and `ss` deep dive
+- Flow telemetry (NetFlow/IPFIX/sFlow)
+- Interface & qdisc stats; exporting metrics (node_exporter)
+- Correlating drops across the stack
+
+**Checkpoint:** Given "intermittent slowness," which counters do you check first and why?
+
+---
+
 ## Recommended Learning Order
 
 Do not skip ahead. Each step depends on the previous ones.
@@ -909,3 +1284,15 @@ Do not skip ahead. Each step depends on the previous ones.
 31. Docker networking reconstruction
 32. Kubernetes networking + CNI
 33. Full troubleshooting methodology
+34. Tunneling fundamentals (GRE, IPIP, FOU)
+35. VPN cryptography building blocks
+36. IPsec & the xfrm framework
+37. WireGuard — fundamentals and internals
+38. NAT traversal and relays
+39. Mesh VPNs & coordination planes
+40. Advanced BGP — route reflectors, EVPN
+41. Segment routing (SRv6) and anycast
+42. TCP internals & high-performance tuning (offloads, scaling)
+43. Kernel bypass (AF_XDP/DPDK) and MPTCP
+44. DNS deep dive, load balancing (IPVS), HA (VRRP)
+45. QUIC/HTTP3, TLS, multicast, time sync, observability

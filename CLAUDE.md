@@ -1,8 +1,9 @@
 # CLAUDE.md — Linux Systems Learning Project
 
-This repo hosts **two independent learning tracks** on one Just the Docs site:
+This repo hosts **three independent learning tracks** on one Just the Docs site:
 - **Networking** — in the `_networking/` collection
 - **Virtualization (QEMU/KVM)** — in the `_virtualization/` collection
+- **Security & Identity** — in the `_security/` collection
 
 ## Student Profile
 - Experience level: very limited (beginner)
@@ -10,18 +11,21 @@ This repo hosts **two independent learning tracks** on one Just the Docs site:
 - Use the Linux VM for labs (WSL2 as fallback for early lessons)
 
 ## Repository Structure
-The site is split into two Jekyll collections, each its own nav section:
+The site is split into three Jekyll collections, each its own nav section:
 ```
 index.md                         # landing page / track chooser (nav_order 1, site root)
-_config.yml                      # defines both collections (see Site Theme)
+_config.yml                      # defines all collections (see Site Theme)
 _networking/
   learning-plan.md               # networking curriculum
   lessons/                       # phase-NN-*.md parents + lesson-NN-*.md
 _virtualization/
   learning-plan.md               # virtualization curriculum
-  lessons/                       # (created as virtualization lessons are written)
+  lessons/                       # phase-NN-*.md parents + lesson-NN-*.md
+_security/
+  learning-plan.md               # security & identity curriculum
+  lessons/                       # phase-NN-*.md parents + lesson-NN-*.md
 ```
-- `<track>` below means `networking` or `virtualization`.
+- `<track>` below means `networking`, `virtualization`, or `security`.
 - A page's URL is `/<track>/lessons/<file>.html` (collection permalink keeps the
   `lessons/` path so relative `(lesson-NN-...)` links between phase and lesson
   pages resolve).
@@ -37,9 +41,9 @@ For each lesson:
 
 ## Site Theme
 - Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
-- Config: `_config.yml` — defines the `networking` and `virtualization` collections
-  and their nav names under `just_the_docs.collections`. Do not change the theme or
-  collection setup without updating this file.
+- Config: `_config.yml` — defines the `networking`, `virtualization`, and `security`
+  collections and their nav names under `just_the_docs.collections`. Do not change the
+  theme or collection setup without updating this file.
 - Phase parent pages live in `_<track>/lessons/phase-NN-name.md` with `has_children: true`
 - Lesson files live in `_<track>/lessons/lesson-NN-topic.md` with `parent: "Phase N: Name"`
 - `parent`/`nav_order`/`has_children` nest pages **within their own collection** — a
@@ -91,6 +95,7 @@ When the student asks a question about a term or concept from a lesson:
 Each track has its own plan; **always consult the relevant one before creating a new lesson** — it specifies the topic, goals, and key commands for every lesson and phase. Never invent a lesson topic; follow the plan in order.
 - Networking: `_networking/learning-plan.md`
 - Virtualization: `_virtualization/learning-plan.md`
+- Security & Identity: `_security/learning-plan.md`
 
 ## Networking Lesson Index
 - Lesson 01: `_networking/lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
@@ -140,8 +145,34 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Lesson 45: `_networking/lessons/lesson-45-tcpdump-mastery.md` — tcpdump mastery ✓
 - Lesson 46: `_networking/lessons/lesson-46-diagnostic-toolchain.md` — Full diagnostic toolchain ✓
 - Lesson 47: `_networking/lessons/lesson-47-debugging-methodology.md` — Network debugging methodology ✓
+- Lesson 48: `_networking/lessons/lesson-48-tunneling-fundamentals.md` — Tunneling fundamentals (GRE/IPIP/SIT/FOU)
+- Lesson 49: `_networking/lessons/lesson-49-vpn-crypto.md` — VPN cryptography building blocks
+- Lesson 50: `_networking/lessons/lesson-50-ipsec-xfrm.md` — IPsec & the xfrm framework
+- Lesson 51: `_networking/lessons/lesson-51-wireguard-fundamentals.md` — WireGuard fundamentals
+- Lesson 52: `_networking/lessons/lesson-52-wireguard-internals.md` — WireGuard internals & userspace
+- Lesson 53: `_networking/lessons/lesson-53-nat-traversal.md` — NAT traversal (STUN/ICE/hole punching)
+- Lesson 54: `_networking/lessons/lesson-54-relays.md` — Relays and fallback paths
+- Lesson 55: `_networking/lessons/lesson-55-mesh-vpns.md` — Mesh VPNs & coordination planes
+- Lesson 56: `_networking/lessons/lesson-56-tls-vpns.md` — TLS-based VPNs (OpenVPN)
+- Lesson 57: `_networking/lessons/lesson-57-vpn-capstone.md` — Capstone: encrypted mesh across NAT
+- Lesson 58: `_networking/lessons/lesson-58-bgp-scale.md` — Large-scale BGP (route reflectors)
+- Lesson 59: `_networking/lessons/lesson-59-evpn.md` — BGP EVPN & VXLAN fabrics
+- Lesson 60: `_networking/lessons/lesson-60-srv6.md` — Segment Routing & SRv6
+- Lesson 61: `_networking/lessons/lesson-61-anycast.md` — Anycast
+- Lesson 62: `_networking/lessons/lesson-62-tcp-internals.md` — TCP internals & congestion control
+- Lesson 63: `_networking/lessons/lesson-63-nic-offloads.md` — NIC offloads & multiqueue scaling
+- Lesson 64: `_networking/lessons/lesson-64-kernel-bypass.md` — Kernel bypass (AF_XDP/DPDK)
+- Lesson 65: `_networking/lessons/lesson-65-mptcp.md` — Multipath TCP (MPTCP)
+- Lesson 66: `_networking/lessons/lesson-66-dns.md` — DNS deep dive
+- Lesson 67: `_networking/lessons/lesson-67-ipvs.md` — Layer-4 load balancing (IPVS/LVS)
+- Lesson 68: `_networking/lessons/lesson-68-vrrp-keepalived.md` — High availability (VRRP/keepalived)
+- Lesson 69: `_networking/lessons/lesson-69-quic.md` — QUIC & HTTP/3
+- Lesson 70: `_networking/lessons/lesson-70-tls.md` — TLS at the packet level
+- Lesson 71: `_networking/lessons/lesson-71-multicast.md` — Multicast & IGMP
+- Lesson 72: `_networking/lessons/lesson-72-time-sync.md` — Time synchronization (NTP/PTP)
+- Lesson 73: `_networking/lessons/lesson-73-observability.md` — Network observability & telemetry
 
-*(Networking track complete — update this index if lessons change)*
+*(Lessons 01–47 written ✓; Phases 16–20 / lessons 48–73 added to the plan and being written. Mark each ✓ as its file lands. Update this index if lessons change.)*
 
 ## Virtualization Lesson Index
 Phase parent pages live at `_virtualization/lessons/phase-NN-name.md`.
@@ -208,3 +239,19 @@ Phase parent pages live at `_virtualization/lessons/phase-NN-name.md`.
 - Lesson 61: `_virtualization/lessons/lesson-61-platforms-next.md` — Management platforms & where to go next ✓
 
 *(Virtualization track complete — update this index if lessons change)*
+
+## Security & Identity Lesson Index
+Phase parent pages live at `_security/lessons/phase-NN-name.md`. Lesson numbering is
+per-track (01–40). Mark each ✓ as its file lands.
+- Phase 1 — Cryptography Foundations: lessons 01 symmetric-aead, 02 hashing-macs, 03 asymmetric-dh, 04 signatures, 05 randomness
+- Phase 2 — PKI & Certificates: 06 x509, 07 ca-trust, 08 csr-openssl, 09 validation, 10 revocation, 11 ct, 12 private-ca, 13 acme
+- Phase 3 — TLS & SSL: 14 tls-history, 15 tls12-handshake, 16 tls13-handshake, 17 cipher-suites, 18 mtls, 19 sni-alpn-resumption, 20 tls-hardening, 21 tls-attacks
+- Phase 4 — Authentication Fundamentals: 22 authn-authz, 23 sessions-tokens, 24 passwords, 25 mfa, 26 webauthn, 27 kerberos
+- Phase 5 — Federated Identity & Authorization: 28 oauth2, 29 oauth-flows, 30 oidc, 31 jwt, 32 saml, 33 sso, 34 idp-keycloak
+- Phase 6 — Applied Security & Identity: 35 workload-identity, 36 secrets, 37 api-auth, 38 zero-trust, 39 token-lifecycle, 40 threat-modeling
+
+File paths follow `_security/lessons/lesson-NN-<slug>.md`. Cross-links to networking:
+the security TLS phase ↔ networking Lesson 70 (TLS on the wire); security crypto phase ↔
+networking Lesson 49 (VPN crypto primer); security zero-trust ↔ networking Phase 16 (mesh VPNs).
+
+*(Security track scaffolded; lessons being written.)*

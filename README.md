@@ -5,7 +5,7 @@ A hands-on, bottom-up journal for learning Linux systems internals, published as
 
 **https://moeinsoltani.github.io/learning-garden/**
 
-It hosts **two independent learning tracks**, each a phased curriculum of
+It hosts **three independent learning tracks**, each a phased curriculum of
 self-contained lessons. Every lesson follows the same shape: a mental model, the
 mechanics ("why"), a lab with exact commands and expected output, and checkpoint
 questions with hidden model answers.
@@ -14,8 +14,9 @@ questions with hidden model answers.
 
 ### 🌐 Linux Networking
 Network namespaces, virtual interfaces, bridges & VLANs, overlays, routing, NAT,
-firewalling with nftables, traffic control, eBPF/XDP, and container/Kubernetes
-networking. **47 lessons.**
+firewalling with nftables, traffic control, eBPF/XDP, container/Kubernetes
+networking, tunnels & VPNs, advanced routing fabrics, high-performance
+networking, and modern transport. **73 lessons.**
 
 → [`_networking/learning-plan.md`](_networking/learning-plan.md)
 
@@ -25,6 +26,13 @@ virtio, device passthrough (VFIO), libvirt, cloud images, live migration,
 performance, security, and microVMs. **61 lessons.**
 
 → [`_virtualization/learning-plan.md`](_virtualization/learning-plan.md)
+
+### 🔐 Security & Identity
+Cryptography foundations, X.509 certificates & PKI, TLS/SSL, authentication
+(passwords, MFA, passkeys, Kerberos), and federated identity & authorization
+(OAuth 2.0, OIDC, SAML, JWT, SSO, and identity providers). **40 lessons.**
+
+→ [`_security/learning-plan.md`](_security/learning-plan.md)
 
 ## Repository layout
 
@@ -36,6 +44,9 @@ _networking/
   lessons/                # phase-NN-*.md parents + lesson-NN-*.md
 _virtualization/
   learning-plan.md        # virtualization curriculum
+  lessons/                # phase-NN-*.md parents + lesson-NN-*.md
+_security/
+  learning-plan.md        # security & identity curriculum
   lessons/                # phase-NN-*.md parents + lesson-NN-*.md
 CLAUDE.md                 # authoring conventions for the lessons
 ```
