@@ -155,10 +155,10 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Lesson 55: `_networking/lessons/lesson-55-mesh-vpns.md` — Mesh VPNs & coordination planes ✓
 - Lesson 56: `_networking/lessons/lesson-56-tls-vpns.md` — TLS-based VPNs (OpenVPN) ✓
 - Lesson 57: `_networking/lessons/lesson-57-vpn-capstone.md` — Capstone: encrypted mesh across NAT ✓
-- Lesson 58: `_networking/lessons/lesson-58-bgp-scale.md` — Large-scale BGP (route reflectors)
-- Lesson 59: `_networking/lessons/lesson-59-evpn.md` — BGP EVPN & VXLAN fabrics
-- Lesson 60: `_networking/lessons/lesson-60-srv6.md` — Segment Routing & SRv6
-- Lesson 61: `_networking/lessons/lesson-61-anycast.md` — Anycast
+- Lesson 58: `_networking/lessons/lesson-58-bgp-scale.md` — Large-scale BGP (route reflectors) ✓
+- Lesson 59: `_networking/lessons/lesson-59-evpn.md` — BGP EVPN & VXLAN fabrics ✓
+- Lesson 60: `_networking/lessons/lesson-60-srv6.md` — Segment Routing & SRv6 ✓
+- Lesson 61: `_networking/lessons/lesson-61-anycast.md` — Anycast ✓
 - Lesson 62: `_networking/lessons/lesson-62-tcp-internals.md` — TCP internals & congestion control
 - Lesson 63: `_networking/lessons/lesson-63-nic-offloads.md` — NIC offloads & multiqueue scaling
 - Lesson 64: `_networking/lessons/lesson-64-kernel-bypass.md` — Kernel bypass (AF_XDP/DPDK)

@@ -13,7 +13,7 @@ decisions to the source, and anycast serves one address from many places. Builds
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 58 | [Large-scale BGP — route reflectors, communities, policy](lesson-58-bgp-scale) | Planned |
-| 59 | [BGP EVPN & VXLAN fabrics](lesson-59-evpn) | Planned |
-| 60 | [Segment Routing & SRv6](lesson-60-srv6) | Planned |
-| 61 | [Anycast](lesson-61-anycast) | Planned |
+| 58 | [Large-scale BGP — route reflectors, communities, policy](lesson-58-bgp-scale) | Ready |
+| 59 | [BGP EVPN & VXLAN fabrics](lesson-59-evpn) | Ready |
+| 60 | [Segment Routing & SRv6](lesson-60-srv6) | Ready |
+| 61 | [Anycast](lesson-61-anycast) | Ready |
