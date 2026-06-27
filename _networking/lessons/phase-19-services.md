@@ -12,6 +12,6 @@ Layer-4 load balancing, and keeping a service IP alive across node failure. Buil
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 66 | [DNS deep dive](lesson-66-dns) | Planned |
-| 67 | [Layer-4 load balancing — IPVS/LVS](lesson-67-ipvs) | Planned |
-| 68 | [High availability — VRRP & keepalived](lesson-68-vrrp-keepalived) | Planned |
+| 66 | [DNS deep dive](lesson-66-dns) | Ready |
+| 67 | [Layer-4 load balancing — IPVS/LVS](lesson-67-ipvs) | Ready |
+| 68 | [High availability — VRRP & keepalived](lesson-68-vrrp-keepalived) | Ready |

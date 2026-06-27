@@ -163,9 +163,9 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Lesson 63: `_networking/lessons/lesson-63-nic-offloads.md` — NIC offloads & multiqueue scaling ✓
 - Lesson 64: `_networking/lessons/lesson-64-kernel-bypass.md` — Kernel bypass (AF_XDP/DPDK) ✓
 - Lesson 65: `_networking/lessons/lesson-65-mptcp.md` — Multipath TCP (MPTCP) ✓
-- Lesson 66: `_networking/lessons/lesson-66-dns.md` — DNS deep dive
-- Lesson 67: `_networking/lessons/lesson-67-ipvs.md` — Layer-4 load balancing (IPVS/LVS)
-- Lesson 68: `_networking/lessons/lesson-68-vrrp-keepalived.md` — High availability (VRRP/keepalived)
+- Lesson 66: `_networking/lessons/lesson-66-dns.md` — DNS deep dive ✓
+- Lesson 67: `_networking/lessons/lesson-67-ipvs.md` — Layer-4 load balancing (IPVS/LVS) ✓
+- Lesson 68: `_networking/lessons/lesson-68-vrrp-keepalived.md` — High availability (VRRP/keepalived) ✓
 - Lesson 69: `_networking/lessons/lesson-69-quic.md` — QUIC & HTTP/3
 - Lesson 70: `_networking/lessons/lesson-70-tls.md` — TLS at the packet level
 - Lesson 71: `_networking/lessons/lesson-71-multicast.md` — Multicast & IGMP
