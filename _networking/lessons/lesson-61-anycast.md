@@ -207,3 +207,9 @@ stateless (or per-request), absorbing routing churn gracefully, and only then ha
 unicast-addressed backends (or shared state) for anything long-lived — so a reconvergence never kills a
 user's session.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 62 — TCP Internals & Congestion Control →](lesson-62-tcp-internals){: .btn .btn-primary }

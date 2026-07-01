@@ -214,3 +214,9 @@ Create a checkpoint-anchored full backup of a running VM, then write some data i
 <br>
 The full backup copies the entire disk and takes proportionally long; after writing a small amount of new data, the incremental backup (referencing the checkpoint) is much smaller and faster because it transfers only the blocks dirtied since the checkpoint. The dirty bitmap is what made this possible: it recorded exactly which blocks changed after the checkpoint, so the backup tool copied only those rather than re-scanning/re-copying the whole disk. Neither is a substitute for replication for HA, because backups are point-in-time copies that require a restore (downtime + data loss back to the last backup), whereas replication continuously mirrors state to another host so a standby can take over near-instantly on failure.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 48 — Live Migration Mechanics →](lesson-48-migration-mechanics){: .btn .btn-primary }

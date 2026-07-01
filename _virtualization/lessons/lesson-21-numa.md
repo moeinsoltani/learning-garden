@@ -203,3 +203,9 @@ Run `numactl -H` on your host. If it reports more than one node, launch a guest 
 <br>
 On a multi-node host, the numactl-confined guest's numastat shows essentially all its Private memory on Node 0 and ~0 on other nodes — proof it's local. On a single-node host, numactl -H reports "1 nodes (0)" and all memory is equidistant, so NUMA tuning is a no-op: there's no remote memory to avoid and pinning to "node 0" is trivially satisfied. NUMA becomes relevant on multi-socket servers (or some large single-socket chips with multiple internal memory domains), where adding a second populated CPU socket creates a second node and thus the local-vs-remote distinction worth tuning for.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 22 — Disk Image Formats and qemu-img →](lesson-22-image-formats-qemu-img){: .btn .btn-primary }

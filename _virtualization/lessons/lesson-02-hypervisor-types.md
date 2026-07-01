@@ -189,3 +189,9 @@ On your host, run `systemd-detect-virt` (it reports if the machine is itself a V
 <br>
 If your host is itself a VM, you need <strong>nested virtualization</strong> enabled on the outer hypervisor so that the CPU's virtualization extensions (vmx/svm) are exposed to your VM. Without that, /dev/kvm won't be usable inside the VM and QEMU falls back to slow TCG emulation. Nested virtualization is covered in Lesson 55.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 03 — The QEMU + KVM Division of Labor →](lesson-03-qemu-kvm-division){: .btn .btn-primary }

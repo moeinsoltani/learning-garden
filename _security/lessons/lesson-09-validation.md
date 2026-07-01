@@ -173,3 +173,9 @@ It converts "verified, authenticated TLS" into "encrypted to whoever answered," 
 than plaintext against an active attacker. The right fix is to install the proper cert/chain or trust the
 correct CA, never to switch off verification.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 10 — Revocation: CRL, OCSP, Stapling →](lesson-10-revocation){: .btn .btn-primary }

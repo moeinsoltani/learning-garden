@@ -169,3 +169,9 @@ afterward — including the certificate that revealed the server's identity in 1
 wire. Both gains come from the same restructuring (send key share early, derive keys sooner) plus removing
 legacy options; with ECH layered on, even the SNI is hidden, completing the privacy improvement.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 17 — Cipher Suites & Forward Secrecy →](lesson-17-cipher-suites){: .btn .btn-primary }

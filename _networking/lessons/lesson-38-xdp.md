@@ -232,3 +232,9 @@ You'd add a second map (e.g. a `PERCPU_HASH` keyed by source IP, value = drop co
 
 A production DDoS scrubber is built this way because the three concerns have very different change rates and constraints: (1) the **fast path** — parse + lookup + verdict — must be tiny, verified, and JIT-compiled so it runs at line rate per core; you don't want to touch it often. (2) The **policy** (which IPs to drop) changes constantly as attacks shift, so it lives in a **map** that the control plane updates atomically per entry, taking effect on the next packet with zero downtime. (3) **Telemetry** (what got dropped, how much) also lives in **maps** (per-CPU for lock-free counting) that userspace samples on its own schedule without disturbing the dataplane. Separating fixed-fast-logic from frequently-changing-data from observe-on-read counters is what lets the system be simultaneously fast, dynamically reconfigurable, and observable — the same control-plane/dataplane split behind Cilium and Katran.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 39 — nftbpf: BPF in nftables →](lesson-39-nftbpf){: .btn .btn-primary }

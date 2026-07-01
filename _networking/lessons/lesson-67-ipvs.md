@@ -215,3 +215,9 @@ sysctls so only the director answers ARP for the VIP). Setting that up correctly
 fiddly and easy to get wrong, which is why the simple lab uses NAT mode — but the ARP-suppression
 requirement is exactly the operational subtlety that makes DR powerful yet tricky in production.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 68 — High Availability (VRRP & keepalived) →](lesson-68-vrrp-keepalived){: .btn .btn-primary }

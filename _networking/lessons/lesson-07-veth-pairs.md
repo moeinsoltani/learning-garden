@@ -238,3 +238,9 @@ The ping fails for two reasons that compound:
 
 To make it work, ns2 needs to act as a router: enable `sysctl net.ipv4.ip_forward=1`, and ns1/ns3 each need a route to the far subnet via ns2. That is exactly the routing-between-namespaces lab in Lesson 17. A veth cable provides connectivity; it does not provide routing.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 08 — Loopback Interface →](lesson-08-loopback){: .btn .btn-primary }

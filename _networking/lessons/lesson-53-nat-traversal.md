@@ -209,3 +209,9 @@ it), (2) <strong>fall back to a relay</strong> — both peers connect outbound t
 relay server that forwards their still-end-to-end-encrypted packets. This is exactly why the next
 lesson exists: a production mesh can never assume a direct path is achievable.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 54 — Relays and Fallback Paths →](lesson-54-relays){: .btn .btn-primary }

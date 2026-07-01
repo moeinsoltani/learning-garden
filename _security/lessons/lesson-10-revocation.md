@@ -172,3 +172,9 @@ revocation checks are skipped entirely. Stapling optimizes a fragile mechanism; 
 need for it — so for resilience at scale, automation + short lifetimes is the more robust strategy, ideally
 with both.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 11 — Certificate Transparency →](lesson-11-ct){: .btn .btn-primary }

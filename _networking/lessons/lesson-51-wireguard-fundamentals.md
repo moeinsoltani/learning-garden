@@ -216,3 +216,9 @@ encrypted WireGuard packets themselves don't get caught in that default route.) 
 a commercial "connect and route everything through us" VPN, or a Tailscale-style exit node, is
 constructed.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 52 — WireGuard Internals & Userspace Datapaths →](lesson-52-wireguard-internals){: .btn .btn-primary }

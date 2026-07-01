@@ -198,3 +198,9 @@ Run `virt-host-validate qemu` on your host and read every line. Pick one WARN or
 <br>
 Example: "Checking if IOMMU is enabled by kernel : WARN" verifies that the kernel was booted with the IOMMU active, which is required for safe VFIO device passthrough (Phase 9). The fix is to add <code>intel_iommu=on</code> (or <code>amd_iommu=on</code>) to GRUB_CMDLINE_LINUX_DEFAULT in /etc/default/grub, run <code>sudo update-grub</code>, and reboot. The check then passes because the IOMMU is now initialized at boot. (Other common ones: hardware virtualization FAIL → enable VT-x/AMD-V in BIOS; /dev/kvm not accessible → add your user to the kvm group.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 08 — The /dev/kvm ioctl API →](lesson-08-dev-kvm-ioctl){: .btn .btn-primary }

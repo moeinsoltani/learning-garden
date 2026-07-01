@@ -168,3 +168,9 @@ flagged vulnerable (Heartbleed). The common thread: each fix is either removing 
 keeping implementations current — both captured by "harden the config and keep software patched, then scan
 to confirm."
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 22 — Authentication vs Authorization →](lesson-22-authn-authz){: .btn .btn-primary }

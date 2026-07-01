@@ -190,3 +190,9 @@ Run an `iperf3` test from a guest to the host twice — once with `vhost=off` an
 <br>
 With vhost=off, throughput is lower and QEMU's threads consume significant CPU during the transfer, because the packet datapath runs in QEMU userspace — every batch returns to the QEMU process, which reads the ring and copies data. With vhost=on, throughput is higher and QEMU's own CPU usage during the transfer drops sharply; instead a kernel [vhost-<pid>] thread does the work. The relationship: QEMU CPU usage tracks how much of the datapath flows through the QEMU process. Moving the data plane into the kernel offloads it from QEMU (lower QEMU CPU) and removes userspace round-trips, yielding more throughput per CPU cycle.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 30 — vhost-user, vsock, and Shared-Memory Datapaths →](lesson-30-vhost-user-vsock){: .btn .btn-primary }

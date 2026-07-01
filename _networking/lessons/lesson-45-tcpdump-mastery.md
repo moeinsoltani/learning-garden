@@ -212,3 +212,9 @@ Then `ping 10.0.0.2` (the "internet" host) from the client.
 
 **The one packet that nailed it:** the WAN-side **echo request carrying source `192.168.100.10`**. A correctly NAT'd setup can never show a private source leaving the public interface; seeing it there localizes the fault to "SNAT/masquerade is not being applied on egress" — diagnosed entirely from packets, before ever looking at the ruleset.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 46 — Full Diagnostic Toolchain →](lesson-46-diagnostic-toolchain){: .btn .btn-primary }

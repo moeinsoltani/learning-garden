@@ -202,3 +202,9 @@ If your NIC supports SR-IOV, set `sriov_numvfs` to 2 and confirm the VFs appear 
 <br>
 (a) Live-migratable + host-managed → <strong>TAP + bridge</strong>. It's all software, so it migrates cleanly, and host↔guest works (unlike macvtap), at the cost of the software-bridge overhead — acceptable for a general-purpose, manageable, mobile VM. (b) Latency-critical, never migrates → <strong>SR-IOV VF</strong>. Assigning a VF gives near bare-metal throughput and minimal CPU/latency by bypassing host software, and since the VM won't migrate, SR-IOV's poor migration story doesn't matter. (macvtap sits between: lower overhead than a bridge and migratable, but the host-can't-reach-guest gotcha makes it a poorer fit when host management is required.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 35 — The IOMMU →](lesson-35-iommu){: .btn .btn-primary }

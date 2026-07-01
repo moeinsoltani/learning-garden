@@ -219,3 +219,9 @@ cwnd ≈ R × RTT
 
 That is, the amount of data "in flight" needed to keep the shaped pipe full equals the rate times the round-trip time. Concretely, at 30 Mbit (~3.75 MB/s) with an RTT of, say, 20ms (inflated by the shaper's queue), the BDP is about 3.75 MB/s × 0.02 s ≈ 75 KB — so cwnd should hover around ~75 KB worth of segments. If cwnd is *smaller* than the BDP, throughput falls short of the shaped rate (the pipe isn't kept full); if the sender tries to push cwnd much *larger*, the excess just piles up in the shaper's queue, inflating RTT further (and eventually causing drops that pull cwnd back down). So the shaped rate and the resulting RTT together pin where cwnd stabilizes — a concrete, observable instance of the `throughput = window / RTT` law you met with netem in Lesson 30. The measurement skill: read `cwnd`, `rtt`, and `retrans` from `ss -ti` to *explain* a throughput number rather than just observe it.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 34 — Network sysctl Tunables →](lesson-34-sysctl-tunables){: .btn .btn-primary }

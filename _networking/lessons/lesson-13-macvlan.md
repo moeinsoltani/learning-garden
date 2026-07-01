@@ -212,3 +212,9 @@ Set up three MACVLAN children on one parent in `bridge` mode (ns1, ns2, ns3). Co
 
 **Private mode:** none of the children can ping each other. In `private` mode the kernel refuses to shortcut between siblings, and it also drops frames that would come back from the switch addressed to another local MACVLAN. Each child can still reach the *external* network (a real gateway or host beyond the switch), but sibling-to-sibling traffic is blocked in both directions. The parent NIC still demultiplexes inbound frames by MAC and stamps outbound source MACs, but the switch can't help reflect traffic between siblings because `private` explicitly discards such reflected frames (that reflection behavior is what `vepa` mode would *enable*, using a VEPA-capable switch). So the difference is entirely about whether local siblings are allowed to reach each other: `bridge` yes, `private` no.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 14 — TAP Interfaces →](lesson-14-tap){: .btn .btn-primary }

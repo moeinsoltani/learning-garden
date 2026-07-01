@@ -177,3 +177,9 @@ guarantee can be broken, allowing forgeries). So nonce/IV uniqueness isn't cosme
 confidentiality and can completely break integrity. The rule "never reuse a nonce with the same key" is
 a hard cryptographic requirement, which is why protocols carefully derive or counter their nonces.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 2 — Hashing, MACs & Password Storage →](lesson-02-hashing-macs){: .btn .btn-primary }

@@ -172,3 +172,9 @@ to relay. The whole difference is <strong>origin binding</strong>: TOTP produces
 human can be tricked into handing over, while a passkey's response is cryptographically scoped to the
 legitimate site and never leaves the device in a relayable form.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 26 — WebAuthn, FIDO2 & Passkeys →](lesson-26-webauthn){: .btn .btn-primary }

@@ -202,3 +202,9 @@ Run `uname -r` inside (a) a runc container and (b) a Kata container, comparing b
 <br>
 runc's uname -r matches the host kernel (shared kernel, no isolation boundary below namespaces); Kata's uname -r shows a different kernel version (its own guest kernel inside a microVM), and ps aux shows a qemu/cloud-hypervisor/firecracker VMM process backing the Kata container — proof it's a real VM. On the spectrum from densest/weakest to strongest/heaviest: runc (shared kernel, max density, weakest isolation) → gVisor (userspace kernel intercepting syscalls, medium isolation, low-ish overhead, some compatibility limits) → Kata (container in a microVM with its own kernel + hardware VM boundary, strong isolation, more overhead) → full VM (strongest in-stack isolation, heaviest). For untrusted multi-tenant code I'd choose Kata (or gVisor if its compatibility/perf trade-offs fit), because the workload can't be trusted not to attempt a kernel/container escape, and Kata's hardware-virtualization boundary means an escape is contained to a throwaway guest kernel rather than the shared host kernel — far safer than runc — while still presenting a normal container/Kubernetes interface and far less overhead than a full VM per workload.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 61 — Management Platforms and Where to Go Next →](lesson-61-platforms-next){: .btn .btn-primary }

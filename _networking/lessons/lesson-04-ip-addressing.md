@@ -336,3 +336,9 @@ After deleting 10.0.0.1/24:
 
 Routes: the 10.0.0.0/24 connected route is gone (the addresses it was based on are gone). The 172.16.0.0/16 connected route remains (the address backing it is still there).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 05 — Neighbor Tables & ARP →](lesson-05-arp-neigh){: .btn .btn-primary }

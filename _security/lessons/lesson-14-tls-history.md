@@ -159,3 +159,9 @@ attack surface. Similarly, an enabled RC4 cipher invites known keystream-bias at
 removed. The general remediation theme: offer only modern versions and AEAD+ECDHE cipher suites, which is
 exactly what TLS 1.3 enforces by default.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 15 — The TLS 1.2 Handshake →](lesson-15-tls12-handshake){: .btn .btn-primary }

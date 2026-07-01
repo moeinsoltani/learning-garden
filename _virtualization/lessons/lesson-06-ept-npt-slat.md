@@ -186,3 +186,9 @@ VPID/ASID tag TLB entries with a per-VM identifier. Explain what would happen to
 <br>
 Without VPID/ASID, TLB entries aren't tagged by VM, so on every world switch the CPU couldn't tell guest translations apart from host (or other VMs'). To stay correct it would have to flush the entire TLB on each VM exit and entry. A workload with frequent guest↔host switches (heavy I/O causing many exits) would then suffer a cold TLB after every switch, forcing expensive page-table walks to refill it — a large, repeated penalty. Tagging lets entries from the guest, host, and other VMs coexist in the TLB across switches, so no flush is needed and translations survive the round trip.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 07 — Checking and Enabling Virtualization on the Host →](lesson-07-host-readiness){: .btn .btn-primary }

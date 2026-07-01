@@ -222,3 +222,9 @@ Set up the forwarding router with a flowtable. Run a sustained transfer and conf
 
 The practical lesson: if you need to shape, delay, count, or otherwise police a flow per-packet, **don't offload it** (exclude it from the `flow add @f` rule). Offload and per-packet traffic control are mutually exclusive for a given flow, because they live on opposite sides of the fast-path/slow-path split. (Exact behavior can vary by kernel version and whether software or hardware offload is in use, but the principle — fast path skips the qdisc — holds.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 29 — Traffic Control Model →](lesson-29-tc-model){: .btn .btn-primary }

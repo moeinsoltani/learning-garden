@@ -211,3 +211,9 @@ Expose a QMP socket on a running VM and use `qmp-shell` (or raw JSON over `socat
 <br>
 (a) query-cpus-fast returns an array where each entry has a "thread-id" field — vCPU 0's host thread ID is that value for cpu-index 0. (b) query-block returns each device with an "inserted" object whose "file" (and "image"/"backing-image") fields give the backing file path. A backup tool prefers QMP because the JSON is a stable, versioned, machine-parseable contract with explicit fields — it can reliably extract the file path and node names, discover capabilities, and not break when QEMU changes the human-readable HMP formatting. Scraping HMP text is fragile and version-dependent.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 16 — Display, Console, and Remote Access →](lesson-16-display-console){: .btn .btn-primary }

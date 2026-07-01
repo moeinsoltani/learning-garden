@@ -232,3 +232,9 @@ Key things you should observe:
 
 The overall lesson: vtysh shows FRR's full routing knowledge (the RIB, including alternatives and selection markers), while `ip route show` shows only the forwarding outcome (the FIB) that zebra actually programmed into the kernel.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 20 — OSPF with FRR →](lesson-20-ospf){: .btn .btn-primary }

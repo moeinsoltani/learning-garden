@@ -209,3 +209,9 @@ values that rotate and are never written down, a future compromise of the PSK/ce
 previously captured traffic — impossible with the static manual keys, which would decrypt
 everything ever sent if leaked.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 51 — WireGuard Fundamentals →](lesson-51-wireguard-fundamentals){: .btn .btn-primary }

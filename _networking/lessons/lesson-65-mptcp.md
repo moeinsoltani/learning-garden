@@ -209,3 +209,9 @@ shared bottleneck (so two MPTCP subflows over one link don't beat a single compe
 short: maximize useful aggregate throughput, avoid head-of-line stalls from a slow path, and stay fair
 to other traffic.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 66 — DNS Deep Dive →](lesson-66-dns){: .btn .btn-primary }

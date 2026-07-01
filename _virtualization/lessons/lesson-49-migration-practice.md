@@ -218,3 +218,9 @@ Set up two libvirt endpoints (two hosts, or `qemu:///system` and a remote `qemu+
 <br>
 With shared storage and a compatible CPU, the migration completes with only milliseconds of downtime and the guest's uptime is continuous (it never rebooted) — confirming a true live move. (a) If the disk were on local-only storage, the destination couldn't access the guest's disk, so plain --live migration would fail/refuse; you'd have to add --copy-storage-all to ship the disk during migration. (b) If the VM used host-passthrough and the destination CPU were an older generation lacking some feature the guest acquired (e.g. a newer instruction set), the migration would be refused because the destination CPU can't provide every feature the running guest depends on — the fix is to run the VM on a common baseline CPU model both hosts support (Lesson 17) rather than host-passthrough.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 50 — CPU Pinning and Thread Placement →](lesson-50-cpu-pinning){: .btn .btn-primary }

@@ -192,3 +192,9 @@ Explain in a short paragraph why paravirtualization (modifying the guest to use 
 <br>
 Paravirtualization is faster because the guest cooperatively calls the hypervisor exactly where needed (explicit hypercalls), avoiding the cost of scanning and rewriting code and avoiding traps on instructions that don't matter — but it requires a modified guest kernel. Binary translation runs unmodified guests but pays runtime overhead to detect and rewrite dangerous instructions. Hardware virtualization (VT-x/AMD-V) adds a brand-new CPU mode that gives the guest a genuine, safe ring 0 with automatic, low-overhead VM exits on the operations the hypervisor must see — so it runs unmodified guests AND avoids both software techniques' overhead.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 05 — Hardware Virtualization Extensions (VT-x / AMD-V) →](lesson-05-vtx-amdv){: .btn .btn-primary }

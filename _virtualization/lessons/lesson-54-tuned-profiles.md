@@ -218,3 +218,9 @@ On a host, run `tuned-adm active` and `tuned-adm recommend`, then apply `virtual
 <br>
 Before applying, tuned-adm active likely shows "balanced"; tuned-adm recommend suggests virtual-host on a hypervisor. After <code>tuned-adm profile virtual-host</code>, the CPU governor switches to performance and vm.dirty_ratio/background ratios change to VM-friendly values; inside the guest, virtual-guest sets guest-appropriate defaults. A reasonable override: create /etc/tuned/myhost inheriting virtual-host with transparent_hugepages=never. This is appropriate if your guests are backed by *explicit* hugepages (Lesson 51): you don't want the kernel spending effort on transparent hugepage merging/khugepaged for memory that's already reserved as explicit hugepages — THP would add jitter and wouldn't apply to hugetlbfs-backed guest memory anyway. The child profile keeps all of virtual-host's good throughput defaults while disabling just the one knob that conflicts with your explicit-hugepage strategy.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 55 — Nested Virtualization →](lesson-55-nested-virt){: .btn .btn-primary }

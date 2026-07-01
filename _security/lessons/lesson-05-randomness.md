@@ -169,3 +169,9 @@ its entropy</strong>, plus, for the PS3 case, <strong>never reuse a nonce</stron
 nonces as Ed25519 does). The unifying point: the cipher math was fine; the randomness wasn't — which is
 why entropy and nonce handling are treated as first-class security concerns.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 6 — X.509 Certificates Anatomy →](lesson-06-x509){: .btn .btn-primary }

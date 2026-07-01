@@ -224,3 +224,9 @@ ip route del 10.244.3.0/24 dev flannel.1
 
 **Why watch-and-reconcile beats flood-and-learn at scale:** A multicast/flood-and-learn VXLAN discovers remote MACs by **broadcasting unknown-destination frames to a multicast group** and learning replies — which means (1) it depends on the underlay supporting **multicast** (many clouds don't), and (2) every node receives flooded traffic for unknown destinations and BUM (broadcast/unknown-unicast/multicast) frames, generating overhead that grows with cluster size and churn. The **controller-populated unicast** model instead has each node learn the *exact* set of `{node IP, VTEP MAC, pod CIDR}` tuples from the **single source of truth (the API server)** and program **precise unicast** FDB/neigh/route entries — no flooding, no multicast dependency, and updates are **targeted** (one delta per node change) rather than discovered by broadcasting. For a large cluster with pods and nodes constantly coming and going, pushing exact deltas from a central registry is far less traffic and far more predictable than flooding the fabric to relearn state. It also fails more cleanly: entries reflect declared cluster state, not whatever happened to be overheard.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 45 — tcpdump Mastery →](lesson-45-tcpdump-mastery){: .btn .btn-primary }

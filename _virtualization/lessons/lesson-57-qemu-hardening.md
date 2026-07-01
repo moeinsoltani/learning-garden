@@ -205,3 +205,9 @@ Launch a guest two ways: once with QEMU's default device set, and once with `-no
 <br>
 The default invocation attaches many devices (VGA, USB controller, possibly sound, floppy, extra serial/parallel ports, a default NIC) — visible as a long list in <code>info qtree</code>/<code>info pci</code>. The <code>-nodefaults</code> + explicit-devices VM shows only the handful you added (virtio-blk, one virtio-net, serial), a much shorter list. Both show Seccomp: 2 (the syscall filter is active regardless of device count). The trimmed VM is more secure because each removed emulated device was host-side code parsing untrusted guest input — a potential VM-escape vector — so fewer devices means fewer exploitable parsers reachable from the guest. It's also faster because fewer/simpler (virtio) devices cause fewer MMIO/PIO VM exits and less emulation work (Lesson 10). Minimizing the device model advances both goals at once.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 58 — Confidential Computing →](lesson-58-confidential-computing){: .btn .btn-primary }

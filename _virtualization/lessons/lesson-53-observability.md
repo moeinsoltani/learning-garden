@@ -192,3 +192,9 @@ Pick a VM and run one tool per layer (kvm_stat, virt-top + guest vmstat, numasta
 <br>
 Per-layer health numbers: kvm_stat → MMIO/PIO/userspace-exit rate (low = healthy; high = emulated-device overhead); guest vmstat → steal % (≈0 = healthy); numastat → fraction of guest memory on the local node (≈100% = healthy) and any swap; iostat → disk %util and await (well below 100%/low await = healthy); iperf3 → throughput vs link capacity. A concrete cross-layer scenario: a guest reports "slow disk" (high latency on reads), but the host is heavily CPU-overcommitted — the vCPU keeps getting descheduled, delaying I/O submission and completion handling. The revealing number is steal time in the guest's vmstat 'st' column (and many competing vCPU threads in host top): it's high, while iostat on the host shows the disk is actually under-utilized with low await. The fix is reducing CPU overcommit/pinning, not touching storage — which only checking the CPU-contention layer would have shown.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 54 — tuned and Host Profiles →](lesson-54-tuned-profiles){: .btn .btn-primary }

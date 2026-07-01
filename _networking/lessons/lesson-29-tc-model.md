@@ -217,3 +217,9 @@ On a real interface (or a veth pair carrying real traffic), inspect the default 
 
 The contrast captures the evolution of qdisc design: pfifo_fast optimizes for simplicity and priority ordering; fq_codel optimizes for fair, low-latency behavior under load, which is why it's the modern default. Both are *classless* — they apply one policy to all traffic — which sets up the need for *classful* HTB when you want per-category bandwidth control.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 30 — Classless qdiscs: Shaping & Emulation →](lesson-30-classless-qdisc){: .btn .btn-primary }

@@ -207,3 +207,9 @@ Enable KSM on your host and run two VMs booted from the *same* base image. After
 <br>
 Memory saved ≈ pages_sharing × 4 KiB (the count of pages that now point at a shared copy instead of holding their own). Two VMs from the same base image share large amounts because they have identical kernel/library/code pages and many identical zeroed pages, so KSM finds lots of duplicates to merge. Two VMs running *different* OSes have far fewer byte-identical pages — different kernels, libraries, and layouts — so KSM finds fewer matches and saves much less, while still paying the same scanning CPU cost. KSM pays off best when many similar guests run together.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 21 — NUMA Awareness →](lesson-21-numa){: .btn .btn-primary }

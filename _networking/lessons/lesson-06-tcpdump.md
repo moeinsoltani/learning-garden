@@ -294,3 +294,9 @@ A clean lifecycle capture (`tcpdump -n -r cap.pcap`) looks like:
 
 Packets 1–3 are the three-way handshake. Packet 4 carries the data (`[P.]` = PSH+ACK). Packets 6–9 are the four-way teardown: each side sends a FIN and the other ACKs it. The connection closes independently in each direction, which is why teardown takes four packets but setup only three (the server's SYN and ACK are combined into one SYN-ACK).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 07 — veth Pairs →](lesson-07-veth-pairs){: .btn .btn-primary }

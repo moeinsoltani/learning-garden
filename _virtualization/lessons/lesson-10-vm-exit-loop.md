@@ -188,3 +188,9 @@ Run an idle guest and capture `kvm_stat -1`. Then, inside the guest, run a netwo
 <br>
 On the idle snapshot, HLT/halt-poll-related counters dominate (the guest mostly sleeps). After the disk/network load, expect kvm_mmio and/or kvm_pio and kvm_userspace_exit to climb sharply, along with more kvm_exit/kvm_entry overall — the guest is doing device I/O that traps to QEMU's device model. If you used virtio devices the rise is smaller (shared-ring notifications) than with emulated devices (per-register exits). Rising MMIO/PIO/userspace_exit counters indicate device interaction; rising EPT-violation counters would indicate the workload touching lots of newly-allocated guest memory (e.g. the dd buffer growing the working set).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 11 — Observing KVM at Runtime →](lesson-11-observing-kvm){: .btn .btn-primary }

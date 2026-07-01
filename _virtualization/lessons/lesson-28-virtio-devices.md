@@ -205,3 +205,9 @@ Boot a Linux guest with `virtio-rng-pci` attached. Inside the guest, check `cat 
 <br>
 With virtio-rng attached, rng_current reports the virtio RNG and key generation completes essentially instantly, because the guest's entropy pool is continuously fed from the host, so getrandom never blocks. Without virtio-rng (especially on a freshly booted, idle guest with little disk/network activity), the entropy pool may be low, so ssh-keygen / getrandom can block waiting for enough randomness, making key generation noticeably slower or stalling until entropy accumulates. virtio-rng removes that dependency on the guest slowly gathering its own entropy by supplying it from the host pool. (Modern kernels mitigate blocking via the CRNG, but virtio-rng still helps fill the pool faster, especially early in boot.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 29 — vhost: Moving the Datapath into the Kernel →](lesson-29-vhost){: .btn .btn-primary }

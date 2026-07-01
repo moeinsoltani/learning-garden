@@ -244,3 +244,9 @@ The server replies **unicast to the relay** (the `giaddr`), and the relay forwar
 
 The lesson: the relay bridges the broadcast gap by converting the client's local broadcast into a unicast conversation with a remote server, using `giaddr` as the "this client lives on this subnet" marker. This is how one central DHCP server can serve hundreds of subnets it isn't directly attached to.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 25 — nftables Architecture →](lesson-25-nftables-arch){: .btn .btn-primary }

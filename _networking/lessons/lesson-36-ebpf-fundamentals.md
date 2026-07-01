@@ -231,3 +231,9 @@ Write and load the `XDP_PASS` program from the lab. Then modify it to count some
 
 In both cases the lesson is the same: the verifier refuses to load anything whose safety (memory-in-bounds, guaranteed termination) it cannot *prove* by static analysis. It's not catching a runtime crash — it's preventing the program from ever running until you've written it so the proof succeeds. That up-front proof obligation is the price (and the point) of being allowed to run code in the kernel datapath.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 37 — BPF Maps →](lesson-37-bpf-maps){: .btn .btn-primary }

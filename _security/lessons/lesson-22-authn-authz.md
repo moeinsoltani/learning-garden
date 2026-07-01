@@ -166,3 +166,9 @@ granting admin powers just because someone presented <em>some</em> valid token w
 privileges) over-grants access. The lesson: verifying <em>who</em> someone is never substitutes for checking
 <em>what they're allowed to do</em> on the specific resource.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 23 — Sessions, Cookies & Tokens →](lesson-23-sessions-tokens){: .btn .btn-primary }

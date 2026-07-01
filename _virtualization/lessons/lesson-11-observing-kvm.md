@@ -188,3 +188,9 @@ Start a guest with an *emulated* NIC (`-netdev user,id=n0 -device e1000,netdev=n
 <br>
 The e1000 (emulated) NIC produces a high rate of MMIO/PIO and userspace exits during the ping flood — every packet involves register accesses that trap to QEMU's device model. The virtio-net NIC produces far fewer such exits because packets move through a shared virtqueue ring with batched notifications instead of per-register pokes (and with vhost the datapath stays in the kernel entirely). The difference is exit reduction: virtio replaces many expensive userspace round trips per packet with a small number of cheap notifications, which is why throughput and CPU efficiency improve dramatically.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 12 — Anatomy of a QEMU Command Line →](lesson-12-qemu-command-line){: .btn .btn-primary }

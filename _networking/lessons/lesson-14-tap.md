@@ -212,3 +212,9 @@ The frame's journey, hop by hop:
 
 This is exactly the path a VM's inbound traffic takes, except step 5 ends in QEMU, which forwards the bytes into the guest's emulated NIC instead of printing them. The lesson: the TAP is the boundary where kernel-side L2 networking meets a userspace consumer.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 15 — VXLAN →](lesson-15-vxlan){: .btn .btn-primary }

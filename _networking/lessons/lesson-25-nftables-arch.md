@@ -259,3 +259,9 @@ Predicted and observed:
 
 The big takeaway / surprise: **input and output are about *this host* as an endpoint**, while **forward is about *transit*** — and traffic to your own local addresses (including loopback) does pass through input/output, not forward. Choosing the correct hook for a rule depends entirely on whether you're filtering traffic to/from the host or through it.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 26 — Packet Filtering with nft →](lesson-26-nft-filtering){: .btn .btn-primary }

@@ -200,3 +200,9 @@ Both `.1` and `.2` are reachable from the client while their dummies exist. When
 
 This differs from the Lesson 4 primary/secondary footgun because there the two addresses lived on the *same* interface, so deleting the primary cascaded and removed the secondary. Here the addresses are on *separate* interfaces (`dummy0` and `dummy1`), so they're independent — deleting one interface has no effect on the other. The lesson: using separate dummy interfaces for separate VIPs avoids the cascade-delete behavior entirely, which is one reason production setups often give each VIP its own dummy.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 11 — Linux Bridges →](lesson-11-bridges){: .btn .btn-primary }

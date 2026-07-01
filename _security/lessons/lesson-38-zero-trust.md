@@ -177,3 +177,9 @@ credentials, services are segmented and mutually authenticated, and the stolen c
 expire quickly. So a single foothold yields only that component's limited scope for a short time, rather than
 the whole "trusted inside," which is exactly the "assume breach + least privilege" payoff of zero trust.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 39 — Token Lifecycle & Revocation →](lesson-39-token-lifecycle){: .btn .btn-primary }

@@ -211,3 +211,9 @@ If your hardware supports it, create 2 SR-IOV VFs on a NIC and confirm they appe
 <br>
 For eight VMs sharing one fast NIC, <strong>SR-IOV</strong> is the right choice: create 8 VFs and assign one to each VM, giving each near bare-metal throughput and low CPU with hardware-enforced isolation — exactly what SR-IOV is designed for. <strong>Full passthrough</strong> is a poor fit because it's 1:1 — one NIC could serve only a single VM, so you'd need eight physical NICs. <strong>mdev</strong> is a poor fit for NICs because it's software-mediated time-slicing intended mainly for devices that can't make hardware VFs (typically GPUs); for networking it adds overhead and isn't the standard path, whereas SR-IOV NICs provide hardware partitioning natively. (If the NIC lacked SR-IOV, you'd fall back to virtio-net + vhost/multiqueue rather than mdev.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 39 — libvirt Architecture and virsh →](lesson-39-libvirt-virsh){: .btn .btn-primary }

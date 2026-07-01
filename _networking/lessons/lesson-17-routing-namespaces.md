@@ -227,3 +227,9 @@ When it works, an echo arriving at ns2 shows **ttl=62** (started at 64, decremen
 
 To break and diagnose: disable forwarding on routerB (`sysctl -w net.ipv4.ip_forward=0`). The ping fails. Capturing on routerB's interfaces shows the echo request *arriving* on its transit-side interface (`10.0.9.2`) but **never leaving** the ns2-side interface — the packet dies inside routerB because forwarding is off. `ip route get 10.0.2.2` on routerB would still show a valid route (routing isn't the problem), which combined with "arrives but doesn't leave" isolates the fault to forwarding being disabled. This is the core diagnostic skill: capture on each hop's ingress and egress, find the interface where the packet last appears, and that node is where it's being dropped.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 18 — Policy Routing & Multiple Tables →](lesson-18-policy-routing){: .btn .btn-primary }

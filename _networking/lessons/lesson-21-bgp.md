@@ -231,3 +231,9 @@ Build a **three-AS** chain: AS 65001 (router-a) — AS 65002 (router-b) — AS 6
 
 **Policy override:** suppose you add a second, longer path to the same prefix (e.g., via an extra AS). By default BGP would pick the shorter AS_PATH. But if you set a higher **LOCAL_PREF** on the *longer* path at router-a (LOCAL_PREF is checked *before* AS_PATH length in the best-path algorithm), router-a will prefer that longer path despite the extra AS hop. This is the essence of BGP being a *policy* protocol: operators routinely steer traffic for cost, contractual, or performance reasons by setting attributes like LOCAL_PREF (for outbound preference), AS_PATH prepending (to make a path look longer/less attractive to others), and MED (to hint inbound preference to a neighbor). Unlike OSPF, where the shortest metric always wins, BGP lets human policy override the "obvious" shortest path — because on the internet, the best path is often a business decision, not just a topological one.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 22 — NAT with nftables →](lesson-22-nat){: .btn .btn-primary }

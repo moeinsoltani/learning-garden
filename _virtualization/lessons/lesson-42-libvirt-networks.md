@@ -217,3 +217,9 @@ Inspect the default network end-to-end: run `virsh net-dumpxml default`, then fi
 <br>
 (a) <code>ip addr show virbr0</code> shows the bridge at 192.168.122.1 — the Linux bridge from Networking Lesson 11. (b) <code>ps aux | grep dnsmasq</code> shows the dnsmasq bound to virbr0 reading default.conf — providing DHCP/DNS. (c) <code>nft list ruleset</code> (or iptables -t nat) shows a MASQUERADE rule for 192.168.122.0/24 — NAT from Networking Lesson 22. Running <code>virsh net-dhcp-leases default</code> lists the guest's MAC→IP (e.g. 192.168.122.45), which matches the address the guest reports with <code>ip addr</code> inside it — confirming dnsmasq leased that address over the bridge. This demonstrates the default network is literally bridge + dnsmasq + NAT assembled by libvirt.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 43 — virt-install and the Desktop Tools →](lesson-43-virt-install){: .btn .btn-primary }

@@ -187,3 +187,9 @@ Run `qemu-system-aarch64 -M virt -cpu cortex-a57 -nographic -kernel /dev/null 2>
 <br>
 The aarch64 invocation can never use KVM on an x86 host because KVM only accelerates guests whose architecture matches the host CPU — there is no ARM silicon present to execute ARM guest instructions, so QEMU must fall back to TCG software emulation. The x86_64 invocation can use `-accel kvm` because the guest and host share the x86 instruction set, so guest code can run directly on the physical CPU via VT-x/AMD-V.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 02 — Hypervisor Types and Where KVM Fits →](lesson-02-hypervisor-types){: .btn .btn-primary }

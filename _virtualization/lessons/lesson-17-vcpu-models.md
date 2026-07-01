@@ -204,3 +204,9 @@ On your host, run `qemu-system-x86_64 -cpu help` and pick a named model older th
 <br>
 With <code>-cpu host</code> the guest sees the full modern feature set (likely both aes and avx2). With an older named model like Nehalem the guest sees only that model's features — aes may be absent and avx2 almost certainly is. A mixed-generation cluster standardizes on the older model because it's the lowest common denominator every host can provide: a VM booted with only those features can be live-migrated to any node, old or new, without an instruction suddenly being unavailable. Newer hosts simply don't expose their extra features to that VM, sacrificing some peak performance for universal mobility.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 18 — CPU Topology →](lesson-18-cpu-topology){: .btn .btn-primary }

@@ -202,3 +202,9 @@ Attach the same qcow2 to a guest first as virtio-blk, then as virtio-scsi, booti
 <br>
 As virtio-blk the disk appears as /dev/vda; as virtio-scsi it appears as /dev/sda (SCSI naming). After writing then deleting a large file, the qcow2's du size stays inflated because the delete alone doesn't return clusters. Once you run <code>fstrim /</code> with discard=unmap enabled, the guest issues UNMAP for the freed blocks, QEMU punches holes in the image, and <code>du -h</code> of the qcow2 drops back down — reclaiming the space. This shows that thin reclamation requires both a discard-capable device path and an explicit TRIM from the guest; the device model (virtio-scsi here) is what carries the UNMAP down to the image.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 25 — Caching Modes and AIO →](lesson-25-caching-aio){: .btn .btn-primary }

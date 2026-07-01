@@ -226,3 +226,9 @@ Boot a cloud image with a NoCloud seed that injects your SSH key and sets the ho
 <br>
 On first boot the hostname and SSH key are applied and you log in with your key. Booting a copy of the *same disk* with the *same seed* (same instance-id) does NOT re-run first-boot modules, because cloud-init records that instance-id as already processed — it considers it the same instance, so user creation/host-key generation/runcmd are skipped. To force first-boot logic on the copy, change the <code>instance-id</code> in the seed's meta-data (e.g. web01-0002) so cloud-init treats it as a new instance, or run <code>cloud-init clean</code> (optionally with --logs) inside the guest before re-imaging to wipe the recorded state. This is exactly why templating (Lesson 46) resets cloud-init state / instance-id when producing clones.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 45 — libguestfs: Editing Images Without Booting Them →](lesson-45-libguestfs){: .btn .btn-primary }

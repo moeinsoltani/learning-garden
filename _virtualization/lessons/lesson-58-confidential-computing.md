@@ -205,3 +205,9 @@ Check whether your CPU supports SEV/SEV-SNP or TDX (`grep -oE 'sev|sev_es|sev_sn
 <br>
 (a) In the confidential-computing threat model the "attacker" is the host/hypervisor itself — a malicious or compromised host OS, hypervisor, or cloud operator/admin with physical and software access to the machine running your VM. (Traditional models trust the host and treat the guest as the threat; this flips it.) (b) Attestation is necessary because encryption protects the data but doesn't, by itself, prove *what* is running. Before you hand a confidential VM real secrets (e.g. a disk-decryption key or API credentials), you need cryptographic proof that it's a genuine confidential VM on real SEV-SNP/TDX hardware, booted with the expected firmware/configuration and not, say, a fake VM the host stood up to harvest your secrets. The hardware produces a signed attestation report; you verify it against the vendor's keys and your expected measurements, and only then release secrets. Encryption alone isn't enough to *trust* the guest because a hostile host could spin up a look-alike VM (without the protections, or with tampered firmware) and request your secrets — attestation is what distinguishes a real, correctly-configured confidential guest from an impostor before any secret leaves your control.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 59 — microVMs →](lesson-59-microvms){: .btn .btn-primary }

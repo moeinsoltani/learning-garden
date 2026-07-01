@@ -204,3 +204,9 @@ Boot a guest with `-device virtio-net-pci`, then inside the guest read `/sys/bus
 <br>
 ethtool -i reports driver: virtio_net, and the features file shows the negotiated bits — proof the device/driver handshake ran. When the guest sends 100 packets, virtio-net places ~100 buffer descriptors into the TX virtqueue's available ring and rings the doorbell — often just one notification for the whole batch (and with notification suppression / busy host, possibly fewer), so on the order of a single exit rather than per-packet. An emulated e1000 would require many register accesses per packet (descriptor setup, tail pointer writes), each trapping to QEMU, so ~hundreds to thousands of exits for the same 100 packets. That gap is why virtio's shared-ring batching is so much faster.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 28 — The Core virtio Devices →](lesson-28-virtio-devices){: .btn .btn-primary }

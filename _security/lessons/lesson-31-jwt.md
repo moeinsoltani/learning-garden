@@ -179,3 +179,9 @@ RS256→HS256 forgeries. Together these show JWT's security rests on (a) underst
 <code>iss</code>/<code>aud</code>/<code>exp</code> — and that skipping any of these is where real-world JWT
 breaches come from.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 32 — SAML 2.0 →](lesson-32-saml){: .btn .btn-primary }

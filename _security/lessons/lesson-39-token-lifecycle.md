@@ -177,3 +177,9 @@ either party refreshes (rotation), revocation cuts off further access immediatel
 MFA, Phase 4) re-establishes legitimate control. So a stolen refresh token yields at most a brief window and a
 detectable, automatically-contained incident rather than persistent silent access.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 40 — Threat Modeling Authentication Systems →](lesson-40-threat-modeling){: .btn .btn-primary }

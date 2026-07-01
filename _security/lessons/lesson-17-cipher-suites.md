@@ -169,3 +169,9 @@ compromise; AEAD ciphers provide integrity+confidentiality and avoid CBC/MAC-the
 removing weak suites shrinks the attack and misconfiguration surface. This mirrors what TLS 1.3 enforces by
 default, applied to the 1.2 fallback.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 18 — Mutual TLS (mTLS) →](lesson-18-mtls){: .btn .btn-primary }

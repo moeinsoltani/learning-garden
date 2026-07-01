@@ -174,3 +174,9 @@ claims via mappers). The app simply validates the token and reads the claims to 
 <em>who the user is</em> and <em>what they're entitled to</em> are managed in one place and propagated to every
 client — exactly the consolidation that makes IdPs valuable.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 35 — mTLS & Workload Identity (SPIFFE/SPIRE) →](lesson-35-workload-identity){: .btn .btn-primary }

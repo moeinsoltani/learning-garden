@@ -206,3 +206,9 @@ Set up a virtio-vsock device on a guest with `guest-cid=42`. Use `socat VSOCK-LI
 <br>
 You'll see text typed on one side appear on the other, with no IP addressing — only CID/port. A guest agent prefers vsock for its control channel because it works regardless of the guest's network configuration: there's no dependency on the guest having a correctly configured NIC, IP, routes, DNS, or firewall rules (which the agent may need to fix in the first place), and it can't be accidentally exposed to or reached from the external network. It's a private, always-available host↔guest pipe addressed by CID, so management/control traffic stays reliable and isolated even when guest networking is broken or intentionally absent.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 31 — User-Mode Networking (SLIRP) →](lesson-31-slirp){: .btn .btn-primary }

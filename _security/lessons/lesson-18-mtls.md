@@ -170,3 +170,9 @@ nothing to validate. So mTLS is just the standard chain-of-trust validation appl
 direction: accept only certificates that chain to a trusted CA and pass all the usual checks, which is why
 the issuing CA (your private CA) is the linchpin of who's allowed in.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 19 — SNI, ALPN, Resumption & 0-RTT →](lesson-19-sni-alpn-resumption){: .btn .btn-primary }

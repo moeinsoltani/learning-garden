@@ -195,3 +195,9 @@ Within the same namespace, connecting to `127.0.0.2:7000` works — the entire `
 
 From a different namespace over a veth, the connection fails completely. `127.0.0.0/8` has **host scope** — the kernel never routes it onto a real interface and never accepts it arriving from one. Each namespace has its own independent loopback; `127.0.0.2` in one namespace is unrelated to `127.0.0.2` in another. Loopback addresses are fundamentally non-routable and machine-local (here, namespace-local), which is exactly why they're a safe isolation boundary.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 09 — Bond Interfaces →](lesson-09-bonding){: .btn .btn-primary }

@@ -193,3 +193,9 @@ Boot the same kernel/rootfs once with QEMU `-M microvm` and once with `-M q35`, 
 <br>
 The microvm boot is dramatically faster (often sub-100 ms to userspace vs seconds for q35) and uses noticeably less memory. Most of the difference comes from the components microvm removes: firmware/BIOS initialization (no SeaBIOS/OVMF hardware probing), PCI bus enumeration, and ACPI parsing/device bring-up — these dominate a normal VM's early boot, and microvm skips them by booting the kernel directly with only a few virtio-MMIO devices. Ideal workload: serverless functions / ephemeral sandboxes (e.g. AWS Lambda) where you launch and tear down many short-lived, homogeneous VMs and value fast boot, density, and a small attack surface. Unacceptable workload: a general-purpose desktop or a VM needing GPU passthrough — no PCI means no VFIO passthrough and no graphics, so the microVM's stripped-down model can't support it; you'd use a full q35 VM there.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 60 — VM-Isolated Containers and the VM-vs-Container Question →](lesson-60-kata-containers){: .btn .btn-primary }

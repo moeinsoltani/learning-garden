@@ -209,3 +209,9 @@ Take a cloud image (or any qcow2), use `virt-customize` to install a package and
 <br>
 virt-customize installs the package and writes the MOTD into the image offline; virt-cat/virt-inspector confirm the file/package are present without booting. After virt-sysprep on the copy, /etc/machine-id is emptied/removed and the SSH host keys under /etc/ssh/ssh_host_* are gone, whereas the original still has them. These files matter for cloning because: a shared machine-id causes clones to collide on DHCP leases and systemd/journald identity (they think they're the same machine), and shared SSH host keys mean clients can't distinguish hosts and compromising one clone's key compromises all of them. Removing them lets each clone regenerate unique identity on first boot, so the clones behave as independent machines.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 46 — Templates and Cloning →](lesson-46-templates-cloning){: .btn .btn-primary }

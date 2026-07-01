@@ -230,3 +230,9 @@ The all-zeros MAC entry means "for unknown-unicast and broadcast/multicast frame
 
 When hostA sends an ARP broadcast on the overlay: its VTEP sees a broadcast destination, looks up the all-zeros FDB entries, and **replicates** the encapsulated frame once per peer — one UDP/4789 packet to hostB's underlay IP and another to hostC's. The underlay capture shows two separate outer UDP packets leaving hostA (unicast to B and to C), each containing the same inner ARP. Each receiving VTEP decapsulates and floods the ARP onto its local overlay. Specific unicast replies then get learned into the FDB as `<mac> dst <host-ip>` entries, so subsequent unicast traffic goes to exactly one peer instead of being replicated. This head-end replication is how unicast VXLAN emulates L2 broadcast without underlay multicast — and it's exactly what a CNI like Flannel automates by watching the cluster's node list.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 16 — Routing Fundamentals →](lesson-16-routing-fundamentals){: .btn .btn-primary }

@@ -195,3 +195,9 @@ Enable the IOMMU on your host (BIOS VT-d/AMD-Vi + `intel_iommu=on`/`amd_iommu=on
 <br>
 After enabling, dmesg shows "DMAR: IOMMU enabled" (or AMD-Vi). Listing <code>/sys/bus/pci/devices/&lt;addr&gt;/iommu_group/devices/</code> for your chosen device reveals its group-mates. If it's alone in its group, it's cleanly isolatable — you can bind just that device to vfio-pci and assign it. If the group contains other devices (e.g. a GPU sharing a group with its HDMI audio function, or several devices behind a non-ACS bridge), you must assign all of them together, because the IOMMU can't isolate within a group; you can't keep some on the host while giving others to the guest. Groups with multiple unrelated devices usually indicate poor ACS support and are the typical passthrough obstacle.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 36 — VFIO PCI Passthrough →](lesson-36-vfio-pci){: .btn .btn-primary }

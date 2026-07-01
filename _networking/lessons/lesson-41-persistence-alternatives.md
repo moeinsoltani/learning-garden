@@ -224,3 +224,9 @@ Each answer pins down one layer: which front-end you should edit (netplan YAML v
 
 **The risk of editing the wrong layer:** on a netplan system, hand-editing the generated `/run/systemd/network/` files (or running raw `ip` commands) gets **silently overwritten** the next time `netplan apply` or a reboot regenerates them — your fix "doesn't stick" and you waste hours. Worse, editing a layer that *isn't* the active manager (e.g., `/etc/network/interfaces` on a netplan box) does nothing, while two managers touching the same device can fight and flap the link. Always change the **authoritative source** (the YAML/keyfile/.network that the running backend reads), then apply through that tool — never patch the rendered output or mix imperative `ip` changes with a declarative manager on the same interface.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 42 — Docker Networking from First Principles →](lesson-42-docker-networking){: .btn .btn-primary }

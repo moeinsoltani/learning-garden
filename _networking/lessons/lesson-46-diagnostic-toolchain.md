@@ -223,3 +223,9 @@ Build a deliberately broken namespace pair with **two simultaneous faults** — 
 
 **The point:** had I stopped at the **first** fault (the mask), I'd have "fixed it," seen ping work, and still had a broken service — then been confused. Walking the **entire** layered sequence and recording good/fault at each step surfaces **both** independent problems. Methodical order beats guessing precisely because it doesn't let one found fault hide another.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 47 — Network Debugging Methodology →](lesson-47-debugging-methodology){: .btn .btn-primary }

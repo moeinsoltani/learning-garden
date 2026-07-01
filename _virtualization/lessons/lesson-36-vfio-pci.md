@@ -208,3 +208,9 @@ Take a *spare* NIC (not your primary), bind it to vfio-pci, and confirm with `ls
 <br>
 After binding, <code>lspci -nnk</code> shows "Kernel driver in use: vfio-pci" and the NIC is gone from the host's ip link; inside the guest the physical NIC appears and the guest drives it. Binding by <code>vfio-pci.ids=VENDOR:DEVICE</code> is problematic with two identical cards because the ID match is by model, not by slot — it would claim *both* cards for vfio-pci, including the one you wanted to keep for the host. To assign only one of identical devices you must bind by PCI address instead (e.g. driverctl set-override on the specific 0000:03:00.0, or a script that binds the exact address), so the other identical card stays on its host driver.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 37 — GPU Passthrough →](lesson-37-gpu-passthrough){: .btn .btn-primary }

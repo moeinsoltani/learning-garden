@@ -261,3 +261,9 @@ table inet filter {
 
 **Why this is exactly a home firewall:** your home router runs precisely this asymmetric policy. Devices on your LAN (the "ns1" side) can freely *initiate* connections out to the internet, and the replies flow back because they're ESTABLISHED. But hosts on the internet (the "ns2" side) **cannot initiate** new connections inward to your LAN — those unsolicited SYNs are dropped. Combined with NAT (Lesson 22), this gives the default home-network security model: outbound allowed, inbound blocked unless it's a reply to something you started (or an explicit port-forward you configured). The stateful `established,related accept` plus a directional `new` rule is the whole mechanism — there's no magic, just connection tracking applied asymmetrically by which interface a NEW connection arrives on.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 27 — Sets and Verdict Maps →](lesson-27-nft-sets){: .btn .btn-primary }

@@ -214,3 +214,9 @@ into one traversal, cutting per-byte CPU by roughly the coalescing factor and le
 sustain far higher throughput. This is why on fast NICs offloads are essential, not optional, and why
 benchmarks always state whether they were enabled.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 64 — Kernel Bypass (AF_XDP & DPDK) →](lesson-64-kernel-bypass){: .btn .btn-primary }

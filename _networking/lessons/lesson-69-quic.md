@@ -195,3 +195,9 @@ the middle of the network to the <strong>endpoints</strong> (server/client logs,
 design: QUIC's encryption resists both surveillance and the protocol ossification that middlebox
 meddling caused. Operators must move to endpoint telemetry rather than in-path inspection.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 70 — TLS at the Packet Level →](lesson-70-tls){: .btn .btn-primary }

@@ -184,3 +184,11 @@ binding defeats real-time phishing, L26), and harden the recovery path to the sa
 password+TOTP system that route is phishing/recovery, not cracking — so upgrading the factor and the recovery
 flow removes the weakest link rather than over-investing in already-adequate controls.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Back to the learning plan →](../learning-plan.html){: .btn .btn-primary }
+
+*🎉 You've reached the end of this track.*

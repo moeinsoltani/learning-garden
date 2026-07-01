@@ -206,3 +206,9 @@ Build `base.qcow2`, create `overlay.qcow2` over it, boot a VM on the overlay and
 <br>
 Before commit, the base's md5sum is unchanged by the guest's writes (they live in the overlay). After <code>qemu-img commit overlay.qcow2</code>, the base's md5sum changes because commit merged the overlay's clusters down into the base — the base now contains the guest's new file. You must not commit when the base is shared by other overlays because those overlays assume the base holds the *original* unchanged data; mutating it injects one VM's writes underneath all the others, corrupting their view (they'd suddenly "see" data they never wrote, or inconsistent state). Shared bases must stay immutable; only flatten/commit overlays whose base is private.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 24 — Block Device Models →](lesson-24-block-device-models){: .btn .btn-primary }

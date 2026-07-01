@@ -202,3 +202,9 @@ On a running VM, run `virsh domjobinfo` during a (test) migration or read `query
 <br>
 A heavily-writing database VM likely will NOT converge under plain pre-copy: its high dirty rate means each iteration re-dirties pages about as fast as they're sent, so "Data remaining" never drops below the threshold for the final stop-and-copy. Two things to enable/tune: (1) <strong>auto-converge</strong> — throttle the guest's vCPUs so it dirties slower than the link sends; downside: the database runs slower (degraded performance) until migration finishes. (2) Switch to / enable <strong>post-copy</strong> — move execution to the destination and demand-page the rest, which guarantees convergence and bounds downtime; downside: if the network drops mid-migration the VM can be lost, since its state is split across hosts with no source fallback. (Also valid: raise migration bandwidth/downtime target, or use multifd/compression to move pages faster — downsides being network/CPU usage and a longer acceptable pause.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 49 — Live Migration in Practice →](lesson-49-migration-practice){: .btn .btn-primary }

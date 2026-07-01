@@ -173,3 +173,9 @@ scrypt) makes each guess cost real time and RAM, cutting the attacker's rate by 
 (same hash); salts hide this. So "we hash with SHA-256" protects against essentially none of the
 post-breach cracking that actually happens; salting + a slow KDF is what does.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 3 — Asymmetric Crypto & Diffie-Hellman →](lesson-03-asymmetric-dh){: .btn .btn-primary }

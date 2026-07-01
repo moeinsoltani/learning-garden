@@ -195,3 +195,9 @@ Boot a guest with `-smp cpus=4,sockets=2,cores=2,threads=1` and another with `-s
 <br>
 The first layout shows 2 sockets, each 2 cores, 1 thread (4 independent cores across two sockets). The second shows 1 socket, 2 cores, 2 threads each (one physical CPU with SMT). A per-socket-licensed database prefers the second (1 socket) because it pays for one socket instead of two. The second also better reflects a single modern physical CPU, which is typically one socket with multiple cores and hyperthreading — so the guest's cache-locality and SMT-aware scheduling assumptions match reality (provided you also pin appropriately).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 19 — Guest Memory Backends and Hugepages →](lesson-19-memory-hugepages){: .btn .btn-primary }

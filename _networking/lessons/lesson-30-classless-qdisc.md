@@ -227,3 +227,9 @@ Setup: apply `tc qdisc add dev <if> root netem delay 80ms 10ms loss 0.5%` on **b
 
 **Why loss makes it worse:** TCP interprets loss as congestion and **halves its congestion window** (then slowly grows it again — the classic sawtooth). With a long RTT, recovering/growing the window back takes many slow round-trips, so even a small loss rate keeps the average window — and thus throughput — well below the link capacity. The combination of high RTT (slows window growth and ACK feedback) and loss (repeatedly shrinks the window) is exactly why real long-distance, lossy links deliver a fraction of their nominal bandwidth to a single TCP flow — and exactly the scenario `netem` lets you reproduce and study deterministically. The takeaway: throughput is not just "link speed"; for TCP it's fundamentally `window / RTT`, which is why latency is a first-class performance factor, not just a nuisance.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 31 — Classful qdiscs: HTB →](lesson-31-htb){: .btn .btn-primary }

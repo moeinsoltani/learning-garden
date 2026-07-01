@@ -197,3 +197,9 @@ Run a 4k random-write `fio` benchmark inside a guest three times, changing only 
 <br>
 Typically cache=unsafe shows the highest IOPS, writeback next, and cache=none somewhat lower (it bypasses the host cache and honors every flush). unsafe wins because it ignores the guest's flushes — it never waits for data to reach disk, so the benchmark isn't paying for durability. That's exactly why you never use it in production: on a host crash/power loss, "committed" writes still in host RAM are lost and the guest filesystem's barriers were dropped, risking corruption. The benchmark's speed is borrowed against data safety. cache=none gives honest performance while keeping the guest's durability contract intact, which is the right production trade-off.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 26 — Snapshots →](lesson-26-snapshots){: .btn .btn-primary }

@@ -174,3 +174,9 @@ private key only ever signs challenges for the legitimate origin and never produ
 Together they remove the two great weaknesses of passwords/TOTP at once: there's nothing reusable for an
 attacker to steal from the server, and nothing an attacker can trick the user into handing to the wrong site.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 27 — Kerberos →](lesson-27-kerberos){: .btn .btn-primary }

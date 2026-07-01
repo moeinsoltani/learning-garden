@@ -204,3 +204,9 @@ Boot a guest with `queues=4,mq=on,vhost=on`. Run `iperf3 -c <host> -P 4` first w
 <br>
 With combined 1, all traffic funnels through one queue/one CPU, so throughput plateaus at roughly a single core's capacity and ethtool -S shows packets concentrated on queue 0. With combined 4, flows spread across all four queues (per-queue counters all increment) and multiple vhost threads/vCPUs process in parallel, so aggregate throughput rises (especially with -P 4 multiple streams). This confirms that requesting queues=4 on the QEMU side only *provisions* the queues; the guest must activate them with ethtool -L before they're used. Provisioning without guest activation leaves the extra queues idle and yields no speedup — multiqueue is a both-ends feature.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 34 — macvtap and SR-IOV Networking →](lesson-34-macvtap-sriov){: .btn .btn-primary }

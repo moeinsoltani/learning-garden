@@ -217,3 +217,9 @@ On a running VM, take an external live snapshot via QMP `blockdev-snapshot` so w
 <br>
 Before the snapshot, the chain is just <code>disk.qcow2</code> (active, no backing). After blockdev-snapshot, <code>--backing-chain</code> shows two layers: <code>overlay.qcow2</code> (active) → backing <code>disk.qcow2</code> (frozen restore point); the guest's new change lands only in overlay.qcow2. <code>block-commit</code> then streams the overlay's clusters down into disk.qcow2 and pivots the active layer back to the base, so afterward the chain is again just <code>disk.qcow2</code> — now containing the merged change — and the overlay can be removed. It did this online: the VM kept running throughout, with QEMU performing the merge in the background and pivoting atomically, so there was negligible/zero downtime.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 27 — The virtio Standard →](lesson-27-virtio-standard){: .btn .btn-primary }

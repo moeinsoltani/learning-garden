@@ -173,3 +173,9 @@ enforce the audience and validity conditions on <em>that</em> verified assertion
 relying on a hardened SAML library that binds verification and consumption together, rather than verifying a
 signature and then independently parsing the XML.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 33 — SSO & Session Management →](lesson-33-sso){: .btn .btn-primary }

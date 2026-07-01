@@ -198,3 +198,9 @@ Suppose a guest runs a tight loop computing prime numbers, never touching I/O. U
 <br>
 Pure arithmetic and memory access within already-mapped pages are not configured to cause VM exits — the guest's instructions run natively in non-root mode at full CPU speed, with the VMCS sitting idle. There's no I/O, no CPUID, no MSR access, no new page faults once the working set is mapped, so the CPU never needs to switch back to root mode. With near-zero exits there is no world-switch overhead, so the guest runs at close to bare-metal speed — which is exactly why minimizing exits is the core of performance tuning.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 06 — Memory Virtualization: EPT / NPT (SLAT) →](lesson-06-ept-npt-slat){: .btn .btn-primary }

@@ -199,3 +199,9 @@ Find and skim the LWN "Using the KVM API" example program (linked in Further Rea
 <br>
 (a) The VM is created by <code>ioctl(kvm, KVM_CREATE_VM, 0)</code>; (b) memory is given by <code>ioctl(vmfd, KVM_SET_USER_MEMORY_REGION, &region)</code> after mmap-ing the guest RAM; (c) the run loop is the <code>for(;;) ioctl(vcpufd, KVM_RUN, 0)</code>. The program mmaps the vcpu fd first because KVM_RUN communicates results through the shared <code>struct kvm_run</code> located in that mapping — after each exit the host reads exit_reason and any I/O data from that mapped page, so it must exist before the first KVM_RUN.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 09 — KVM Kernel Modules and Parameters →](lesson-09-kvm-modules-params){: .btn .btn-primary }

@@ -207,3 +207,9 @@ Run `qemu-system-x86_64 -machine help` and find the unversioned `q35` alias and 
 <br>
 The bare <code>q35</code> alias resolves to each host's newest machine type, so on hosts with different QEMU versions the same VM definition would get *different* virtual motherboards — different device defaults/ACPI — which breaks migration because source and destination must present identical hardware to the guest. Pinning both to the *same explicit* versioned type (e.g. pc-q35-7.2, supported by both QEMU versions) guarantees the virtual hardware is byte-for-byte the same on either host, so the guest can migrate and resume seamlessly. You generally pick the oldest version both hosts support as the common baseline.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 14 — Firmware and the Boot Path →](lesson-14-firmware-boot){: .btn .btn-primary }

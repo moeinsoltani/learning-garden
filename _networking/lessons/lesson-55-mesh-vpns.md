@@ -223,3 +223,9 @@ rules controlling who may reach whom), and <strong>DNS / naming</strong> (it ass
 reach nodes by name over the overlay). The data, meanwhile, still flows directly peer-to-peer and
 end-to-end encrypted — the server never carries it.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 56 — TLS-based VPNs (OpenVPN) →](lesson-56-tls-vpns){: .btn .btn-primary }

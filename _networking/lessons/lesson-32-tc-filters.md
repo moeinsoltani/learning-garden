@@ -228,3 +228,9 @@ tc filter add dev <if> protocol ip parent 1: flower src_ip 10.0.0.20 flowid 1:20
 
 **For a high-throughput production router I'd deploy `flower`** — it's clearer to maintain and, critically, it can be offloaded to hardware, keeping CPU usage low and throughput high. I'd only drop to `u32` (or `bpf`) for matches `flower` can't express. The general principle: prefer the most *structured* classifier your match allows, because structure is what enables both human readability and hardware acceleration.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 33 — Bandwidth Measurement →](lesson-33-bandwidth){: .btn .btn-primary }

@@ -200,3 +200,9 @@ Boot a guest with `-netdev user,id=n0,hostfwd=tcp::2222-:22`. From the host, con
 <br>
 From the host, ssh -p 2222 localhost works because QEMU opened a host-local listening socket forwarding into the guest. From another LAN machine it fails: the guest's 10.0.2.15 is private to SLIRP and unroutable on the LAN, and the only mapping (port 2222) is bound on the QEMU *host* — at best you could target the host's LAN IP on :2222 (which would work only if the host firewall allows it and you bound hostfwd to the host's external address), but the guest itself has no LAN identity. To give the guest a real LAN address you switch to TAP + bridge networking (Lesson 32), which attaches the guest's NIC to a Linux bridge on the host's physical network so it gets a genuine LAN IP and is directly reachable.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 32 — TAP + Bridge Networking →](lesson-32-tap-bridge){: .btn .btn-primary }

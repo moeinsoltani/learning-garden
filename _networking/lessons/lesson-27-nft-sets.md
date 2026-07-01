@@ -246,3 +246,9 @@ The `jump trusted` rule references `@trusted_nets` by name, so changing the set'
 
 This set/map/chain decomposition is exactly how large production firewalls and tools like fail2ban stay both fast and manageable at scale.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 28 — Flowtable Offload →](lesson-28-flowtable){: .btn .btn-primary }

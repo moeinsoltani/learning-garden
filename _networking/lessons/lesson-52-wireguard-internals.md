@@ -201,3 +201,9 @@ across cores, increase the TUN/socket buffer sizes, and pin the process to a CPU
 IRQ (Lesson 63). The fundamental fix, of course, is to use the kernel module where available — the
 userspace path is the price of cross-platform portability.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 53 — NAT Traversal →](lesson-53-nat-traversal){: .btn .btn-primary }

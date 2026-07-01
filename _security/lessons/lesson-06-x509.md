@@ -167,3 +167,9 @@ how one cert serves many names; and well-known <strong>intermediate issuers</str
 keys for efficiency, SAN-based multi-name coverage, and issuance from intermediates — all visible just by
 decoding the certificates.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 7 — Certificate Authorities & Chains of Trust →](lesson-07-ca-trust){: .btn .btn-primary }

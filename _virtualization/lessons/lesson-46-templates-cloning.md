@@ -199,3 +199,9 @@ Create two linked clones from a sysprepped golden image and one full clone. Comp
 <br>
 The two linked clones show near-zero disk size and <code>backing file: golden.qcow2</code>; the full clone shows its full data size and no backing file. Booted with per-VM cloud-init seeds (and from a sysprepped base), each clone generates a unique hostname (from user-data), a unique machine-id, and unique SSH host keys on first boot — no collisions. If you deleted the golden base, both linked clones would break: they only contain their own diffs and rely on the base for all unchanged data, so reads that fall through to the (now-missing) base fail and the VMs become unusable. The full clone is unaffected because it's a complete, independent image with no dependency on the base.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 47 — Domain Snapshots, Checkpoints, and Incremental Backup →](lesson-47-backup-checkpoints){: .btn .btn-primary }

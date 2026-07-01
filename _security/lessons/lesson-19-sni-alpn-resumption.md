@@ -169,3 +169,9 @@ again with no side effects, so a replay is harmless. The rule: only put idempote
 requests in 0-RTT, and route sensitive operations through the completed (1-RTT) handshake, optionally with
 server-side anti-replay tracking.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 20 — Inspecting & Hardening TLS →](lesson-20-tls-hardening){: .btn .btn-primary }

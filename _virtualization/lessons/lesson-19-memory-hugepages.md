@@ -205,3 +205,9 @@ Reserve some 2 MiB hugepages on your host with `sysctl vm.nr_hugepages=N`, note 
 <br>
 With prealloc=on, HugePages_Free drops by the guest's full size the moment the VM starts (QEMU touches/allocates all the pages up front), stays consumed for the VM's lifetime, and is released when the VM exits. Without prealloc, the pages would be allocated lazily as the guest first touched each region (via EPT violations), so HugePages_Free would decline gradually as the guest used memory rather than all at once. prealloc trades a slower start and immediate full reservation for guaranteed availability and no later allocation-latency spikes (and it surfaces "not enough hugepages" immediately at boot rather than mid-run).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 20 — Ballooning and KSM →](lesson-20-balloon-ksm){: .btn .btn-primary }

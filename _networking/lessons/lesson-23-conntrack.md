@@ -243,3 +243,9 @@ Run `conntrack -E` on the router and, in another terminal, generate three differ
 
 The key insight: conntrack doesn't require the protocol to have a real "connection." For connectionless protocols it *synthesizes* a flow from the packet tuple and decides the flow is over by **inactivity timeout** rather than by protocol teardown. TCP gets precise state from its flags; UDP and ICMP get best-effort flows bounded by timers. This is why UDP-heavy workloads can still exhaust the conntrack table — every distinct UDP tuple is an entry, even with no "connection" in the formal sense.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 24 — DHCP →](lesson-24-dhcp){: .btn .btn-primary }

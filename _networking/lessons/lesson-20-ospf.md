@@ -246,3 +246,9 @@ In the triangle topology, give the a↔c and c↔b links a deliberately *high* O
 
 How cost drives the decision: each interface has an OSPF cost (by default inversely proportional to bandwidth; here we set some manually). SPF computes the shortest path as the one minimizing the *sum* of interface costs from source to destination. Raising a link's cost makes any path using it less attractive, so OSPF avoids it whenever a lower-total-cost alternative exists — but it will still use a high-cost link if it's the only way to reach the destination. This is exactly how operators steer traffic onto preferred links (set low cost) and keep others as backups (set high cost) without removing them: the high-cost links sit idle until the preferred path fails, then automatically take over.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 21 — BGP with FRR →](lesson-21-bgp){: .btn .btn-primary }

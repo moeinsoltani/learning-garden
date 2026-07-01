@@ -178,3 +178,9 @@ end state: nothing secret in code or images, runtime-fetched access controlled a
 short-lived and auto-rotated, and the initial trust grounded in attested identity — turning a permanent-leak
 risk into a contained, automated system.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 37 — API Authentication Patterns →](lesson-37-api-auth){: .btn .btn-primary }

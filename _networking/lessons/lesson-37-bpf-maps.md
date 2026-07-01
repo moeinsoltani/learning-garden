@@ -233,3 +233,9 @@ The program stays loaded and unchanged; the **policy lives in the map**. Adding 
 
 This is the central pattern of production eBPF systems (Cilium, load balancers, DDoS scrubbers): the **dataplane** (the verified, JIT-compiled program) is fixed and fast, while the **control plane** (userspace) steers behavior by updating maps. Map updates are cheap, atomic per entry, and take effect on the next packet, so you get dynamic, hot-reconfigurable policy without ever touching the kernel-side code path. Separating "fast fixed logic" from "frequently changing data" is what makes eBPF both safe and operationally practical.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 38 — XDP: Express Data Path →](lesson-38-xdp){: .btn .btn-primary }

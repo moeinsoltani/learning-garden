@@ -210,3 +210,9 @@ timers balloon, and effective throughput collapses. This is the TCP-over-TCP mel
 the concrete reason VPN transports should be unreliable (UDP), leaving reliability to the single
 inner TCP.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 57 — Capstone: An Encrypted Mesh Across NAT →](lesson-57-vpn-capstone){: .btn .btn-primary }

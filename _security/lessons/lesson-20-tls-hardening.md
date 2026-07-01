@@ -167,3 +167,9 @@ SANs → resolves "chain issues / name mismatch"; (5) enable OCSP stapling → r
 clean chain, and a top grade. The exercise demonstrates the discipline: configure conservatively, then
 <em>verify with the scanner</em> that each weakness is actually gone.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 21 — TLS Attacks & the Lessons They Taught →](lesson-21-tls-attacks){: .btn .btn-primary }

@@ -198,3 +198,9 @@ On your host, determine whether you're on Intel or AMD, then report the current 
 <br>
 On Intel: <code>cat /sys/module/kvm_intel/parameters/nested</code> and <code>.../ept</code>. To enable now: <code>sudo modprobe -r kvm_intel</code> then <code>sudo modprobe kvm_intel nested=1</code>. Persistent: add <code>options kvm_intel nested=1</code> to a file like /etc/modprobe.d/kvm.conf. On AMD, substitute kvm_amd and check <code>npt</code> instead of <code>ept</code>: <code>options kvm_amd nested=1</code>. (ept/npt should already read Y; you want hardware SLAT on.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 10 — The VM-Exit Loop in Depth →](lesson-10-vm-exit-loop){: .btn .btn-primary }

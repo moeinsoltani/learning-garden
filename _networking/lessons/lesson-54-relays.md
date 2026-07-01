@@ -207,3 +207,9 @@ boundary is the peers' own keys, not the relay. That decoupling lets one provide
 relays that thousands of independent users route through without exposing anyone's content to the
 provider or to each other.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 55 — Mesh VPNs and Coordination Planes →](lesson-55-mesh-vpns){: .btn .btn-primary }

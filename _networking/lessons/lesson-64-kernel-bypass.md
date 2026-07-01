@@ -203,3 +203,9 @@ and multiqueue scaling (Lesson 63), because a web service is rarely packet-rate-
 kernel's TCP/TLS/sockets/firewall, and benefits from the kernel's generality and safety. Bypass is for
 dedicated packet-movers (routers, firewalls, load balancers, DDoS scrubbers), not application servers.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 65 — Multipath TCP (MPTCP) →](lesson-65-mptcp){: .btn .btn-primary }

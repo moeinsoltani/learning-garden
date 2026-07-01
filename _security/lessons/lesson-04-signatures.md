@@ -173,3 +173,9 @@ cost</strong> at scale, and EC gives <strong>equivalent security with a fraction
 signatures, those efficiency gains — smaller, faster, equally secure — are compelling, which is why
 ECDSA/Ed25519 are increasingly the default over RSA.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 5 — Randomness & Entropy →](lesson-05-randomness){: .btn .btn-primary }

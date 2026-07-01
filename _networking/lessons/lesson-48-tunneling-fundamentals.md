@@ -203,3 +203,9 @@ doesn't, then switch the tunnel to GRE and retry. Explain the difference you obs
 <br>
 With <strong>IPIP</strong>, unicast IPv4 works, but multicast and IPv6 do not: <code>ipip</code> encapsulates only unicast IPv4-in-IPv4 — it has no protocol-type field to distinguish other payloads, and multicast isn't carried. (IPv6 specifically needs a <code>sit</code> tunnel.) When you switch to <strong>GRE</strong>, multicast and IPv6 start working, because GRE includes a 16-bit protocol-type field in its header that says "the inner payload is IPv4 / IPv6 / a multicast frame," so one GRE tunnel can multiplex several protocols. The lesson: <code>ipip</code>/<code>sit</code> are minimal single-purpose tunnels, while GRE trades a few extra header bytes for generality — which is exactly why routing protocols that rely on multicast (e.g. OSPF) are run over GRE, not IPIP.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 49 — VPN Cryptography Building Blocks →](lesson-49-vpn-crypto){: .btn .btn-primary }

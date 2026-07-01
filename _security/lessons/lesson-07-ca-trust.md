@@ -169,3 +169,9 @@ and validation succeeds. This is one of the most common real-world TLS misconfig
 from another site) while failing for other clients, fresh systems, and many tools — so it slips through
 casual testing. The fix is always to install the full chain (leaf + all intermediates) on the server.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 8 — CSRs & the openssl Toolkit →](lesson-08-csr-openssl){: .btn .btn-primary }

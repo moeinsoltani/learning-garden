@@ -199,3 +199,9 @@ logging at the resolver, since names are still resolved), plus coarse signals li
 traffic analysis. In short, encryption pushes visibility and enforcement out of the network core and
 onto the endpoints and DNS.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 71 — Multicast & IGMP →](lesson-71-multicast){: .btn .btn-primary }

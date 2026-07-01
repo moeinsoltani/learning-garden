@@ -208,3 +208,9 @@ gateway. The security trade-off: D becomes a <strong>trusted bridge</strong> int
 of any device on the exposed subnet) widens the mesh's attack surface. So subnet routes should be
 tightly scoped with ACLs (zero trust, Lesson 55) rather than exposing entire networks blindly.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 58 — Large-Scale BGP →](lesson-58-bgp-scale){: .btn .btn-primary }

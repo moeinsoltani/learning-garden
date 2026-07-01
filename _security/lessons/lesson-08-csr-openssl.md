@@ -161,3 +161,9 @@ fails with a name-mismatch error. The lesson: identity (the hostnames a cert is 
 be expressed in the SAN</strong>, not the CN — the CN is legacy/cosmetic, and any tooling or process that
 still relies on it produces certificates that won't work with real clients.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 9 — Certificate Validation →](lesson-09-validation){: .btn .btn-primary }

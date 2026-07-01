@@ -180,3 +180,9 @@ service-encrypted ticket per service from the KDC on demand, whereas a JWT is of
 to many services. So both achieve SSO-style "token in, access out," but Kerberos is symmetric, KDC-centric,
 and intranet-oriented, while JWT/OIDC is signature-based, decentralized, and web-oriented (Phase 5).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 28 — OAuth 2.0 Fundamentals →](lesson-28-oauth2){: .btn .btn-primary }

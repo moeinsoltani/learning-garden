@@ -234,3 +234,9 @@ Apply longest-prefix match to each:
 
 The pattern: as the destination's matching prefix gets longer, a more specific route can override the broader ones — `/32` beats `/25` beats `/24` beats the default `/0`.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 17 — Routing Between Namespaces →](lesson-17-routing-namespaces){: .btn .btn-primary }

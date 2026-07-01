@@ -211,3 +211,9 @@ login fails. Both trace back to the same root cause — these protocols encode <
 their security decisions (validity windows, replay windows), so the clock is a hard dependency, and
 keeping it synced (NTP/chrony) is what prevents these failures.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 73 — Network Observability & Telemetry →](lesson-73-observability){: .btn .btn-primary }

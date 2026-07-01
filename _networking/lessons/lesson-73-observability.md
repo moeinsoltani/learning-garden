@@ -203,3 +203,11 @@ enables alerting so you're notified as drops begin rather than after users compl
 historical baseline that makes "is this normal?" answerable. In short, observability turns the
 layer-by-layer method of Lesson 47 into something you can run on data you already have.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Back to the learning plan →](../learning-plan.html){: .btn .btn-primary }
+
+*🎉 You've reached the end of this track.*

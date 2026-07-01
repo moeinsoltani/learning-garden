@@ -206,3 +206,9 @@ Pin a 2-vCPU guest's vCPUs to two physical cores and its emulator thread to two 
 <br>
 After pinning, ps shows the "CPU N/KVM" vCPU threads on your chosen vCPU cores and the qemu-system emulator thread on the separate housekeeping cores (the PSR column). cyclictest's maximum latency typically drops and becomes more consistent after pinning+separation. The improvement comes from two effects: (1) cache warmth — a pinned vCPU stays on one core, so its L1/L2 cache and TLB aren't invalidated by migrations, reducing miss-driven latency; and (2) reduced preemption — with the emulator/iothreads on different cores and the vCPU cores isolated, nothing competes for or steals the vCPU's core, so the guest's real-time thread isn't interrupted at critical moments. The floating default suffered jitter from migrations and from overhead threads occasionally landing on the vCPU's core.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 51 — Memory and NUMA Tuning in Production →](lesson-51-memory-numa-tuning){: .btn .btn-primary }

@@ -201,3 +201,9 @@ many groups this can saturate links and overwhelm hosts' NICs/CPUs with unwanted
 confines each stream to the branches that asked for it, which is what makes multicast scale on real
 networks; turning it off effectively degrades multicast back into broadcast.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 72 — Time Synchronization (NTP & PTP) →](lesson-72-time-sync){: .btn .btn-primary }

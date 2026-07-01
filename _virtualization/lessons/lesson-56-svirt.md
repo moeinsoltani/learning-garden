@@ -202,3 +202,9 @@ On a host with two running VMs, run `ps -eZ | grep qemu` (SELinux) to see each Q
 <br>
 ps -eZ shows each QEMU under svirt_t with a unique MCS category pair (e.g. vmA: c123,c456; vmB: c789,c012), and ls -Z shows each disk labeled svirt_image_t with the *same* pair as its own VM — so vmA's process and vmA's disk share c123,c456, distinct from vmB's c789,c012. If vmA's QEMU tried to open vmB's disk: the open() syscall triggers the kernel's SELinux check, which compares the process's context (c123,c456) against the file's context (c789,c012); because the MCS categories don't match, the access vector cache denies the operation and open() returns EACCES — even though both run as the same uid (DAC would have allowed it). An AVC denial is logged. On AppArmor, /etc/apparmor.d/libvirt/ holds a per-VM generated profile that only permits that QEMU to access its own files; an attempt to open another VM's disk isn't in the profile, so AppArmor denies it (logged as apparmor="DENIED" in dmesg). Either way, label/profile-based MAC contains the breach to VM-A's own resources.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 57 — QEMU Hardening and Sandboxing →](lesson-57-qemu-hardening){: .btn .btn-primary }

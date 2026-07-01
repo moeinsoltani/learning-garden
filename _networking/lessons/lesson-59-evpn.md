@@ -212,3 +212,9 @@ simply not bridgeable and would require explicit inter-subnet routing (a Type-5 
 policy) to cross. The isolation is enforced by the VNI label plus route-target import filtering, which
 is EVPN's multi-tenancy mechanism: one physical fabric, many cryptographically-separate L2 domains.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 60 — Segment Routing & SRv6 →](lesson-60-srv6){: .btn .btn-primary }

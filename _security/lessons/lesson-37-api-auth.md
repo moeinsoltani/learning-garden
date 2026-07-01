@@ -171,3 +171,9 @@ caller, automatic/short rotation, TLS everywhere, and audit logging. The justifi
 the credential to the caller (public→key, user-delegated→bearer token, internal→mTLS) and containing damage
 with the cross-cutting controls so any single leak is scoped, rate-limited, and short-lived.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 38 — Zero-Trust Architecture →](lesson-38-zero-trust){: .btn .btn-primary }

@@ -165,3 +165,9 @@ controls — e.g. add a <strong>CAA DNS record</strong> restricting which CAs ma
 secure your registrar/DNS and ACME accounts. CT gives you the early-warning signal; CAA and account
 hardening reduce the chance of recurrence.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 12 — Running a Private CA →](lesson-12-private-ca){: .btn .btn-primary }

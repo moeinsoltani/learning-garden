@@ -219,3 +219,9 @@ Then `sudo sysctl --system` applies it (processing all sysctl.d locations in lex
 
 **Rule for predicting per-namespace settability:** a sysctl can be set per-namespace **if and only if it is *namespaced*** — i.e., the kernel maintains a separate value per network namespace for it. In practice, **routing and per-interface networking knobs** (`net.ipv4.ip_forward`, `net.ipv4.conf.<if>.*`, `net.ipv6.conf.<if>.*`, neighbor/route settings) are namespaced and thus per-namespace settable, while **host-wide resource limits** (`net.core.rmem_max`/`wmem_max` and similar `net.core.*`, and some `net.netfilter.*` table sizes) are global and shared. The empirical test: read the sysctl in a fresh namespace and on the host — if they can independently differ, it's namespaced and you can set it per-namespace; if they always track each other, it's global and must be set on the host.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 36 — eBPF Fundamentals →](lesson-36-ebpf-fundamentals){: .btn .btn-primary }

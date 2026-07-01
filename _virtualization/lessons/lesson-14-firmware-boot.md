@@ -199,3 +199,9 @@ Create two separate writable varstores (`vm1_VARS.fd` and `vm2_VARS.fd`) from th
 <br>
 With separate varstores, each VM persists its own UEFI boot order/settings independently across reboots, because each writes to its own NVRAM file. If both shared a single OVMF_VARS.fd, they'd race to write the same NVRAM: each VM's boot entries and Secure Boot keys would clobber the other's, settings would appear to randomly change, and concurrent writes could corrupt the varstore — leaving one or both VMs unable to find their boot entry. Per-VM varstores isolate this mutable firmware state, exactly like each physical machine having its own NVRAM chip.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 15 — The QEMU Monitor: HMP and QMP →](lesson-15-monitor-hmp-qmp){: .btn .btn-primary }

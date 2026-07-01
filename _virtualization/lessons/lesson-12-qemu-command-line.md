@@ -200,3 +200,9 @@ Explicit form for two disks:<br>
 <code>-blockdev driver=qcow2,node-name=hd1,file.driver=file,file.filename=disk2.qcow2 -device virtio-blk-pci,drive=hd1</code><br>
 Automation prefers the explicit form because each node and device is independently named and addressable (node-name=hd0), which is required for unambiguous hotplug, snapshots, live block operations (block-commit/mirror via QMP), and for libvirt to map each element onto a distinct XML node. The shorthand bundles backend+frontend opaquely, giving less control and no stable handle to reference later.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 13 — Machine Types and Accelerators →](lesson-13-machine-types-accel){: .btn .btn-primary }

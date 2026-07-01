@@ -204,3 +204,9 @@ forwarding to dst. So each waypoint sees itself as the destination while it's th
 "hands off" by advancing the pointer and rewriting the destination — the segment list is consumed
 front-to-back, exactly like stepping through a program's instructions.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 61 — Anycast →](lesson-61-anycast){: .btn .btn-primary }

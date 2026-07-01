@@ -211,3 +211,9 @@ Define or pick a domain and run `virsh domxml-to-native qemu-argv --domain <name
 <br>
 (a) The machine type appears as a pinned versioned type (e.g. -machine pc-q35-8.2,accel=kvm) — Lesson 13; libvirt pins it for migration stability rather than using the bare alias. (b) accel=kvm is the KVM accelerator — Lesson 13. (c) The disk is expressed as a -blockdev backend plus a -device virtio-blk-pci/virtio-scsi frontend referencing it — Lessons 12/24. Things libvirt added for free include: a QMP monitor socket (Lesson 15), explicit PCI device addressing, an OVMF/pflash setup if UEFI, sVirt security labels (Lesson 56), and sensible cache/aio defaults — all generated from the XML so you didn't hand-write them. (Any one such addition is a valid answer.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 40 — The Domain XML →](lesson-40-domain-xml){: .btn .btn-primary }

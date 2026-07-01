@@ -219,3 +219,9 @@ After adding `c2` with another veth pair into `mybr0`, `c1` can `ping 172.18.0.3
 
 Masquerade only applies to **internet-bound** traffic for two reasons. First, the masquerade rule is scoped to packets **leaving via the host's uplink** (`oifname "eth0"`) — same-bridge traffic never egresses that interface, so the rule simply doesn't match. Second, NAT is only *needed* when the source IP is unroutable at the destination: the private `172.18.0.x` addresses are perfectly routable **within** the bridge subnet, so peers can reach each other unmodified; they're only unroutable out on the public internet, which is exactly where (and only where) SNAT kicks in. In short: same-subnet = L2 forwarding, no NAT; off-subnet to the internet = routing + SNAT.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 43 — Kubernetes Networking →](lesson-43-kubernetes-networking){: .btn .btn-primary }

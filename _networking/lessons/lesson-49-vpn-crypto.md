@@ -171,3 +171,9 @@ becomes possible.
 <br>
 With a mismatched public key the two derived secrets differ, so any AEAD traffic encrypted by one side fails to authenticate/decrypt on the other — communication simply breaks. The guarantee at stake is <strong>authenticity</strong>: if a VPN encrypts to whatever public key it's handed without verifying it belongs to the intended peer, an attacker can insert <em>their own</em> public key, complete a key exchange with each side separately, and sit in the middle decrypting and re-encrypting everything — a <strong>man-in-the-middle attack</strong>. The traffic is still "encrypted" (confidentiality and integrity hold on each leg), but you're talking to the attacker, not your peer. This is why WireGuard requires you to configure each peer's public key out-of-band: knowing the correct public key in advance is what authenticates the far end.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 50 — IPsec and the xfrm Framework →](lesson-50-ipsec-xfrm){: .btn .btn-primary }

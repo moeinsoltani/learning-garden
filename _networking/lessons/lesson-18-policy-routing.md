@@ -247,3 +247,9 @@ tcpdump shows the asymmetry: the *request* appears on gwA's interface, but the *
 
 The fix — and the reason multi-homed servers *require* source-based policy routing — is to bind each connection's replies to the same uplink the request came in on: a rule per source address, each pointing at a table whose default route uses the matching gateway. That guarantees symmetric paths and keeps stateful devices and anti-spoofing filters happy.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 19 — FRR Introduction →](lesson-19-frr-intro){: .btn .btn-primary }

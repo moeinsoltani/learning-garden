@@ -167,3 +167,9 @@ key (via ECDHE), and then encrypts <em>all the bulk session data</em> with fast 
 costly public-key operations happen once per connection, and the cheap symmetric operations happen per
 packet — which is exactly the hybrid-encryption pattern, justified by the measured performance gap.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 4 — Digital Signatures →](lesson-04-signatures){: .btn .btn-primary }

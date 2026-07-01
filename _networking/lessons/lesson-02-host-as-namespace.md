@@ -268,3 +268,9 @@ Does the initial namespace appear? How can you tell?
 
 The initial namespace appears as the entry containing PID 1 (systemd/init). You can confirm it is the initial namespace because its inode matches what you saw in `/proc/1/ns/net`. There will typically be one entry per namespace — one for the initial namespace, and one each for ns1 and ns2 if they are still running.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 03 — Build Two Isolated Namespaces →](lesson-03-build-namespaces){: .btn .btn-primary }

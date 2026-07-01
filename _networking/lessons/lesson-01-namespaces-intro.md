@@ -242,3 +242,9 @@ Write one sentence below about what bringing `lo` up does and why it was not up 
 <br>
 Running `ip link set lo up` activates the loopback interface and causes the kernel to automatically assign 127.0.0.1/8 to it. It is not up by default because the kernel creates namespaces in a completely blank state — it makes no assumptions about what the namespace will be used for, so nothing is configured until you explicitly ask for it.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 02 — The Host Is Just Another Namespace →](lesson-02-host-as-namespace){: .btn .btn-primary }

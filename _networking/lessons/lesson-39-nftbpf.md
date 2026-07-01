@@ -208,3 +208,9 @@ Here the BPF program both *matches and decides* (it returns the drop/accept acti
 - *You gain:* it works without the `meta bpf` match compiled into nftables/kernel; TC-BPF is widely supported; you get the full skb context and can act on egress as well as ingress; and you avoid depending on a relatively rare nftables feature.
 - *You lose:* the **policy is no longer expressed in nftables**. With nftbpf, BPF supplied only the *match* and the drop verdict lived in the ruleset, so `nft list ruleset` showed the whole policy in one place alongside all your other firewall rules. With TC-BPF, the drop decision is buried inside the BPF program and the qdisc/filter config — it won't appear in `nft list ruleset`, so an operator auditing the firewall could miss it. You've traded **policy visibility and unified management** for **portability and independence from the nftbpf feature**. The general lesson: nftbpf keeps policy declarative and centralized while delegating only matching logic; TC/XDP-BPF move the whole decision into BPF, which is more capable and portable but less transparent to firewall tooling.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 40 — systemd-networkd →](lesson-40-systemd-networkd){: .btn .btn-primary }

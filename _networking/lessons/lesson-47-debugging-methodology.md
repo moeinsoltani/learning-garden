@@ -226,3 +226,9 @@ There's no single "correct" fault here — the point is the **process**, and a g
 
 **Congratulations — that's the whole curriculum.** From "what is a namespace" to diagnosing an arbitrary broken topology under time pressure, you've built every primitive by hand and can now reason about Docker, Kubernetes, overlays, firewalls, and eBPF as compositions of things you understand. The methodology in this lesson is what you'll actually reach for at 2 a.m. when something's down: never guess, work the layers, let the packet tell you where it stops.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 48 — Tunneling Fundamentals →](lesson-48-tunneling-fundamentals){: .btn .btn-primary }

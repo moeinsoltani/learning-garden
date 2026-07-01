@@ -211,3 +211,9 @@ Use `osinfo-query os` to find the identifier for an OS you have an ISO or cloud 
 <br>
 With the correct, modern --osinfo, dumpxml shows a q35 machine and virtio devices (disk bus='virtio', NIC model='virtio') plus appropriate defaults. With an old/wrong osinfo value, virt-install assumes the guest lacks virtio drivers and falls back to compatible emulated hardware — e.g. an i440fx/pc machine, a SATA or IDE disk bus, and an e1000/rtl8139 NIC. The device choices differ because osinfo encodes each OS's driver support and preferences. The correct --osinfo produces a better VM because virtio devices cause far fewer VM exits and run much faster (Phase 7), and the modern machine type/defaults match what the OS expects — whereas the wrong value either needlessly uses slow emulated devices or, in the opposite case (claiming virtio for an OS that lacks it), could leave the guest unable to see its disk.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 44 — Cloud Images and cloud-init →](lesson-44-cloud-init){: .btn .btn-primary }

@@ -217,3 +217,9 @@ Build a bridge `br0` containing your host uplink, create `tap0`, and boot a gues
 <br>
 With both ports on br0, the guest gets a real LAN IP from the network's DHCP and another machine can ping/SSH it directly — proving true L2 presence. This is what SLIRP fundamentally cannot give: SLIRP is userspace NAT with a private 10.0.2.0/24 and no inbound except per-port hostfwd via the host, so the guest is never a first-class LAN host. The risk of bridging the host's only NIC is connectivity loss/lockout: enslaving eth0 moves L3 to br0, so if addressing on br0 isn't configured correctly (or you do it remotely over that same NIC) the host can drop off the network — which is why you do it from a local console and assign br0 an IP immediately.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 33 — Accelerated Networking: vhost-net and Multiqueue →](lesson-33-accelerated-net){: .btn .btn-primary }

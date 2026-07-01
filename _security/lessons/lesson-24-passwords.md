@@ -170,3 +170,9 @@ specifically against <strong>credential stuffing / reused leaked passwords</stro
 already known to attackers. Layering them covers both the stored-data and live-endpoint threat positions, and
 the constant-time detail closes a subtle side channel.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 25 — Multi-Factor Authentication (TOTP/HOTP) →](lesson-25-mfa){: .btn .btn-primary }

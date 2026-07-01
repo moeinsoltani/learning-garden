@@ -167,3 +167,9 @@ doesn't depend on the browser but can fail silently if an app isn't configured f
 an app remains logged in when its logout notification (front- or back-channel) didn't reach or wasn't acted on
 — exactly why SLO is best-effort and why short app-session lifetimes are the reliable backstop.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 34 — Identity Providers in Practice (Keycloak) →](lesson-34-idp-keycloak){: .btn .btn-primary }

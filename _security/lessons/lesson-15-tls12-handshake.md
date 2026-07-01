@@ -169,3 +169,9 @@ used, which gives forward secrecy. If instead the suite started with plain <code
 e.g. <code>RSA-AES256-GCM-SHA384</code> with no DHE/ECDHE), there would be <em>no</em> forward secrecy. So
 "ECDHE/DHE present → forward secrecy; static RSA key exchange → none."
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 16 — The TLS 1.3 Handshake →](lesson-16-tls13-handshake){: .btn .btn-primary }

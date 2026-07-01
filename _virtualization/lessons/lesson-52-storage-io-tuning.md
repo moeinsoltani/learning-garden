@@ -206,3 +206,9 @@ Benchmark a guest disk with `fio` (4k random read, iodepth 32) in four configura
 <br>
 You'll see IOPS rise as you add an iothread, then multiqueue, then the cache=none/io_uring combo, though the biggest gain depends on the backing device. On fast NVMe, multiqueue + io_uring usually dominate, because the device can serve far more parallel IOPS than a single queue/main-loop context can submit — the bottleneck is submission parallelism, so adding queues and a low-overhead async engine unlocks the device. On a single HDD, the device itself caps IOPS (seek-bound), so iothread/multiqueue help little and the differences are small — you're storage-limited, not software-limited. On a SATA SSD it's in between. The lesson: tuning the I/O path helps most when the backing device has more performance to give than the default single-threaded, single-queue path can extract; on slow media the device is the limit and software tuning yields little.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 53 — Observability: Measuring a Running VM →](lesson-53-observability){: .btn .btn-primary }

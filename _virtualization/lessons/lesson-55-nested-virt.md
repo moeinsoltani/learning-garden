@@ -195,3 +195,9 @@ On your host (L0), check `/sys/module/kvm_intel/parameters/nested` (or kvm_amd).
 <br>
 After enabling nested=1 on L0 and giving L1 -cpu host, inside L1 <code>grep -oE 'vmx|svm' /proc/cpuinfo</code> returns the flag and <code>kvm-ok</code> reports KVM can be used; an L2 guest then boots with -accel kvm. To tell whether L2 uses KVM vs TCG: check that L2 was launched with -accel kvm (and didn't error/fall back), confirm /dev/kvm was usable in L1, and run <code>kvm_stat</code> in L1 while L2 runs — nonzero exit counters mean hardware-accelerated KVM is active for L2 (TCG would show no KVM exits and L2 would be conspicuously slow to boot). Nesting matters for this curriculum because if your "host" is itself a VM, you need L0 nesting + exposed vmx/svm for /dev/kvm to work, so your lab VMs run with KVM acceleration instead of crawling under TCG.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 56 — sVirt: Confining QEMU with MAC →](lesson-56-svirt){: .btn .btn-primary }

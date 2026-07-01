@@ -196,3 +196,9 @@ Create a 20 GiB qcow2, note its `disk size` from `qemu-img info`. Then attach it
 <br>
 Initially disk size is tiny (~200 KiB) because the qcow2 is thin. After writing ~1 GiB inside the guest, disk size grows to roughly 1 GiB+ because qcow2 lazily allocated clusters for the newly written data. If you then delete the file inside the guest, the qcow2 usually does NOT shrink automatically — the clusters remain allocated (unless discard/TRIM is plumbed through). Running <code>qemu-img convert</code> to a new qcow2 rewrites only the live data, dropping the now-unreferenced clusters, so the converted image is smaller — demonstrating that convert compacts/reclaims freed space that a delete alone didn't return.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 23 — qcow2 Internals: Backing Files and Copy-on-Write →](lesson-23-qcow2-internals){: .btn .btn-primary }

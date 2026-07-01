@@ -206,3 +206,9 @@ Identify your GPU's complete IOMMU group with `ls /sys/bus/pci/devices/<gpu-addr
 <br>
 The group listing typically shows the VGA function plus an HDMI/DP audio function (and possibly USB-C/UCSI functions) — all of which must be passed to the guest together, because the IOMMU can't split a group. If your host has a second GPU (e.g. integrated graphics + a discrete card), it's a dual-GPU setup: you can bind the discrete GPU's whole group to vfio-pci and pass it to a guest while the host keeps its display on the other GPU — the clean case. If you have only one GPU, it's single-GPU: passing it through means the host loses its display, requiring fragile start/stop scripts to detach and reattach the GPU around the VM's lifetime, so realistic passthrough without losing the host display isn't possible without those hooks (or a second GPU).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 38 — SR-IOV and Mediated Devices →](lesson-38-sriov-mdev){: .btn .btn-primary }

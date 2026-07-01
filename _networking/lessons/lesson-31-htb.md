@@ -218,3 +218,9 @@ Setup: `htb default 30` root at, say, 10mbit; class `1:10 interactive rate 3mbit
 
 **Why HTB protects latency-sensitive traffic:** HTB gives each class its **own queue and its own guaranteed service rate**. Even when bulk wants the whole link, the scheduler ensures the interactive class gets serviced at (at least) its guaranteed rate, so its small packets don't get stuck behind the bulk backlog — they're pulled from a separate queue on schedule. The bulk class can still *borrow* idle capacity (efficiency), but the instant interactive has traffic, its guarantee is honored (protection). Combining HTB (per-class bandwidth guarantee) with a low-latency leaf qdisc like fq_codel (keeps each class's queue short) is the standard recipe for "keep VoIP/SSH/gaming snappy while big downloads run." The key idea: isolation into separate queues with guaranteed rates prevents one heavy flow from monopolizing the queue and inflating everyone else's latency.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 32 — tc Filters →](lesson-32-tc-filters){: .btn .btn-primary }

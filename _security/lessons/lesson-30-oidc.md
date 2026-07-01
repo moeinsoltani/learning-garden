@@ -166,3 +166,9 @@ replayed at yours; it must be addressed to you. (4) <strong><code>exp</code> che
 issuer, intended for your app, and still valid — the core of safe OIDC authentication and the antidote to the
 "any valid token = logged in" mistake.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 31 — JWT Deep Dive →](lesson-31-jwt){: .btn .btn-primary }

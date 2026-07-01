@@ -203,3 +203,9 @@ Create an `active-backup` bond with two slaves and start a continuous ping throu
 <br>
 During each failover you typically lose zero to a small handful of pings. The exact number depends on the link-monitoring interval (`miimon`) — the bond only notices a slave is down when its link-state monitor detects the carrier drop, and only then promotes the backup. With MII monitoring at the default interval, the gap is usually under a second, so a 1-per-second ping might lose one packet or none. Once the active slave is restored you can take the other one down with no loss, because there's always at least one healthy slave carrying `bond0`'s traffic. `/proc/net/bonding/bond0` shows `Currently Active Slave` flipping between eth1 and eth2 at each transition while the bond's IP/MAC stay put. The takeaway: failover is fast but not perfectly instantaneous — it's bounded by how quickly link failure is detected, which is why `miimon` tuning matters in HA setups.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 10 — Dummy Interfaces →](lesson-10-dummy){: .btn .btn-primary }

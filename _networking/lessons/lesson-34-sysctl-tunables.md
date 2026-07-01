@@ -218,3 +218,9 @@ Investigate `net.ipv4.tcp_congestion_control`. Check the current algorithm and t
 
 So on the *same* physical link, the throughput you get depends on the algorithm's *philosophy*: loss-based controllers conflate random loss with congestion and back off too aggressively, while BBR's rate-based model sustains higher utilization. This is exactly why operators tune `tcp_congestion_control` (e.g., to BBR) for long-haul, lossy, or high-BDP paths — the link didn't change, but the sender's *strategy* did, and strategy determines how much of the link a TCP flow can actually use.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 35 — sysctl Persistence →](lesson-35-sysctl-persistence){: .btn .btn-primary }

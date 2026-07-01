@@ -165,3 +165,9 @@ The exercise should conclude with the trade-off: cookie-based → guard CSRF (Sa
 HttpOnly handles XSS theft; storage-based → guard XSS hard (CSP, sanitization) since there's no HttpOnly
 protection. Either way, the chosen storage dictates which attack you must most carefully defend.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 24 — Passwords & Credential Storage →](lesson-24-passwords){: .btn .btn-primary }

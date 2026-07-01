@@ -233,3 +233,9 @@ With both LAN hosts (`.10` and `.20`) connecting to the same server:port behind 
 
 If both internal hosts happened to choose the **same** source port for their connection to the same server:port, there would be a collision — two flows that, after naive SNAT, would have identical translated 5-tuples, making their replies ambiguous. NAT handles this with **port translation**: the router detects the conflict and rewrites one flow's source port to a different, unused value (port remapping) so the translated tuples stay unique. You'd see this in `conntrack -L` as the translated source port differing from the original. The takeaway: NAT guarantees each flow has a unique translated tuple by rewriting ports when necessary, which is what lets hundreds of devices share a single public address without their replies getting mixed up.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 23 — Conntrack →](lesson-23-conntrack){: .btn .btn-primary }

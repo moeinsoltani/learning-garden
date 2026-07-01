@@ -191,3 +191,9 @@ Boot a guest twice: once with `-nographic` (serial) and once with `-vnc :1` plus
 <br>
 VNC display numbers map to TCP ports as 5900 + N, so <code>-vnc :1</code> means display 1 → port 5901 (and <code>:0</code> would be 5900). SPICE adds desktop-integration capabilities that neither plain VNC nor serial provides — for example USB device redirection (plug a host USB device straight into the guest), shared clipboard between host and guest, audio, and automatic resolution resizing via the guest spice-vdagent. Serial is text-only; VNC is pixels+input only; SPICE is built for full desktop interaction.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 17 — vCPU Models and Feature Flags →](lesson-17-vcpu-models){: .btn .btn-primary }

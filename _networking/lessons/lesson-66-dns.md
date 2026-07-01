@@ -205,3 +205,9 @@ only encrypted bytes, not the names being looked up. The lookups become private 
 that hop (an on-path observer can't see or modify them), though the resolver's own upstream behavior and
 caching are unchanged. (DoH would similarly hide them, as TLS on 443 indistinguishable from web traffic.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 67 — Layer-4 Load Balancing (IPVS/LVS) →](lesson-67-ipvs){: .btn .btn-primary }

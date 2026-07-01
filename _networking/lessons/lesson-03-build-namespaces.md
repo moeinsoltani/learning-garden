@@ -298,3 +298,9 @@ to each namespace and explain why the host namespace shows a much higher NPROCS 
 <br>
 The host (initial) namespace shows a high NPROCS because every process on the system that hasn't been moved into another namespace lives there — systemd, sshd, your shell, cron, and everything else. ns1 and ns2 each show NPROCS of 1 or 0 because no long-running process lives inside them; they exist as persistent objects (pinned via /var/run/netns/) but are currently empty.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 04 — IP Addressing Fundamentals →](lesson-04-ip-addressing){: .btn .btn-primary }

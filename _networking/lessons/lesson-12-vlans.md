@@ -221,3 +221,9 @@ The trick is that the VLANs must become *different subnets* and a router bridges
 
 Now ns1→ns2 goes: ns1 sends to its gateway (router's `eth0.10`, tagged VLAN 10 on the trunk), the router routes it to the `10.0.20.0/24` interface, and it leaves as `eth0.20` (tagged VLAN 20) to ns2. One physical link (the trunk) carries both VLANs; the router moves packets between them at L3. This is the classic "router-on-a-stick" design, and it shows the only correct way to connect two VLANs is *routing*, not bridging.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 13 — MACVLAN →](lesson-13-macvlan){: .btn .btn-primary }

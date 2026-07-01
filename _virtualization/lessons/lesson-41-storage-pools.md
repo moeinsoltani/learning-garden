@@ -216,3 +216,9 @@ Create a volume with `virsh vol-create-as default test.qcow2 5G --format qcow2`,
 <br>
 Both report the same underlying qcow2 (virtual capacity 5G, thin allocation), because the pool volume *is* a qcow2 file — vol-info shows libvirt's tracked view (pool, capacity, allocation) while qemu-img info shows the raw format metadata directly. Creating inside the pool is preferable because libvirt then knows the volume exists (it appears in vol-list, capacity tracking is accurate), and it applies correct ownership/permissions and per-VM sVirt labels when the domain starts and restores them on stop. A hand-placed qcow2 outside libvirt's management often hits "permission denied" or sVirt denials because libvirt didn't create/label it, and it isn't tracked for capacity, cloning, or cleanup. Going through the pool keeps storage consistent, secure, and manageable.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 42 — libvirt Virtual Networks →](lesson-42-libvirt-networks){: .btn .btn-primary }

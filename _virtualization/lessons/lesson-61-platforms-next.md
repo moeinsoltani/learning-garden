@@ -208,3 +208,11 @@ Sketch (on paper or in a doc) a two-node KVM cloud: two hosts, shared storage, a
 <br>
 Sketch mapping (manual → platform): two hosts ready via virt-host-validate (Lesson 7) → platform's node onboarding/cluster join; shared storage via an NFS/Ceph libvirt pool reachable at the same path (Lesson 41) → orchestrated storage (Proxmox Ceph / OpenStack Cinder); common CPU model via virsh hypervisor-cpu-baseline so VMs run either way (Lessons 17/49) → the scheduler's CPU-compatibility matching; bridged networking on both nodes (Lesson 42) → cluster software-defined networking; a VM defined from domain XML (Lesson 40) → self-service VM creation API/UI; live migration via virsh migrate --live (Lesson 49) → one-click migrate + automatic HA on host failure. Platform choice (example justification): I'd learn Proxmox VE next because it's the fastest way to get a real clustered KVM environment with HA, Ceph, and backups on modest hardware (great for a homelab), and everything it does maps directly to the libvirt/QEMU primitives I now understand — so I can both use the GUI and drop to the CLI to debug. (If my goal were container-native infrastructure, I'd pick KubeVirt to manage VMs alongside pods via kubectl; if building a private IaaS cloud, OpenStack Nova.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Back to the learning plan →](../learning-plan.html){: .btn .btn-primary }
+
+*🎉 You've reached the end of this track.*

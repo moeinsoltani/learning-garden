@@ -199,3 +199,9 @@ the link's loss stops being a reliable proxy for congestion — on a clean link 
 CUBIC is fine, but once loss is dominated by the medium (wireless, long-haul) the loss-equals-congestion
 assumption is simply wrong and BBR's measured model wins.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 63 — NIC Offloads & Multiqueue Scaling →](lesson-63-nic-offloads){: .btn .btn-primary }

@@ -217,3 +217,9 @@ ns1 (`10.0.0.1`) cannot reach the third namespace (`192.168.0.5`) even though th
 
 The bridge being a pure L2 device means "same wire" but not "same subnet." To connect the two subnets you need a **router**: a namespace (or the host) with an address in each subnet and `ip_forward` enabled, plus routes/default gateways so each side knows to send cross-subnet traffic to the router. A bridge alone cannot join two different IP subnets — that's a routing job (Phase 5).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 12 — VLAN Interfaces →](lesson-12-vlans){: .btn .btn-primary }

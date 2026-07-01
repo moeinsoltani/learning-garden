@@ -179,3 +179,9 @@ entirely on whether the verifier already trusts the root that anchors its chain.
 public CAs rely on — they're simply pre-installed in everyone's trust store — and it's why running a
 private CA is fundamentally about <em>distributing your root</em> to the clients you control.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 13 — ACME & Let's Encrypt →](lesson-13-acme){: .btn .btn-primary }

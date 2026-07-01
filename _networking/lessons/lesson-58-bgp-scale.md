@@ -209,3 +209,9 @@ on every router. Change the policy in one spot and it applies fleet-wide; add a 
 tag it with the agreed community. This separation of tagging from action is exactly why large networks
 run almost entirely on community-driven route-maps.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 59 — BGP EVPN & VXLAN Fabrics →](lesson-59-evpn){: .btn .btn-primary }

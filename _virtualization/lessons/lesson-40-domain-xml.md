@@ -225,3 +225,9 @@ On a running VM, use `virsh edit` to change `<vcpu>` and confirm with `virsh vcp
 <br>
 After virsh edit, vcpucount shows the config maximum/current updated but the live value unchanged — proving the edit only touched persistent config. <code>virsh setvcpus &lt;dom&gt; N --live</code> then raises the live count (within maxvcpus), and the guest sees the new CPUs without reboot. <code>virsh attach-device ... --live --config</code> hot-adds the disk (visible via lsblk in the guest immediately) and also persists it for next boot. The rule: libvirt keeps two configs — persistent (on disk, applied at next start) and live (the running instance). Editing XML changes persistent only; to affect the running VM use --live, and to make a change both immediate and durable use --live --config (and the change must be hot-pluggable / within limits).
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 41 — Storage Pools and Volumes →](lesson-41-storage-pools){: .btn .btn-primary }

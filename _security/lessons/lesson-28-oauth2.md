@@ -173,3 +173,9 @@ it as "logged in" — recognizable by the absence of the <code>openid</code> sco
 the token as a login. The tell is the <code>openid</code> scope and the presence of a verifiable ID token:
 present → proper authentication; absent but used as login → the classic anti-pattern.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 29 — OAuth 2.0 Flows & PKCE →](lesson-29-oauth-flows){: .btn .btn-primary }

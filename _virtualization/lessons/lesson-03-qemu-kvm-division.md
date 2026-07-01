@@ -199,3 +199,9 @@ Start a guest with `-smp 4` and use `ps -L` (as in the lab) to count the threads
 <br>
 With -smp 4 you'd see four "CPU N/KVM" vCPU threads plus a main/IO thread. During a pure CPU benchmark, all four vCPU threads stay inside ioctl(KVM_RUN) almost continuously (the guest runs natively with almost no exits) — that's ideal. When the guest hammers an emulated NIC, each register access forces a VM exit back to QEMU, and the QEMU main/IO thread (the device-model thread) becomes busy emulating the NIC, while the vCPU threads keep exiting and re-entering — lots of context switching, which is exactly why virtio/vhost exist to cut those exits.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 04 — Rings, Privileged Instructions, and Trap-and-Emulate →](lesson-04-rings-trap-emulate){: .btn .btn-primary }

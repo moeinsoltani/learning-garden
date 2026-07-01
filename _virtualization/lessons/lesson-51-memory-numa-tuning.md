@@ -212,3 +212,9 @@ Configure a guest with `<numatune mode='strict' nodeset='0'>`, node-0 hugepages,
 <br>
 With strict numatune + node-0 hugepages + node-0 vCPU pinning, numastat shows the guest's Private and Huge memory entirely on Node 0 and ~0 on Node 1 — local to its vCPUs. After removing the numatune binding (vCPUs still pinned to node 0), on a dual-node host the guest's memory can be allocated partly or wholly on node 1 (wherever the kernel found free pages at allocation time), so numastat shows memory split across nodes or sitting on node 1 — meaning the node-0 vCPUs now make remote accesses, degrading bandwidth/latency. The strict binding mattered because it forces all guest RAM to come from node 0 (failing rather than spilling), guaranteeing locality with the pinned vCPUs. On a single-node host there's only Node 0, so both cases look identical and NUMA binding is a no-op — the distinction only appears with two or more populated nodes.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 52 — Storage and I/O Tuning →](lesson-52-storage-io-tuning){: .btn .btn-primary }

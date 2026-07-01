@@ -202,3 +202,9 @@ Add a third namespace `pod-c` (10.0.2.8/24) on "node 2" and model a **ClusterIP 
 
 **Why ClusterIP is a legitimate NAT exception:** pod-to-pod must stay NAT-free so pods see real IPs, but a **Service IP is a virtual abstraction that points to no single real interface** — it deliberately fronts a *changing set* of pods. The only way to turn "connect to this stable virtual IP" into "reach one of these real, ephemeral pod IPs" is to **rewrite the destination (DNAT)** and pick a backend. So NAT appears precisely where the model needs to translate a stable abstraction into a concrete, changing reality — at the Service edge — while the underlying pod-to-pod fabric stays flat and untranslated. (The other edge NAT is SNAT for cluster→internet egress.)
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 44 — VXLAN-based CNI (Flannel) →](lesson-44-flannel-vxlan){: .btn .btn-primary }

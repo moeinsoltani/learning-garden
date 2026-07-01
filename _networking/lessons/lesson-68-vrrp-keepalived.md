@@ -215,3 +215,9 @@ actually works. This demonstrates the core point: VRRP alone fails over on <em>h
 keepalived's health checks let you fail over on <em>service</em> failure by dynamically adjusting
 priority.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 69 — QUIC & HTTP/3 →](lesson-69-quic){: .btn .btn-primary }

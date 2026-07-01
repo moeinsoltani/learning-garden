@@ -337,3 +337,9 @@ While the entry is STALE or DELAY, pings may still appear to work momentarily (t
 
 Bringing veth-ns2 back up does not automatically re-trigger ARP. You either wait for the FAILED entry to expire and then ping again, or flush the entry manually with `ip neigh flush dev veth-ns1` and ping.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 06 — tcpdump, Your Constant Companion →](lesson-06-tcpdump){: .btn .btn-primary }

@@ -239,3 +239,9 @@ You'd create: a `.netdev` for the bridge with `[Bridge] VLANFiltering=yes`, a `.
 
 **What's harder declaratively:** anything **dynamic or namespace-based**. systemd-networkd manages devices in the host (or a given) network namespace and is built around devices that persist; orchestrating per-namespace topologies (like the `ip netns exec` labs), or steps that must happen in a specific runtime order with conditional logic, don't map cleanly onto static `[Match]`-based files. For those you'd still use a script or a tool that drives namespaces (or run a networkd instance per namespace), or use systemd service units / `ExecStart` hooks for the imperative glue, reserving the declarative files for the persistent device/address/route layer. The practical pattern: declarative files for steady-state device/addressing/routing, scripts/units for the genuinely procedural or namespace-spanning parts.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 41 — Other Persistence Approaches →](lesson-41-persistence-alternatives){: .btn .btn-primary }

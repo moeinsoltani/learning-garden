@@ -170,3 +170,9 @@ window to limit the damage of a compromised key (Lesson 10) without any operatio
 short certs, and short certs are the payoff that justifies ACME — together they replace the fragile
 revocation model with "expire fast, renew automatically."
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 14 — SSL → TLS History & Versions →](lesson-14-tls-history){: .btn .btn-primary }

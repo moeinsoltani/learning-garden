@@ -175,3 +175,9 @@ handles it; you can also revoke/rotate the trust domain if needed). Design (b) l
 replaces a static, broadly-valid, copyable secret with an ephemeral, narrowly-scoped, automatically-expiring,
 non-copyable identity — exactly the properties that make a leak low-impact and recovery hands-off.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 36 — Secret Management & Short-Lived Credentials →](lesson-36-secrets){: .btn .btn-primary }

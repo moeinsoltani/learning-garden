@@ -179,3 +179,9 @@ who intercepts the code but never saw the verifier cannot complete the exchange,
 guarantee: it binds the authorization code to the originating client, neutralizing code interception for
 public clients that can't hold a long-term secret.
 </details>
+
+---
+
+<!-- nav-next -->
+[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 30 — OpenID Connect (OIDC) →](lesson-30-oidc){: .btn .btn-primary }
