@@ -254,4 +254,4 @@ File paths follow `_security/lessons/lesson-NN-<slug>.md`. Cross-links to networ
 the security TLS phase ↔ networking Lesson 70 (TLS on the wire); security crypto phase ↔
 networking Lesson 49 (VPN crypto primer); security zero-trust ↔ networking Phase 16 (mesh VPNs).
 
-*(Security track scaffolded; lessons being written.)*
+*(Security track complete — lessons 01–40 all written. Update this index if lessons change.)*
