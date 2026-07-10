@@ -284,8 +284,8 @@ networking Lesson 49 (VPN crypto primer); security zero-trust ↔ networking Pha
 ## Operating Systems Lesson Index
 Phase parent pages live at `_os/lessons/phase-NN-name.md`. File paths follow
 `_os/lessons/lesson-NN-<slug>.md`. Mark each ✓ as its file lands.
-- Phase 1 — The Kernel Boundary: 01 what-an-os-does, 02 syscalls-strace, 03 libc-abi-vdso, 04 proc-sys, 05 interrupts-timers
-- Phase 2 — Processes: 06 process-anatomy, 07 fork-exec, 08 process-lifecycle, 09 signals, 10 sessions-job-control, 11 credentials-capabilities
+- Phase 1 — The Kernel Boundary: 01 what-an-os-does ✓, 02 syscalls-strace ✓, 03 libc-abi-vdso ✓, 04 proc-sys ✓, 05 interrupts-timers ✓
+- Phase 2 — Processes: 06 process-anatomy ✓, 07 fork-exec ✓, 08 process-lifecycle ✓, 09 signals ✓, 10 sessions-job-control ✓, 11 credentials-capabilities ✓
 - Phase 3 — Scheduling: 12 context-switches, 13 cfs-eevdf, 14 priorities-realtime, 15 affinity-psi
 - Phase 4 — Memory: 16 virtual-memory, 17 page-tables-tlb, 18 process-memory-layout, 19 page-faults, 20 page-cache, 21 swap-reclaim, 22 oom-overcommit, 23 hugepages-numa
 - Phase 5 — Concurrency: 24 threads, 25 race-conditions, 26 mutex-futex, 27 condvars-semaphores, 28 deadlock, 29 atomics-ordering, 30 async-patterns
