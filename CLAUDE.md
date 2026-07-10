@@ -325,7 +325,7 @@ variants). Mark each ✓ as its file lands.
 Phase parent pages live at `_english/lessons/phase-NN-name.md`. File paths follow
 `_english/lessons/lesson-NN-<slug>.md`. Labs are rewrite drills + phrase banks (see
 Lab variants). Mark each ✓ as its file lands.
-- Phase 1 — Sentence Mechanics: 01 sentence-core, 02 articles-a-the, 03 articles-zero, 04 verb-tenses, 05 subject-verb-agreement, 06 prepositions, 07 connecting-ideas, 08 punctuation-chat, 09 error-clinic
+- Phase 1 — Sentence Mechanics: 01 sentence-core ✓, 02 articles-a-the ✓, 03 articles-zero ✓, 04 verb-tenses ✓, 05 subject-verb-agreement ✓, 06 prepositions ✓, 07 connecting-ideas ✓, 08 punctuation-chat ✓, 09 error-clinic ✓
 - Phase 2 — Words That Sound Natural: 10 do-make-confusions, 11 phrasal-verbs, 12 translated-sentences, 13 concise-words
 - Phase 3 — Tone & Warmth: 14 register, 15 softeners-hedging, 16 openers-closers, 17 requests, 18 disagreeing-no, 19 apologies-thanks, 20 sounding-engaged
 - Phase 4 — Slack Communication: 21 message-shapes, 22 status-updates, 23 asking-for-help, 24 answering-unblocking, 25 async-etiquette, 26 announcements
