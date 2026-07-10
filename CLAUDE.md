@@ -291,7 +291,7 @@ Phase parent pages live at `_os/lessons/phase-NN-name.md`. File paths follow
 - Phase 5 — Concurrency: 24 threads ✓, 25 race-conditions ✓, 26 mutex-futex ✓, 27 condvars-semaphores ✓, 28 deadlock ✓, 29 atomics-ordering ✓, 30 async-patterns ✓
 - Phase 6 — IPC: 31 pipes-fifos ✓, 32 unix-sockets ✓, 33 shared-memory ✓, 34 message-queues ✓, 35 eventfd-signalfd ✓
 - Phase 7 — Files & Filesystems: 36 file-descriptors ✓, 37 vfs-inodes ✓, 38 ext4-journaling ✓, 39 filesystem-zoo ✓, 40 mounts-bind ✓, 41 io-fsync ✓, 42 block-layer ✓
-- Phase 8 — Event-Driven & Async I/O: 43 epoll, 44 io-uring, 45 zero-copy
+- Phase 8 — Event-Driven & Async I/O: 43 epoll ✓, 44 io-uring ✓, 45 zero-copy ✓
 - Phase 9 — Linking & Loading: 46 elf-static-linking, 47 dynamic-loader, 48 shared-libraries, 49 ld-preload
 - Phase 10 — Boot & Init: 50 boot-process, 51 initramfs, 52 systemd, 53 modules-udev
 - Phase 11 — Kernel Interfaces & Security: 54 kernel-module, 55 char-device, 56 seccomp, 57 lsm, 58 build-kernel
