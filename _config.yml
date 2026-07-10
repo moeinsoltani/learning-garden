@@ -50,6 +50,15 @@ collections:
   security:
     permalink: "/:collection/:path:output_ext"
     output: true
+  os:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+  leadership:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+  english:
+    permalink: "/:collection/:path:output_ext"
+    output: true
 
 just_the_docs:
   collections:
@@ -61,6 +70,15 @@ just_the_docs:
       nav_fold: true
     security:
       name: Security & Identity
+      nav_fold: true
+    os:
+      name: Operating Systems
+      nav_fold: true
+    leadership:
+      name: Engineering Leadership
+      nav_fold: true
+    english:
+      name: English for Work
       nav_fold: true
 
 exclude:

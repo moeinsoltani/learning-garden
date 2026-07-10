@@ -87,6 +87,23 @@ needed: `step-ca` (Lesson 12), `certbot` (Lesson 13), `krb5-user` (Lesson 27),
 Docker for Keycloak (Lesson 34) — install Docker with
 `curl -fsSL https://get.docker.com | sh` when you reach it.
 
+### 🧠 Operating Systems
+
+```bash
+$ sudo apt install -y build-essential gdb ltrace strace \
+    linux-tools-common linux-tools-generic trace-cmd sysstat
+```
+
+Verify: `gcc --version` and `strace -V` both print a version. Phase 11 (kernel
+modules) additionally needs `linux-headers-$(uname -r)` — that lesson covers it.
+
+### 🧭 Engineering Leadership & 💬 English for Work
+
+Nothing to install — labs in these two tracks are written exercises (scenarios
+and rewrite drills), not terminal commands. All you need is somewhere to write
+your answers before revealing the model ones: a notebook, a text file, or a
+document per phase.
+
 ---
 
 ## How to study a lesson
@@ -104,8 +121,9 @@ Each lesson has the same shape. Work it in this order:
 5. Follow the **Next lesson** link at the bottom. Lessons build strictly on the
    ones before them, so go in order within a track.
 
-The three tracks are independent — you can do one at a time or interleave them.
-Where they overlap (TLS, VPN crypto, VM networking) the lessons cross-link.
+The tracks are independent — you can do one at a time or interleave them.
+Where they overlap (TLS, VPN crypto, VM networking, leadership ↔ English) the
+lessons cross-link.
 
 {: .note }
 > **Cleaning up after labs**

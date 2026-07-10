@@ -1,32 +1,37 @@
 # CLAUDE.md — Linux Systems Learning Project
 
-This repo hosts **three independent learning tracks** on one Just the Docs site:
+This repo hosts **six independent learning tracks** on one Just the Docs site:
 - **Networking** — in the `_networking/` collection
 - **Virtualization (QEMU/KVM)** — in the `_virtualization/` collection
 - **Security & Identity** — in the `_security/` collection
+- **Operating Systems** — in the `_os/` collection
+- **Engineering Leadership** — in the `_leadership/` collection (scenario labs, no terminal)
+- **English for Work** — in the `_english/` collection (rewrite-drill labs, no terminal)
 
 ## Student Profile
-- Experience level: very limited (beginner)
+- Linux experience: was a beginner; has now completed the networking, virtualization,
+  and security tracks — the OS track can build on all three (cross-link freely)
+- Day job: Senior Software Developer aiming for Lead/EM (the leadership track's audience)
+- Non-native English speaker; common error patterns: subject–verb agreement,
+  articles, dropped words. Wants a warm, soft tone in messages (the English track's focus)
 - Platform: Windows 11, with access to a Linux VM and WSL2
 - Use the Linux VM for labs (WSL2 as fallback for early lessons)
 
 ## Repository Structure
-The site is split into three Jekyll collections, each its own nav section:
+The site is split into six Jekyll collections, each its own nav section:
 ```
 index.md                         # landing page / track chooser (nav_order 1, site root)
 lab-setup.md                     # environment prep + how-to-study guide (nav_order 2, site root)
 _config.yml                      # defines all collections (see Site Theme)
-_networking/
-  learning-plan.md               # networking curriculum
-  lessons/                       # phase-NN-*.md parents + lesson-NN-*.md
-_virtualization/
-  learning-plan.md               # virtualization curriculum
-  lessons/                       # phase-NN-*.md parents + lesson-NN-*.md
+_networking/                     # each track: learning-plan.md + lessons/
+_virtualization/                 #   lessons/ = phase-NN-*.md parents + lesson-NN-*.md
 _security/
-  learning-plan.md               # security & identity curriculum
-  lessons/                       # phase-NN-*.md parents + lesson-NN-*.md
+_os/
+_leadership/
+_english/
 ```
-- `<track>` below means `networking`, `virtualization`, or `security`.
+- `<track>` below means `networking`, `virtualization`, `security`, `os`,
+  `leadership`, or `english`.
 - A page's URL is `/<track>/lessons/<file>.html` (collection permalink keeps the
   `lessons/` path so relative `(lesson-NN-...)` links between phase and lesson
   pages resolve).
@@ -42,9 +47,9 @@ For each lesson:
 
 ## Site Theme
 - Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
-- Config: `_config.yml` — defines the `networking`, `virtualization`, and `security`
-  collections and their nav names under `just_the_docs.collections`. Do not change the
-  theme or collection setup without updating this file.
+- Config: `_config.yml` — defines all six collections and their nav names under
+  `just_the_docs.collections`. Do not change the theme or collection setup without
+  updating this file.
 - Phase parent pages live in `_<track>/lessons/phase-NN-name.md` with `has_children: true`
 - Lesson files live in `_<track>/lessons/lesson-NN-topic.md` with `parent: "Phase N: Name"`
 - `parent`/`nav_order`/`has_children` nest pages **within their own collection** — a
@@ -73,6 +78,19 @@ Then immediately after front matter:
 
 Model answers must always be written — never leave a checkpoint or homework without one.
 
+### Lab variants for the non-terminal tracks
+The `leadership` and `english` tracks keep the same section names and hidden-answer
+format, but their **Lab** is not terminal commands:
+- **Leadership** — a realistic scenario ("your PM promised a date you can't hit");
+  the student writes their response (`**Your response:**` field), then reveals a
+  model answer explaining the reasoning, common mistakes, and useful phrasing.
+- **English** — a rewrite drill: broken/blunt source messages, `**Your rewrite:**`
+  fields, hidden model rewrites with the reasoning. Every English lesson also ends
+  with a **Phrase Bank** table (before Further Reading) of same-day-usable lines.
+- Further Reading for these tracks cites books/articles (The Manager's Path,
+  StaffEng, LeadDev, style guides) instead of man pages; only link URLs certain
+  to exist.
+
 ## Handling Student Questions
 When the student asks a question about a term or concept from a lesson:
 1. Answer briefly in chat
@@ -100,6 +118,9 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Networking: `_networking/learning-plan.md`
 - Virtualization: `_virtualization/learning-plan.md`
 - Security & Identity: `_security/learning-plan.md`
+- Operating Systems: `_os/learning-plan.md`
+- Engineering Leadership: `_leadership/learning-plan.md`
+- English for Work: `_english/learning-plan.md`
 
 ## Networking Lesson Index
 - Lesson 01: `_networking/lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
@@ -259,3 +280,59 @@ the security TLS phase ↔ networking Lesson 70 (TLS on the wire); security cryp
 networking Lesson 49 (VPN crypto primer); security zero-trust ↔ networking Phase 16 (mesh VPNs).
 
 *(Security track complete — lessons 01–40 all written. Update this index if lessons change.)*
+
+## Operating Systems Lesson Index
+Phase parent pages live at `_os/lessons/phase-NN-name.md`. File paths follow
+`_os/lessons/lesson-NN-<slug>.md`. Mark each ✓ as its file lands.
+- Phase 1 — The Kernel Boundary: 01 what-an-os-does, 02 syscalls-strace, 03 libc-abi-vdso, 04 proc-sys, 05 interrupts-timers
+- Phase 2 — Processes: 06 process-anatomy, 07 fork-exec, 08 process-lifecycle, 09 signals, 10 sessions-job-control, 11 credentials-capabilities
+- Phase 3 — Scheduling: 12 context-switches, 13 cfs-eevdf, 14 priorities-realtime, 15 affinity-psi
+- Phase 4 — Memory: 16 virtual-memory, 17 page-tables-tlb, 18 process-memory-layout, 19 page-faults, 20 page-cache, 21 swap-reclaim, 22 oom-overcommit, 23 hugepages-numa
+- Phase 5 — Concurrency: 24 threads, 25 race-conditions, 26 mutex-futex, 27 condvars-semaphores, 28 deadlock, 29 atomics-ordering, 30 async-patterns
+- Phase 6 — IPC: 31 pipes-fifos, 32 unix-sockets, 33 shared-memory, 34 message-queues, 35 eventfd-signalfd
+- Phase 7 — Files & Filesystems: 36 file-descriptors, 37 vfs-inodes, 38 ext4-journaling, 39 filesystem-zoo, 40 mounts-bind, 41 io-fsync, 42 block-layer
+- Phase 8 — Event-Driven & Async I/O: 43 epoll, 44 io-uring, 45 zero-copy
+- Phase 9 — Linking & Loading: 46 elf-static-linking, 47 dynamic-loader, 48 shared-libraries, 49 ld-preload
+- Phase 10 — Boot & Init: 50 boot-process, 51 initramfs, 52 systemd, 53 modules-udev
+- Phase 11 — Kernel Interfaces & Security: 54 kernel-module, 55 char-device, 56 seccomp, 57 lsm, 58 build-kernel
+- Phase 12 — Containers & Resource Control: 59 namespaces, 60 cgroups, 61 container-images, 62 build-a-container
+- Phase 13 — Tracing & Debugging: 63 perf, 64 ftrace-kprobes, 65 core-dumps, 66 debugging-capstone
+
+Cross-links: rings/privilege ↔ virt Lesson 04; page tables ↔ virt Lesson 06 (EPT);
+hugepages/NUMA ↔ virt Lessons 19/21; namespaces ↔ networking Lesson 01; seccomp/LSM ↔
+virt Lessons 56/57; boot ↔ virt Lesson 14; eBPF tools ↔ networking Phase 11.
+
+## Engineering Leadership Lesson Index
+Phase parent pages live at `_leadership/lessons/phase-NN-name.md`. File paths follow
+`_leadership/lessons/lesson-NN-<slug>.md`. Labs are scenario exercises (see Lab
+variants). Mark each ✓ as its file lands.
+- Phase 1 — The Transition: 01 what-changes, 02 lead-em-staff, 03 letting-go-of-code, 04 time-leverage, 05 identity-psychology
+- Phase 2 — Technical Leadership: 06 tech-vision, 07 adrs, 08 tradeoffs, 09 design-reviews, 10 technical-standards, 11 tech-debt, 12 how-much-to-code
+- Phase 3 — Communication Foundations: 13 audience-first, 14 explaining-tech, 15 effective-meetings, 16 design-docs, 17 presenting, 18 async-communication
+- Phase 4 — Feedback & Difficult Conversations: 19 sbi-feedback, 20 praise, 21 receiving-feedback, 22 crucial-conversations, 23 defusing-emotions
+- Phase 5 — 1:1s, Coaching & Mentoring: 24 one-on-ones, 25 listening-questions, 26 coaching-vs-mentoring, 27 mentoring-engineers, 28 code-review-teaching, 29 sponsorship
+- Phase 6 — Delegation & Growing the Team: 30 delegation-ladder, 31 assigning-for-growth, 32 career-conversations, 33 growing-leads, 34 succession-bus-factor
+- Phase 7 — Influence Without Authority: 35 sources-of-influence, 36 building-buy-in, 37 resolving-conflict, 38 aligning-teams, 39 driving-change
+- Phase 8 — Stakeholder Management: 40 pms-designers, 41 managing-up, 42 customers, 43 cross-team-dependencies, 44 negotiation-expectations
+- Phase 9 — Business & Product Thinking: 45 business-model, 46 product-strategy, 47 metrics-kpis, 48 tech-to-business, 49 should-we-build-this
+- Phase 10 — Project Leadership: 50 planning-roadmaps, 51 estimation, 52 risk-management, 53 dependency-management, 54 prioritization, 55 when-projects-slip, 56 incidents-postmortems
+- Phase 11 — People Management (EM path): 57 performance-management, 58 underperformance, 59 hiring-interviewing, 60 evaluating-closing, 61 motivation, 62 org-design, 63 psychological-safety
+- Phase 12 — Your Path: 64 first-90-days-lead, 65 first-90-days-em, 66 support-system, 67 choosing-your-path
+
+## English for Work Lesson Index
+Phase parent pages live at `_english/lessons/phase-NN-name.md`. File paths follow
+`_english/lessons/lesson-NN-<slug>.md`. Labs are rewrite drills + phrase banks (see
+Lab variants). Mark each ✓ as its file lands.
+- Phase 1 — Sentence Mechanics: 01 sentence-core, 02 articles-a-the, 03 articles-zero, 04 verb-tenses, 05 subject-verb-agreement, 06 prepositions, 07 connecting-ideas, 08 punctuation-chat, 09 error-clinic
+- Phase 2 — Words That Sound Natural: 10 do-make-confusions, 11 phrasal-verbs, 12 translated-sentences, 13 concise-words
+- Phase 3 — Tone & Warmth: 14 register, 15 softeners-hedging, 16 openers-closers, 17 requests, 18 disagreeing-no, 19 apologies-thanks, 20 sounding-engaged
+- Phase 4 — Slack Communication: 21 message-shapes, 22 status-updates, 23 asking-for-help, 24 answering-unblocking, 25 async-etiquette, 26 announcements
+- Phase 5 — Meetings (Speaking): 27 agendas-opening, 28 facilitation, 29 interrupting-clarifying, 30 disagreeing-live, 31 summarizing-actions, 32 presenting-work, 33 small-talk
+- Phase 6 — Spoken Fluency: 34 thinking-time, 35 paraphrasing, 36 asking-repeat, 37 contractions-rhythm
+- Phase 7 — Design Docs & Proposals: 38 doc-structure, 39 plain-language, 40 paragraphs-flow, 41 exec-summaries, 42 persuasive-proposals, 43 doc-comments
+- Phase 8 — Feedback & Hard Conversations: 44 feedback-language, 45 code-review-comments, 46 performance-conversations, 47 bad-news, 48 de-escalating
+- Phase 9 — Capstone & Habits: 49 error-checklist-v2, 50 rewrite-week, 51 daily-habits
+
+English-track note: examples must be software-workplace ones (Slack, PRs, standups),
+never textbook sentences. Target the student's known error patterns (subject–verb
+agreement, articles, dropped words) in drills across all phases, not just Phase 1.
