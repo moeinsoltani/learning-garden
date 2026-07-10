@@ -6,6 +6,16 @@ nav_exclude: false
 
 # Linux Networking Learning Plan
 
+A bottom-up curriculum built on one idea: **network namespaces let you build any
+network topology on a single Linux machine**. Starting from two isolated namespaces,
+the phases add virtual interfaces, bridging, routing, firewalling, traffic control,
+eBPF, tunnels & VPNs, data-center fabrics, and observability — every topic explored
+with real commands and real packets.
+
+{: .note }
+> Before Lesson 1, prepare your VM with the [Lab Setup]({{ '/lab-setup.html' | relative_url }})
+> page. Work the lessons in order — each builds on the ones before it.
+
 ---
 
 ## [Phase 1: Foundations — Namespaces & Basic IP Tools](lessons/phase-01-foundations.html)

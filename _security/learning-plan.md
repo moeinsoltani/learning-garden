@@ -14,6 +14,10 @@ delegated (OAuth/OIDC/SAML), and finally how it all comes together in real syste
 Labs run in your Linux VM / WSL2 using `openssl`, `curl`, a local CA (`step-ca`), and
 a containerized identity provider (Keycloak).
 
+{: .note }
+> Before Lesson 1, prepare your machine with the [Lab Setup]({{ '/lab-setup.html' | relative_url }})
+> page. Work the lessons in order — each builds on the ones before it.
+
 ---
 
 ## [Phase 1: Cryptography Foundations](lessons/phase-01-crypto-foundations.html)

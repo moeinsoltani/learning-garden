@@ -19,6 +19,11 @@ Where a topic overlaps the **networking** curriculum (`learning-plan.md`) — TA
 devices, bridges, libvirt networks — this plan points back to it so the two tracks
 reinforce each other.
 
+{: .note }
+> Before Lesson 1, prepare your VM with the [Lab Setup]({{ '/lab-setup.html' | relative_url }})
+> page — this track needs `/dev/kvm` (nested virtualization if you learn inside a VM).
+> Work the lessons in order — each builds on the ones before it.
+
 ---
 
 ## [Phase 1: Virtualization Foundations](lessons/phase-01-foundations.html)

@@ -1,5 +1,5 @@
 title: Linux Systems Learning Journal
-description: Practical Linux systems — networking and virtualization, hands-on
+description: Practical Linux systems — networking, virtualization, and security & identity, hands-on
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 baseurl: "/learning-garden"
@@ -13,6 +13,20 @@ back_to_top_text: "Back to top"
 
 footer_content: "Linux Systems Learning Journal"
 
+# Callout blocks used throughout the lessons ({: .note } etc.). Just the Docs
+# only styles callouts that are declared here — without this block they render
+# as plain unstyled paragraphs.
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: yellow
+
 # Apply the Just the Docs theme layout to every file (regular pages AND the
 # documents in the networking/virtualization collections). Collection documents
 # do NOT inherit a layout automatically, so without this they render as bare,
@@ -23,7 +37,7 @@ defaults:
     values:
       layout: default
 
-# Two learning tracks, each its own Just the Docs navigation section.
+# Three learning tracks, each its own Just the Docs navigation section.
 # Permalink keeps the in-collection path (e.g. lessons/lesson-NN) so the
 # existing relative phase→lesson links keep resolving.
 collections:

@@ -14,6 +14,7 @@ This repo hosts **three independent learning tracks** on one Just the Docs site:
 The site is split into three Jekyll collections, each its own nav section:
 ```
 index.md                         # landing page / track chooser (nav_order 1, site root)
+lab-setup.md                     # environment prep + how-to-study guide (nav_order 2, site root)
 _config.yml                      # defines all collections (see Site Theme)
 _networking/
   learning-plan.md               # networking curriculum
@@ -85,6 +86,9 @@ When the student asks a question about a term or concept from a lesson:
 > **Title**
 > Body text here.
 ```
+Available callout classes are declared in `_config.yml` under `callouts:` —
+currently `note`, `warning`, `important`. A class not declared there renders
+unstyled; add it to `_config.yml` before using a new one.
 
 ### Reference link sources to prefer
 - Linux man pages: `https://man7.org/linux/man-pages/manN/name.N.html`
