@@ -308,7 +308,7 @@ virt Lessons 56/57; boot ↔ virt Lesson 14; eBPF tools ↔ networking Phase 11.
 Phase parent pages live at `_leadership/lessons/phase-NN-name.md`. File paths follow
 `_leadership/lessons/lesson-NN-<slug>.md`. Labs are scenario exercises (see Lab
 variants). Mark each ✓ as its file lands.
-- Phase 1 — The Transition: 01 what-changes, 02 lead-em-staff, 03 letting-go-of-code, 04 time-leverage, 05 identity-psychology
+- Phase 1 — The Transition: 01 what-changes ✓, 02 lead-em-staff ✓, 03 letting-go-of-code ✓, 04 time-leverage ✓, 05 identity-psychology ✓
 - Phase 2 — Technical Leadership: 06 tech-vision, 07 adrs, 08 tradeoffs, 09 design-reviews, 10 technical-standards, 11 tech-debt, 12 how-much-to-code
 - Phase 3 — Communication Foundations: 13 audience-first, 14 explaining-tech, 15 effective-meetings, 16 design-docs, 17 presenting, 18 async-communication
 - Phase 4 — Feedback & Difficult Conversations: 19 sbi-feedback, 20 praise, 21 receiving-feedback, 22 crucial-conversations, 23 defusing-emotions
