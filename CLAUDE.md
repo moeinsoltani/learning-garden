@@ -296,7 +296,9 @@ Phase parent pages live at `_os/lessons/phase-NN-name.md`. File paths follow
 - Phase 10 — Boot & Init: 50 boot-process ✓, 51 initramfs ✓, 52 systemd ✓, 53 modules-udev ✓
 - Phase 11 — Kernel Interfaces & Security: 54 kernel-module ✓, 55 char-device ✓, 56 seccomp ✓, 57 lsm ✓, 58 build-kernel ✓
 - Phase 12 — Containers & Resource Control: 59 namespaces ✓, 60 cgroups ✓, 61 container-images ✓, 62 build-a-container ✓
-- Phase 13 — Tracing & Debugging: 63 perf, 64 ftrace-kprobes, 65 core-dumps, 66 debugging-capstone
+- Phase 13 — Tracing & Debugging: 63 perf ✓, 64 ftrace-kprobes ✓, 65 core-dumps ✓, 66 debugging-capstone ✓
+
+*(Operating Systems track complete — lessons 01–66 all written. Update this index if lessons change.)*
 
 Cross-links: rings/privilege ↔ virt Lesson 04; page tables ↔ virt Lesson 06 (EPT);
 hugepages/NUMA ↔ virt Lessons 19/21; namespaces ↔ networking Lesson 01; seccomp/LSM ↔
