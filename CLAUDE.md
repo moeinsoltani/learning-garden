@@ -332,7 +332,7 @@ Lab variants). Mark each ✓ as its file lands.
 - Phase 5 — Meetings (Speaking): 27 agendas-opening ✓, 28 facilitation ✓, 29 interrupting-clarifying ✓, 30 disagreeing-live ✓, 31 summarizing-actions ✓, 32 presenting-work ✓, 33 small-talk ✓
 - Phase 6 — Spoken Fluency: 34 thinking-time ✓, 35 paraphrasing ✓, 36 asking-repeat ✓, 37 contractions-rhythm ✓
 - Phase 7 — Design Docs & Proposals: 38 doc-structure ✓, 39 plain-language ✓, 40 paragraphs-flow ✓, 41 exec-summaries ✓, 42 persuasive-proposals ✓, 43 doc-comments ✓
-- Phase 8 — Feedback & Hard Conversations: 44 feedback-language, 45 code-review-comments, 46 performance-conversations, 47 bad-news, 48 de-escalating
+- Phase 8 — Feedback & Hard Conversations: 44 feedback-language ✓, 45 code-review-comments ✓, 46 performance-conversations ✓, 47 bad-news ✓, 48 de-escalating ✓
 - Phase 9 — Capstone & Habits: 49 error-checklist-v2, 50 rewrite-week, 51 daily-habits
 
 English-track note: examples must be software-workplace ones (Slack, PRs, standups),
