@@ -315,7 +315,7 @@ variants). Mark each ✓ as its file lands.
 - Phase 5 — 1:1s, Coaching & Mentoring: 24 one-on-ones ✓, 25 listening-questions ✓, 26 coaching-vs-mentoring ✓, 27 mentoring-engineers ✓, 28 code-review-teaching ✓, 29 sponsorship ✓
 - Phase 6 — Delegation & Growing the Team: 30 delegation-ladder ✓, 31 assigning-for-growth ✓, 32 career-conversations ✓, 33 growing-leads ✓, 34 succession-bus-factor ✓
 - Phase 7 — Influence Without Authority: 35 sources-of-influence ✓, 36 building-buy-in ✓, 37 resolving-conflict ✓, 38 aligning-teams ✓, 39 driving-change ✓
-- Phase 8 — Stakeholder Management: 40 pms-designers, 41 managing-up, 42 customers, 43 cross-team-dependencies, 44 negotiation-expectations
+- Phase 8 — Stakeholder Management: 40 pms-designers ✓, 41 managing-up ✓, 42 customers ✓, 43 cross-team-dependencies ✓, 44 negotiation-expectations ✓
 - Phase 9 — Business & Product Thinking: 45 business-model, 46 product-strategy, 47 metrics-kpis, 48 tech-to-business, 49 should-we-build-this
 - Phase 10 — Project Leadership: 50 planning-roadmaps, 51 estimation, 52 risk-management, 53 dependency-management, 54 prioritization, 55 when-projects-slip, 56 incidents-postmortems
 - Phase 11 — People Management (EM path): 57 performance-management, 58 underperformance, 59 hiring-interviewing, 60 evaluating-closing, 61 motivation, 62 org-design, 63 psychological-safety
