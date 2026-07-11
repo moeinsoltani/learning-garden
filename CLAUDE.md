@@ -319,7 +319,9 @@ variants). Mark each ✓ as its file lands.
 - Phase 9 — Business & Product Thinking: 45 business-model ✓, 46 product-strategy ✓, 47 metrics-kpis ✓, 48 tech-to-business ✓, 49 should-we-build-this ✓
 - Phase 10 — Project Leadership: 50 planning-roadmaps ✓, 51 estimation ✓, 52 risk-management ✓, 53 dependency-management ✓, 54 prioritization ✓, 55 when-projects-slip ✓, 56 incidents-postmortems ✓
 - Phase 11 — People Management (EM path): 57 performance-management ✓, 58 underperformance ✓, 59 hiring-interviewing ✓, 60 evaluating-closing ✓, 61 motivation ✓, 62 org-design ✓, 63 psychological-safety ✓
-- Phase 12 — Your Path: 64 first-90-days-lead, 65 first-90-days-em, 66 support-system, 67 choosing-your-path
+- Phase 12 — Your Path: 64 first-90-days-lead ✓, 65 first-90-days-em ✓, 66 support-system ✓, 67 choosing-your-path ✓
+
+*(Engineering Leadership track complete — lessons 01–67 all written across 12 phases. Update this index if lessons change.)*
 
 ## English for Work Lesson Index
 Phase parent pages live at `_english/lessons/phase-NN-name.md`. File paths follow
