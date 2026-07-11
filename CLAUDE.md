@@ -313,7 +313,7 @@ variants). Mark each ✓ as its file lands.
 - Phase 3 — Communication Foundations: 13 audience-first ✓, 14 explaining-tech ✓, 15 effective-meetings ✓, 16 design-docs ✓, 17 presenting ✓, 18 async-communication ✓
 - Phase 4 — Feedback & Difficult Conversations: 19 sbi-feedback ✓, 20 praise ✓, 21 receiving-feedback ✓, 22 crucial-conversations ✓, 23 defusing-emotions ✓
 - Phase 5 — 1:1s, Coaching & Mentoring: 24 one-on-ones ✓, 25 listening-questions ✓, 26 coaching-vs-mentoring ✓, 27 mentoring-engineers ✓, 28 code-review-teaching ✓, 29 sponsorship ✓
-- Phase 6 — Delegation & Growing the Team: 30 delegation-ladder, 31 assigning-for-growth, 32 career-conversations, 33 growing-leads, 34 succession-bus-factor
+- Phase 6 — Delegation & Growing the Team: 30 delegation-ladder ✓, 31 assigning-for-growth ✓, 32 career-conversations ✓, 33 growing-leads ✓, 34 succession-bus-factor ✓
 - Phase 7 — Influence Without Authority: 35 sources-of-influence, 36 building-buy-in, 37 resolving-conflict, 38 aligning-teams, 39 driving-change
 - Phase 8 — Stakeholder Management: 40 pms-designers, 41 managing-up, 42 customers, 43 cross-team-dependencies, 44 negotiation-expectations
 - Phase 9 — Business & Product Thinking: 45 business-model, 46 product-strategy, 47 metrics-kpis, 48 tech-to-business, 49 should-we-build-this
