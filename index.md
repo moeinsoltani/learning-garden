@@ -67,6 +67,15 @@ phrase banks.
 
 [English learning plan]({{ '/english/learning-plan.html' | relative_url }}){: .btn .btn-primary }
 
+### 🍁 Canada: History & Civics
+
+Canada from the ground up: geography, the First Peoples and colonial era,
+Confederation and the modern nation, how government actually works, civic life,
+the economy, and culture & identity. Labs are source & scenario exercises, with
+citizenship-test-style checkpoints throughout.
+
+[Canada learning plan]({{ '/canada/learning-plan.html' | relative_url }}){: .btn .btn-primary }
+
 ---
 
 {: .note }

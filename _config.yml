@@ -59,6 +59,9 @@ collections:
   english:
     permalink: "/:collection/:path:output_ext"
     output: true
+  canada:
+    permalink: "/:collection/:path:output_ext"
+    output: true
 
 just_the_docs:
   collections:
@@ -79,6 +82,9 @@ just_the_docs:
       nav_fold: true
     english:
       name: English for Work
+      nav_fold: true
+    canada:
+      name: "Canada: History & Civics"
       nav_fold: true
 
 exclude:

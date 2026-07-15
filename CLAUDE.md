@@ -1,12 +1,13 @@
 # CLAUDE.md — Linux Systems Learning Project
 
-This repo hosts **six independent learning tracks** on one Just the Docs site:
+This repo hosts **seven independent learning tracks** on one Just the Docs site:
 - **Networking** — in the `_networking/` collection
 - **Virtualization (QEMU/KVM)** — in the `_virtualization/` collection
 - **Security & Identity** — in the `_security/` collection
 - **Operating Systems** — in the `_os/` collection
 - **Engineering Leadership** — in the `_leadership/` collection (scenario labs, no terminal)
 - **English for Work** — in the `_english/` collection (rewrite-drill labs, no terminal)
+- **Canada: History & Civics** — in the `_canada/` collection (source & scenario labs, no terminal)
 
 ## Student Profile
 - Linux experience: was a beginner; has now completed the networking, virtualization,
@@ -18,7 +19,7 @@ This repo hosts **six independent learning tracks** on one Just the Docs site:
 - Use the Linux VM for labs (WSL2 as fallback for early lessons)
 
 ## Repository Structure
-The site is split into six Jekyll collections, each its own nav section:
+The site is split into seven Jekyll collections, each its own nav section:
 ```
 index.md                         # landing page / track chooser (nav_order 1, site root)
 lab-setup.md                     # environment prep + how-to-study guide (nav_order 2, site root)
@@ -29,9 +30,10 @@ _security/
 _os/
 _leadership/
 _english/
+_canada/
 ```
 - `<track>` below means `networking`, `virtualization`, `security`, `os`,
-  `leadership`, or `english`.
+  `leadership`, `english`, or `canada`.
 - A page's URL is `/<track>/lessons/<file>.html` (collection permalink keeps the
   `lessons/` path so relative `(lesson-NN-...)` links between phase and lesson
   pages resolve).
@@ -47,7 +49,7 @@ For each lesson:
 
 ## Site Theme
 - Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
-- Config: `_config.yml` — defines all six collections and their nav names under
+- Config: `_config.yml` — defines all seven collections and their nav names under
   `just_the_docs.collections`. Do not change the theme or collection setup without
   updating this file.
 - Phase parent pages live in `_<track>/lessons/phase-NN-name.md` with `has_children: true`
@@ -87,9 +89,15 @@ format, but their **Lab** is not terminal commands:
 - **English** — a rewrite drill: broken/blunt source messages, `**Your rewrite:**`
   fields, hidden model rewrites with the reasoning. Every English lesson also ends
   with a **Phrase Bank** table (before Further Reading) of same-day-usable lines.
+- **Canada** — a source & scenario exercise: a short primary-source excerpt, map,
+  or data table embedded in the lesson, plus a realistic scenario ("explain to a
+  newcomer friend…"), with `**Your answer:**` fields and hidden model answers.
+  Checkpoints are citizenship-test-style factual questions so the track doubles
+  as citizenship-test prep.
 - Further Reading for these tracks cites books/articles (The Manager's Path,
-  StaffEng, LeadDev, style guides) instead of man pages; only link URLs certain
-  to exist.
+  StaffEng, LeadDev, style guides; for Canada: Discover Canada, The Canadian
+  Encyclopedia at thecanadianencyclopedia.ca, canada.ca, Wikipedia) instead of
+  man pages; only link URLs certain to exist.
 
 ## Handling Student Questions
 When the student asks a question about a term or concept from a lesson:
@@ -121,6 +129,7 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Operating Systems: `_os/learning-plan.md`
 - Engineering Leadership: `_leadership/learning-plan.md`
 - English for Work: `_english/learning-plan.md`
+- Canada: History & Civics: `_canada/learning-plan.md`
 
 ## Networking Lesson Index
 - Lesson 01: `_networking/lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
@@ -342,3 +351,19 @@ Lab variants). Mark each ✓ as its file lands.
 English-track note: examples must be software-workplace ones (Slack, PRs, standups),
 never textbook sentences. Target the student's known error patterns (subject–verb
 agreement, articles, dropped words) in drills across all phases, not just Phase 1.
+
+## Canada: History & Civics Lesson Index
+Phase parent pages live at `_canada/lessons/phase-NN-name.md`. File paths follow
+`_canada/lessons/lesson-NN-<slug>.md`. Labs are source & scenario exercises with
+citizenship-test-style checkpoints (see Lab variants). Mark each ✓ as its file lands.
+- Phase 1 — The Land (Geography): 01 canada-at-a-glance ✓, 02 physical-regions ✓, 03 climate-north ✓, 04 where-people-are ✓, 05 natural-resources ✓
+- Phase 2 — First Peoples & Colonial Era: 06 first-peoples, 07 european-contact, 08 new-france, 09 fur-trade, 10 conquest-1763, 11 loyalists-war-1812
+- Phase 3 — Confederation & Expansion: 12 responsible-government, 13 confederation-1867, 14 railway-west, 15 riel-metis, 16 peopling-prairies, 17 treaties-indian-act
+- Phase 4 — World Wars to Modern Canada: 18 wwi, 19 between-wars, 20 wwii, 21 postwar-boom, 22 quebec-quiet-revolution, 23 constitution-1982, 24 reconciliation-today
+- Phase 5 — Government & Institutions: 25 crown-monarchy, 26 parliament, 27 pm-cabinet, 28 elections-voting, 29 federalism, 30 courts-law, 31 charter-in-action
+- Phase 6 — Civic Life: 32 citizenship, 33 justice-in-practice, 34 social-safety-net, 35 taxes-public-money, 36 taking-part
+- Phase 7 — The Economy: 37 economy-at-a-glance, 38 canada-us-trade, 39 industries, 40 money-banking, 41 working-in-canada
+- Phase 8 — Culture & Identity: 42 two-languages, 43 multiculturalism, 44 indigenous-canada-today, 45 symbols-holidays, 46 arts-sports-culture, 47 what-is-a-canadian (capstone)
+
+*(Canada track: plan written 2026-07-12, pending student review — no lessons written yet.
+History phases 2–4 are chronological and come before institutions (Phase 5) by design.)*
