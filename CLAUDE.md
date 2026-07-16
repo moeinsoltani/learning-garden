@@ -362,7 +362,7 @@ citizenship-test-style checkpoints (see Lab variants). Mark each ✓ as its file
 - Phase 4 — World Wars to Modern Canada: 18 wwi ✓, 19 between-wars ✓, 20 wwii ✓, 21 postwar-boom ✓, 22 quebec-quiet-revolution ✓, 23 constitution-1982 ✓, 24 reconciliation-today ✓
 - Phase 5 — Government & Institutions: 25 crown-monarchy ✓, 26 parliament ✓, 27 pm-cabinet ✓, 28 elections-voting ✓, 29 federalism ✓, 30 courts-law ✓, 31 charter-in-action ✓
 - Phase 6 — Civic Life: 32 citizenship ✓, 33 justice-in-practice ✓, 34 social-safety-net ✓, 35 taxes-public-money ✓, 36 taking-part ✓
-- Phase 7 — The Economy: 37 economy-at-a-glance, 38 canada-us-trade, 39 industries, 40 money-banking, 41 working-in-canada
+- Phase 7 — The Economy: 37 economy-at-a-glance ✓, 38 canada-us-trade ✓, 39 industries ✓, 40 money-banking ✓, 41 working-in-canada ✓
 - Phase 8 — Culture & Identity: 42 two-languages, 43 multiculturalism, 44 indigenous-canada-today, 45 symbols-holidays, 46 arts-sports-culture, 47 what-is-a-canadian (capstone)
 
 *(Canada track: plan written 2026-07-12, pending student review — no lessons written yet.
