@@ -363,7 +363,8 @@ citizenship-test-style checkpoints (see Lab variants). Mark each ✓ as its file
 - Phase 5 — Government & Institutions: 25 crown-monarchy ✓, 26 parliament ✓, 27 pm-cabinet ✓, 28 elections-voting ✓, 29 federalism ✓, 30 courts-law ✓, 31 charter-in-action ✓
 - Phase 6 — Civic Life: 32 citizenship ✓, 33 justice-in-practice ✓, 34 social-safety-net ✓, 35 taxes-public-money ✓, 36 taking-part ✓
 - Phase 7 — The Economy: 37 economy-at-a-glance ✓, 38 canada-us-trade ✓, 39 industries ✓, 40 money-banking ✓, 41 working-in-canada ✓
-- Phase 8 — Culture & Identity: 42 two-languages, 43 multiculturalism, 44 indigenous-canada-today, 45 symbols-holidays, 46 arts-sports-culture, 47 what-is-a-canadian (capstone)
+- Phase 8 — Culture & Identity: 42 two-languages ✓, 43 multiculturalism ✓, 44 indigenous-canada-today ✓, 45 symbols-holidays ✓, 46 arts-sports-culture ✓, 47 what-is-a-canadian ✓ (capstone)
 
-*(Canada track: plan written 2026-07-12, pending student review — no lessons written yet.
-History phases 2–4 are chronological and come before institutions (Phase 5) by design.)*
+*(Canada track complete — lessons 01–47 all written across 8 phases. Update this index if
+lessons change. History phases 2–4 are chronological and come before institutions (Phase 5)
+by design. Lesson 47 ends with a cumulative 40-question citizenship-style final exam.)*
