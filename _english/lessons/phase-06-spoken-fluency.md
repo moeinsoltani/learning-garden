@@ -10,8 +10,9 @@ Phase 5 covered *what to say* in meetings. This shorter phase zooms into *speaki
 the micro-skills that make talking in a second language flow more smoothly under real-time
 pressure. It covers buying thinking time (so a pause doesn't panic you), paraphrasing (to
 confirm understanding and to recover when a word won't come), asking people to repeat or
-slow down (without embarrassment), and the rhythm of natural speech — contractions, stress,
-and pacing — that makes you both easier to understand and easier to follow.
+slow down (without embarrassment), the rhythm of natural speech — contractions, stress,
+and pacing — that makes you both easier to understand and easier to follow, and the
+interjections (*ah*, *oops*, *hmm*) that carry tone in both speech and chat.
 
 These are the tools that turn "I know what I want to say but freeze up" into fluent, calm
 participation. The labs are say-drills with the exact phrases and patterns to practice.
@@ -22,3 +23,4 @@ participation. The labs are say-drills with the exact phrases and patterns to pr
 | 35 | [Paraphrasing](lesson-35-paraphrasing) | Ready |
 | 36 | [Asking people to repeat or slow down](lesson-36-asking-repeat) | Ready |
 | 37 | [Contractions and rhythm](lesson-37-contractions-rhythm) | Ready |
+| 52 | [Interjections: ah, oops, hmm & friends](lesson-52-interjections) | Ready |

@@ -39,18 +39,50 @@ aren't, but you can learn the common ones as chunks.
 
 ### The ~25 office phrasal verbs
 
-The high-frequency ones, grouped by meaning:
+The high-frequency ones, grouped by meaning, each with a real work example:
 
-- **Following/communicating**: follow up (check back on something), reach out
-  (contact), circle back (return to a topic later), touch base (briefly check in),
-  loop in (include someone), sync up (align)
-- **Work/tasks**: look into (investigate), figure out (solve/understand), sort out
-  (resolve), work on (be busy with), wrap up (finish), take on (accept work), hand
-  off (transfer)
-- **Shipping/changes**: roll out (release/deploy), roll back (revert), set up
-  (configure), spin up (create/start), bring up (raise a topic), point out (note)
-- **Disagreeing/deciding**: push back (resist/disagree), go ahead (proceed), rule
-  out (eliminate), hold off (wait)
+**Following / communicating**
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| follow up | check back on something | "I'll follow up with QA about the failing test." |
+| reach out | contact | "Feel free to reach out if anything's unclear." |
+| circle back | return to a topic later | "Let's circle back to this after the release." |
+| touch base | briefly check in | "Can we touch base tomorrow about the migration?" |
+| loop in | include someone | "I'll loop in Sara — she knows the billing code." |
+| sync up | align | "Let's sync up before the demo so we tell the same story." |
+
+**Work / tasks**
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| look into | investigate | "I'll look into the timeout errors this afternoon." |
+| figure out | solve / understand | "We still need to figure out why the cache misses." |
+| sort out | resolve | "The permissions issue is sorted out now." |
+| work on | be busy with | "I'm working on the login bug today." |
+| wrap up | finish | "I should wrap up the review by lunch." |
+| take on | accept work | "I can take on the migration task this sprint." |
+| hand off | transfer | "I'll hand off on-call to Alex on Friday." |
+
+**Shipping / changes**
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| roll out | release / deploy | "We're rolling out the new API next week." |
+| roll back | revert | "The deploy broke checkout, so we rolled it back." |
+| set up | configure | "I set up the staging environment yesterday." |
+| spin up | create / start | "I'll spin up a test instance to reproduce it." |
+| bring up | raise a topic | "Good point — bring it up in the retro." |
+| point out | note | "Dana pointed out that the config was missing a key." |
+
+**Disagreeing / deciding**
+
+| Phrasal verb | Meaning | Example |
+|---|---|---|
+| push back | resist / disagree | "I want to push back on the Friday deadline." |
+| go ahead | proceed | "The tests pass, so go ahead and merge." |
+| rule out | eliminate | "We can rule out the database — the logs are clean." |
+| hold off | wait | "Let's hold off on the upgrade until after the release." |
 
 ### Separable vs inseparable
 
@@ -133,22 +165,22 @@ middle (set it up, figure it out, roll it back).
 
 The core office phrasal verbs (and their formal equivalents for docs):
 
-| Phrasal verb | Meaning | Formal equivalent |
-|---|---|---|
-| follow up | check back on | — |
-| reach out | contact | contact |
-| look into | investigate | investigate |
-| figure out | solve/understand | determine |
-| sort out | resolve | resolve |
-| wrap up | finish | complete |
-| roll out | release/deploy | deploy |
-| roll back | revert | revert |
-| set up | configure | configure |
-| push back (on) | resist/disagree | object to |
-| loop in | include (a person) | include |
-| take on | accept (work) | accept |
-| hand off | transfer | transfer |
-| go ahead | proceed | proceed |
+| Phrasal verb | Meaning | Formal equivalent | Example |
+|---|---|---|---|
+| follow up | check back on | — | "I'll follow up on the ticket tomorrow." |
+| reach out | contact | contact | "Reach out to me anytime if you're stuck." |
+| look into | investigate | investigate | "Can you look into the 500 errors?" |
+| figure out | solve/understand | determine | "I finally figured out what was breaking CI." |
+| sort out | resolve | resolve | "We sorted out the merge conflict together." |
+| wrap up | finish | complete | "Let's wrap up — we're at time." |
+| roll out | release/deploy | deploy | "The feature rolls out to 10% of users first." |
+| roll back | revert | revert | "If errors spike, we'll roll it back." |
+| set up | configure | configure | "I'll set up the new repo this afternoon." |
+| push back (on) | resist/disagree | object to | "I pushed back on adding another dependency." |
+| loop in | include (a person) | include | "Loop in security before we ship this." |
+| take on | accept (work) | accept | "She took on the refactor nobody wanted." |
+| hand off | transfer | transfer | "I'm handing off the project before my vacation." |
+| go ahead | proceed | proceed | "Go ahead and merge — LGTM." |
 
 ---
 

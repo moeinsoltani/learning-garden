@@ -234,6 +234,11 @@ that one teaches *what* to say in hard situations; this one teaches *how* to say
 **Topics:** Contractions are the default in speech (I'll, we've, that's, won't); the reduced forms you must *recognize* (gonna, wanna, kinda, "dunno"); stress carries meaning ("*I* didn't say that" vs "I didn't say *that*"); chunking sentences the way natives do.
 **Drill:** Read a paragraph aloud twice — full forms vs contracted — and mark the stress in five ambiguous sentences.
 
+### [Lesson 52: Interjections — ah, oops, hmm & friends](lessons/lesson-52-interjections.html)
+**Goal:** Use the tiny tone-carrying words (*ah*, *oops*, *hmm*, *phew*, *oof*, *yay*) that textbooks skip — one of the cheapest warmth upgrades in both speech and chat.
+**Topics:** The work set grouped by signal (realizing: ah/oh/aha; small mistakes: oops/my bad; thinking: hmm; relief: phew; sympathy: oof/ouch/yikes; frustration: ugh — at situations, never at people's work; celebration: yay/wow; warning: uh-oh); the risky ones ("Huh?" alone, bare "ha."); register limits (chat yes, docs no); sizing ("oops" fits a typo, not an outage). *(Numbered 52 because it was added after the track shipped — it belongs here in Phase 6.)*
+**Drill:** Add natural reactions to five flat replies; fix two misused interjections (one aimed at a colleague's code, one too light for real damage).
+
 ---
 
 ## [Phase 7: Design Docs & Proposals](lessons/phase-07-docs.html)
@@ -318,4 +323,5 @@ that one teaches *what* to say in hard situations; this one teaches *how* to say
 
 ---
 
-*All 51 lessons written = track complete. Update CLAUDE.md's index as each lands.*
+*All 52 lessons written = track complete (Lesson 52 was added to Phase 6 after the
+initial 51 shipped). Update CLAUDE.md's index as each lands.*

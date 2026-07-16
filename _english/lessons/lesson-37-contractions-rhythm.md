@@ -319,4 +319,4 @@ lead's ideas get evaluated — built, as always, on your accurate, natural, warm
 
 <!-- nav-next -->
 [← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
-[Next: Phase 7 — Design Docs & Proposals (Lesson 38: Document Structure) →](lesson-38-doc-structure){: .btn .btn-primary }
+[Next: Lesson 52 — Interjections: ah, oops, hmm & Friends →](lesson-52-interjections){: .btn .btn-primary }
