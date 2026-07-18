@@ -17,27 +17,15 @@ could do on it. Learn the seven physical regions and you get, for free, the
 logic of where cities grew, what each province sells, and why the population
 map looks the way it does.
 
-```
-            ┌ Arctic Archipelago ┐
-            │  (tundra, ice)     │
-   ┌────────┴───────┬────────────┴────────────┐
-   │   Western      │     CANADIAN SHIELD     │
-   │   Cordillera   │   (half the country:    │
-   │  (mountains)   │    rock, lakes, forest, │
-   ├────────────────┤    minerals — few       │
-   │   Interior     │    people)              │
-   │   Plains       ├────────┬────────────────┤
-   │  (prairies:    │ Hudson │ Great Lakes –   │
-   │   flat, fertile│  Bay   │ St. Lawrence    │
-   │   dry-ish)     │Lowlands│ Lowlands        │
-   └────────────────┴────────┤ (tiny, fertile, │
-                             │  MOST PEOPLE)   │
-                             ├─────────────────┤
-                             │  Appalachian    │
-                             │  (old, worn     │
-                             │   Atlantic hills)│
-                             └─────────────────┘
-```
+![Relief map of Canada showing mountains in the west, plains in the centre, and the lake-pocked Canadian Shield around Hudson Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canada_relief_map_2.svg/960px-Canada_relief_map_2.svg.png)
+
+*You can read all seven regions straight off the relief: the **Western
+Cordillera**'s mountain wall on the Pacific, the flat **Interior Plains** east
+of it, the lake-freckled green horseshoe of the **Canadian Shield** wrapping
+Hudson Bay (with the low, swampy **Hudson Bay Lowlands** at its inner rim), the
+small **Great Lakes–St. Lawrence Lowlands** in the populated southeast, the
+worn **Appalachian** hills of the Atlantic provinces, and the **Arctic
+Archipelago** scattered across the top. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_relief_map_2.svg).*
 
 The headline paradox: the **Canadian Shield** — a vast horseshoe of billion-
 year-old rock around Hudson Bay — covers roughly **half the country** and

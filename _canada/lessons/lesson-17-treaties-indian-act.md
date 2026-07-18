@@ -47,6 +47,14 @@ was taken:
    └─ TRC (2015): "cultural genocide"
 ```
 
+![Map of the eleven Numbered Treaties, 1871–1921, covering the Prairies, northern Ontario, and the Mackenzie Valley, with the year each was signed](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Numbered-Treaties-Map.svg/960px-Numbered-Treaties-Map.svg.png)
+
+*The eleven Numbered Treaties, 1871–1921, each labelled with its signing year:
+Treaties 1–7 (1870s) clear the Prairies ahead of the railway and settlement
+(Lessons 14–16); Treaties 8–11 follow resources north into the Mackenzie
+Valley. Note what's uncovered: most of BC, Quebec, and the Atlantic — the
+unceded land behind today's land claims (Lesson 44). Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Numbered-Treaties-Map.svg).*
+
 The through-line — keep it explicit: **treaty (between nations) →
 administration (of wards) → assimilation (of children)**. Each step
 presumed the previous: the treaties cleared the land, the Act managed

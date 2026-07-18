@@ -39,6 +39,12 @@ the provinces strung along it like beads.
    1999  NUNAVUT                           (Phase 4)
 ```
 
+![1886 map of the Canadian Pacific Railway system, a single line binding Montreal to the Pacific coast](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg/960px-A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg)
+
+*The finished line, as the CPR itself drew it in 1886 — one thin thread of rail
+binding Montreal to the Pacific across the Shield, the Prairies, and the
+mountains, the year after the last spike at Craigellachie. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Map_of_the_Canadian_Pacific_railway_system_-_btv1b530230627.jpg).*
+
 The mental model: **the CPR was not a railway with political side effects;
 it was a political act wearing rails.** Its job was to make the map real —
 to bind BC in, to move settlers west and wheat east, to assert the border

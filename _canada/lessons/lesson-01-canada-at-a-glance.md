@@ -29,19 +29,10 @@ The numbers that define everything else:
 - **One neighbour** — the world's longest international land border
   (~8,900 km) with the United States, and no other land neighbour at all.
 
-```
-        ARCTIC OCEAN
-   ┌────────────────────────────┐
-   │  YT   NT      NU           │   3 territories (the North)
-   ├────────────────────────────┤
- P │  BC │ AB │ SK │ MB │  ON  │ QC │ NL       A
- A │     │    │    │    │      │    │ ┌──┐     T
- C │     │    │    │    │      │    │ │NB│PE   L
- I │     │    │    │    │      │    │ │NS│     A
- F │     │    │    │    │      │    │ └──┘     N
-   └─────┴────┴────┴────┴──────┴────┴──────    T
-        UNITED STATES (8,900 km border)        I C
-```
+![Political map of Canada showing the ten provinces, three territories, and their capitals](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Canada_political_map_-_en.svg/960px-Canada_political_map_-_en.svg.png)
+
+*The thirteen pieces: ten provinces along the south, three territories in the
+North, capitals starred. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_political_map_-_en.svg).*
 
 And the fact that trips up half the world: **Ottawa is the capital, not
 Toronto.** Toronto is the largest city; Ottawa (in Ontario, on the Quebec

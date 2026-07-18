@@ -18,22 +18,13 @@ you the single most consequential human fact about Canada:
 **Canadians live in a thin, broken ribbon along the southern edge — and more
 than half of them live in one short stretch of it.**
 
-```
-   POPULATION, HONESTLY DRAWN:
+![Population density map of Canada, 2016 census — nearly the whole country under 1 person per square kilometre, with dense pockets hugging the southern border](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Population_Density_Map_of_Canada_%282016%29.png/960px-Population_Density_Map_of_Canada_%282016%29.png)
 
-   ~10,000,000 km² of Canada
-   ┌───────────────────────────────────────────────┐
-   │                                               │
-   │                (almost nobody)                │
-   │                                               │
-   │                                               │
-   │ ▪Vancouver  ▪Calgary/Edmonton   ▪Winnipeg     │
-   └───▪▪▪───────────▪▪──────────▪───█████████▪▪───┘
-                                     ▲
-                     Quebec City–Windsor corridor:
-                     ~1,100 km holding >50% of all Canadians
-                     (Toronto, Montreal, Ottawa...)
-```
+*Population, honestly drawn (2016 census): the darkest green is **fewer than 1
+person per km²** — that's most of the country. The warm-coloured pockets hugging
+the US border are Vancouver, Calgary–Edmonton, Winnipeg, and — brightest of all —
+the ~1,100 km **Quebec City–Windsor corridor** (Toronto, Montreal, Ottawa…)
+holding more than half of all Canadians. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Population_Density_Map_of_Canada_(2016).png).*
 
 The standard statistics: roughly **two-thirds of Canadians live within 100 km
 of the US border**, and the overwhelming majority within about 200 km. Canada

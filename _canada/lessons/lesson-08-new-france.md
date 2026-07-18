@@ -37,6 +37,13 @@ The mental model: **New France was two colonies wearing one name.**
                                     country, on Indigenous terms
 ```
 
+![Map of North America around 1750 showing New France stretching from Quebec through the Great Lakes down the Mississippi to Louisiana, beside the smaller British colonies on the Atlantic coast](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nouvelle-France_map-en.svg/960px-Nouvelle-France_map-en.svg.png)
+
+*North America c. 1750: New France (blue) sprawls from the St. Lawrence through
+the Great Lakes down the Mississippi — dotted with the forts of "the network" —
+while Britain's compact colonies (pink) crowd the Atlantic coast. Purple marks
+what France ceded at Utrecht in 1713. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nouvelle-France_map-en.svg).*
+
 France's American empire looked enormous on maps — Quebec to Louisiana — but
 the *population* was a ribbon of farms, while the vast rest was influence,
 not control: alliances with Indigenous nations who remained the real powers
