@@ -364,7 +364,10 @@ citizenship-test-style checkpoints (see Lab variants). Mark each ✓ as its file
 - Phase 6 — Civic Life: 32 citizenship ✓, 33 justice-in-practice ✓, 34 social-safety-net ✓, 35 taxes-public-money ✓, 36 taking-part ✓
 - Phase 7 — The Economy: 37 economy-at-a-glance ✓, 38 canada-us-trade ✓, 39 industries ✓, 40 money-banking ✓, 41 working-in-canada ✓
 - Phase 8 — Culture & Identity: 42 two-languages ✓, 43 multiculturalism ✓, 44 indigenous-canada-today ✓, 45 symbols-holidays ✓, 46 arts-sports-culture ✓, 47 what-is-a-canadian ✓ (capstone)
+- Phase 9 — Living Canadian (lived culture for newcomers, post-capstone): 48 growing-up-canadian ✓, 49 unwritten-rules ✓, 50 everyday-life ✓, 51 winter-way-of-life ✓, 52 food-and-drink ✓, 53 hockey-nation ✓, 54 speaking-canadian ✓
 
-*(Canada track complete — lessons 01–47 all written across 8 phases. Update this index if
+*(Canada track complete — lessons 01–54 all written across 9 phases. Update this index if
 lessons change. History phases 2–4 are chronological and come before institutions (Phase 5)
-by design. Lesson 47 ends with a cumulative 40-question citizenship-style final exam.)*
+by design. Lesson 47 ends with a cumulative 40-question citizenship-style final exam;
+Phase 9 deliberately follows the capstone — the lived-culture "epilogue" phase. Geographic
+content uses real Wikimedia Commons images, not ASCII maps.)*

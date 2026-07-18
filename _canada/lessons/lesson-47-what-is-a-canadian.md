@@ -451,4 +451,4 @@ conversation. Course complete. Welcome to the argument.
 
 <!-- nav-next -->
 [← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
-[Back to the Learning Plan →](../learning-plan){: .btn .btn-primary }
+[Next: Phase 9 — Living Canadian (Lesson 48: Growing Up Canadian) →](lesson-48-growing-up-canadian){: .btn .btn-primary }

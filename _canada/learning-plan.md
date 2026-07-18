@@ -319,6 +319,49 @@ The capstone question: what, if anything, is a Canadian?
 
 ---
 
+## Phase 9: Living Canadian
+
+The post-capstone phase: the culture you'd have absorbed by growing up there —
+written for someone not born or raised in Canada. The exam first (Lesson 47),
+then the life.
+
+### Lesson 48: Growing up Canadian
+**Goal:** Borrow the shared childhood — school, seasons, and rituals — so native reminiscence lands.
+**Topics:** Public school's texture (grade 9 not 9th grade, no uniforms, pizza day, the anthem mumble); the annual rituals (Terry Fox Run, Remembrance assemblies, snow days); French immersion and the Catholic-board bargain; summer as sacred (cottage/cabin/camp, day camps, provincial parks); safety-net childhood; what differs from the US movie version.
+**Lab:** Decode a colleague's childhood reminiscence line by line; advise a newcomer parent on school choice; build the month-by-month childhood year for Winnipeg vs Vancouver.
+
+### Lesson 49: The unwritten rules
+**Goal:** Run the Canadian social operating system — the politeness stack and its kernel.
+**Topics:** The sorry economy (punctuation, not confession); thank the bus driver, the yield-wave, queue theology, shoes off; understatement decoded ("not bad" = great, "small concerns" = objections, "yeah, no" = no); small-talk topics and taboos; the limits of nice (slow friendship, passive-aggressive shadow, politeness ≠ agreement).
+**Lab:** Translate a triple-softened meeting objection; plan a dinner-party evening without fouls; diagnose and repair a bluntness incident with a withdrawn colleague.
+
+### Lesson 50: Everyday life
+**Goal:** Master the errand layer — money, measurements, and retail nationalism.
+**Topics:** Tax added at the till (GST/HST/PST by province); tipping norms; loonie/toonie, the dead penny, e-transfer; the metric-imperial mash-up and its rule; Tim's/Canadian Tire/the Bay/LCBO field guide; bag milk; "hydro"; health card first; winter-car liturgy.
+**Lab:** Receipt forensics on an $18 burger across provinces; the newcomer's ten first purchases; write natural sentences in the correct measurement system per domain.
+
+### Lesson 51: Winter as a way of life
+**Goal:** Convert winter from siege to season — the physical curriculum and the emotional calendar.
+**Topics:** Layering, windchill grammar, winter driving, the shoveling covenant and the windrow; the emotional year (November greying, the February wall, false spring, patio-season mania); played winter vs endured winter (rinks, hills, carnivals, the backyard rink); honest footnotes (SAD, the March escape, Vancouver's asterisk, the North's magnitude).
+**Lab:** Read an Environment Canada warning operationally; write the February rescue text to a struggling newcomer; decode four winter rituals (the push, April shorts, the backyard rink, the windrow curse).
+
+### Lesson 52: Food and drink
+**Goal:** Hold both true answers to "what is Canadian food?" — the folk canon and the multicultural table.
+**Topics:** Poutine (and its custody), butter tarts and the raisin war, Nanaimo bars, maple and the sugar shack, KD, the Caesar; the regional table from Jiggs' dinner to donair to perogies; the immigrant table as the actual table; potluck/BBQ/double-double as social technologies; drinking culture and provincial retail.
+**Lab:** Build a 48-hour food tour holding both answers; potluck strategy as cultural capital; decode four food fights (raisins, poutine authenticity, Montreal bagels, "Canadian bacon").
+
+### Lesson 53: Hockey nation
+**Goal:** Install the ambient religion — pipeline, scripture, vocabulary, and honest footnotes.
+**Topics:** Timbits-to-shinny pipeline, road hockey's "CAR!" protocol; the sacred moments (Summit Series '72, Gretzky, the 2002 loonie, the 2010 Golden Goal, the women's dynasty, "no Cup since '93," the Leafs); HNIC liturgy and the word kit; cost, scandals, and the Raptors' new belonging; Terry Fox atop the pantheon.
+**Lab:** Read a playoff-season office and script newcomer participation; explain the Golden Goal's tears to a colleague abroad; run Lesson 45's symbol audit on hockey itself.
+
+### Lesson 54: Speaking Canadian
+**Goal:** Speak the dialect and the references — the phase's graduation.
+**Topics:** The lexicon (toque, hydro, klick, two-four, keener, bunny hug…); the spelling truce (British ink, American stuff) and "aboot"; "eh" engineered; the reference canon (Heritage Minutes, Mr. Dressup, Log Driver's Waltz, The Hockey Sweater, the Tragically Hip, Bob & Doug); deployment etiquette and the earned-teasing rule.
+**Lab:** Translate a fluent-Canadian paragraph; draft the en-CA style-guide memo; triage the reference canon into a weekend syllabus (and name what you must never fake).
+
+---
+
 ## How the phases fit together
 
 ```
@@ -330,6 +373,7 @@ Phase 5  GOVERNMENT     ┐
 Phase 6  CIVIC LIFE     ├─ the systems (how it works now)
 Phase 7  ECONOMY        ┘
 Phase 8  IDENTITY       the synthesis
+Phase 9  LIVING IT      the lived culture (post-capstone)
 ```
 
 History (Phases 2–4) is taught chronologically and *before* institutions
@@ -341,3 +385,7 @@ seen the geography, the history, and the machinery.
 
 Each phase ends with a written test covering all its lessons, and Lesson 47
 closes with a full cumulative test in the style of the citizenship exam.
+Phase 9 comes after the exam on purpose: Phases 1–8 teach Canada as a subject;
+Phase 9 (lessons 48–54) teaches it as a life — the childhood, the unwritten
+rules, the errands, the winter, the food, the hockey, and the dialect that
+someone raised there absorbs without noticing.
