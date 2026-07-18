@@ -17,15 +17,17 @@ could do on it. Learn the seven physical regions and you get, for free, the
 logic of where cities grew, what each province sells, and why the population
 map looks the way it does.
 
-![Relief map of Canada showing mountains in the west, plains in the centre, and the lake-pocked Canadian Shield around Hudson Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canada_relief_map_2.svg/960px-Canada_relief_map_2.svg.png)
+![Relief map of Canada with the seven physical regions highlighted in colour and labelled: Western Cordillera, Interior Plains, Canadian Shield, Hudson Bay Lowlands, Great Lakes–St. Lawrence Lowlands, Appalachian, and Arctic Archipelago]({{ '/assets/images/canada/physical-regions-labeled.png' | relative_url }})
 
-*You can read all seven regions straight off the relief: the **Western
-Cordillera**'s mountain wall on the Pacific, the flat **Interior Plains** east
-of it, the lake-freckled green horseshoe of the **Canadian Shield** wrapping
-Hudson Bay (with the low, swampy **Hudson Bay Lowlands** at its inner rim), the
-small **Great Lakes–St. Lawrence Lowlands** in the populated southeast, the
-worn **Appalachian** hills of the Atlantic provinces, and the **Arctic
-Archipelago** scattered across the top. Map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_relief_map_2.svg).*
+*The seven regions, highlighted (boundaries approximate — made for this
+lesson): the **Western Cordillera**'s mountain wall (purple), the flat
+**Interior Plains** (yellow), the **Canadian Shield** horseshoe wrapping
+Hudson Bay (red — note it appears on *both* sides of the bay), the low,
+swampy **Hudson Bay Lowlands** at the bay's southern rim (teal), the tiny
+**Great Lakes–St. Lawrence Lowlands** (green — most Canadians live in that
+little patch), the worn **Appalachian** hills of the Atlantic provinces
+(orange), and the **Arctic Archipelago** across the top (blue). Base relief
+map: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_relief_map_2.svg).*
 
 The headline paradox: the **Canadian Shield** — a vast horseshoe of billion-
 year-old rock around Hudson Bay — covers roughly **half the country** and
