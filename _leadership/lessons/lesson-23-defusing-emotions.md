@@ -10,6 +10,20 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 23: Defusing Emotional Situations
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **defuse** (dee-FYOOZ) — to remove the explosive charge from a situation (from disarming a bomb).
+> - **"name it to tame it"** — acknowledging an emotion out loud reduces its intensity.
+> - **de-escalate** — to lower a conflict's temperature step by step.
+> - **minimize** — to treat someone's feeling as smaller than it is ("it's not that bad") — which backfires.
+> - **empathy** (EM-pah-thee) — feeling *with* someone and showing you understand their experience.
+> - **vent(ing)** — releasing frustration by talking it out, not seeking solutions.
+> - **contagious** (kun-TAY-juss) — spreading between people; emotional states are.
+> - **regulate** (emotions) — to steady yourself deliberately (a breath) before responding.
+> - **trigger** — the specific thing that reliably sets *you* off emotionally.
+> - **hijacked** — when emotion takes over your response before thinking can.
+> - **circle back** — to return to the matter later, once things are calm.
+
 ## Concept
 
 Sometimes emotion runs high — someone is angry, distressed, frustrated, or breaking down. As a

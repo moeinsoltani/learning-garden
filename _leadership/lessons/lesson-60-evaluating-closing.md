@@ -10,6 +10,19 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 60: Evaluating and Closing Candidates
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **debrief** — the post-interview meeting where interviewers share findings and decide.
+> - **evidence before opinions** — presenting what the candidate actually did before anyone states a verdict, to avoid anchoring.
+> - **anchor(ing)** — the first stated opinion pulling everyone else toward it.
+> - **hire bar** — the absolute standard each hire must clear ("would they raise our average?") — never "better than our weakest."
+> - **weak yes** — a hesitant "I guess, probably" — treated as a no, because doubts about hires usually prove right.
+> - **false positive / false negative** — hiring someone you shouldn't have (very costly) / passing on someone good (cheap by comparison).
+> - **references** — conversations with the candidate's past colleagues; useful only with specific behavioral questions.
+> - **lukewarm** — noticeably unenthusiastic; in references, a signal.
+> - **the close** — persuading your chosen candidate to accept; decided mostly on **growth, manager, and mission**, not just money.
+> - **comp (compensation)** — the full pay package: salary, bonus, equity.
+
 ## Concept
 
 After the interviews comes the hard part: **deciding well under uncertainty** (you never have complete

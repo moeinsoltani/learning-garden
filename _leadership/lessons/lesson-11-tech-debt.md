@@ -10,6 +10,20 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 11: Managing Technical Debt Strategically
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **technical debt** — code whose current state makes future change slower, riskier, or more expensive (like interest on a loan).
+> - **quadrant** (KWOD-rant) — one of four squares in a 2×2 diagram.
+> - **prudent** (PROO-dent) — careful and wise; **reckless** — carelessly risky; **inadvertent** (in-ad-VER-tent) — unintentional.
+> - **portfolio** (port-FOH-lee-oh) — a managed collection of investments; here: treating debts as items to weigh, not sins to purge.
+> - **paydown** — reducing debt deliberately; **stabilization** — a focused period of fixing rather than building.
+> - **churn** — how often code changes (Lesson 06); high-churn debt costs the most.
+> - **gold-plate** — to add unnecessary polish beyond what's needed.
+> - **opportunity cost** — the value of the best alternative you gave up.
+> - **cycle time** — how long a piece of work takes from start to shipped.
+> - **big-bang rewrite** — rebuilding a system from scratch in one giant risky effort; the **strangler-fig** incremental path is the usual alternative (Lesson 06).
+> - **business case** — a pitch justifying work by its return (money, risk, speed), not its virtue.
+
 ## Concept
 
 Engineers tend to treat technical debt as a moral failing — messy code someone

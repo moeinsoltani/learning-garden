@@ -10,6 +10,21 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 33: The Justice System in Practice
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **detention** — being held by police without being free to leave (short of arrest).
+> - **duty counsel** — the free, on-call lawyer available 24/7 to anyone arrested.
+> - **disclosure** — the Crown's obligation to show the accused *all* its evidence before trial.
+> - **plea bargain / guilty plea** — resolving a charge by agreement instead of trial.
+> - **indictable offence** (in-DYE-tah-bul — the "c" is silent) — a serious criminal charge; lesser ones are "summary" offences.
+> - **summons** (SUM-unz) — an official order to appear (e.g., for jury duty).
+> - **peremptory challenge** (per-EMP-tor-ee) — rejecting a potential juror without giving any reason (abolished in Canada, 2019).
+> - **deliberations** — the jury's private discussions; **contempt of court** — disobeying or disrespecting the court's rules (a punishable offence).
+> - **garnishment** — collecting a court judgment by taking money directly from the loser's wages or bank account; **lien** (LEEN) — a legal claim registered against property until a debt is paid.
+> - **carding / street check** — police stopping and documenting people not suspected of any crime.
+> - **civilian oversight** — independent non-police bodies that investigate police conduct.
+> - Names: **Stinchcombe** (STINCH-kum), **Colten Boushie** (BOO-shee), **SIU** — Ontario's Special Investigations Unit.
+
 ## Concept
 
 Lesson 30 gave you the courts' architecture; this lesson is the

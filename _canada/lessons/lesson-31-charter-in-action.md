@@ -10,6 +10,20 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 31: The Charter in Action
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **infringement** (in-FRINJ-ment) — a limiting or violation of a right.
+> - **the Oakes test** (OAKS) — the court checklist deciding whether a rights limit is justified (explained below).
+> - **proportionality** — the requirement that a law's harm to rights be in proportion to its benefit; **minimal impairment** — limiting the right as little as reasonably possible.
+> - **analogous grounds** (ah-NAL-oh-gus) — new categories of discrimination courts may add to s.15's list (sexual orientation was added this way).
+> - **override** — s.33's power to make a law operate despite certain rights; a **sunset clause** — an automatic expiry date (s.33's five years).
+> - **remedy** — what a court orders to fix a rights violation; **strike down** — declare a law invalid; **suspended declaration** — striking a law but delaying the effect so Parliament can redraft.
+> - **pre-emptive** — done in advance, before courts can rule.
+> - **chilling effect** — when fear of punishment silences even legal speech.
+> - **expropriation** (eks-proh-pree-AY-shun) — the government taking private property (with compensation, by statute — not a Charter right in Canada).
+> - **"dialogue"** — the Canadian idea that courts and legislatures answer each other (ruling → redraft → re-ruling) rather than one having the final word.
+> - Names: **Morgentaler** (MOR-gen-tah-ler), **Keegstra** (KEEG-strah), **Oakes** (OAKS), **Bedford**, **Carter** — landmark cases are known by the parties' names.
+
 ## Concept
 
 Lesson 23 gave you the Charter's birth; this lesson gives you its

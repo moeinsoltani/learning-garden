@@ -10,6 +10,19 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 30: The Delegation Ladder
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **delegation** — handing over work *and* the responsibility for it.
+> - **micromanage** — to delegate but then control every step; **abdicate** (AB-dih-kate) — the opposite: dump the work with no support ("throw it over the wall").
+> - **outcome vs task** — the goal to achieve ("make CI reliable") vs prescribed steps to execute; delegate the former.
+> - **rung** — one step of a ladder; here, a level of autonomy.
+> - **autonomy** (aw-TON-oh-mee) — freedom to decide how to do the work.
+> - **monitoring contract** — the agreed check-in rhythm and escalation rules that replace hovering.
+> - **escalate** — to bring a problem up to you when agreed conditions are met.
+> - **hover** — to watch over someone's shoulder constantly.
+> - **the boomerang** — delegated work that comes flying back to you when the person struggles; don't catch it.
+> - **flounder** — to struggle helplessly without support.
+
 ## Concept
 
 Delegation is how a lead scales — but most people do it badly: they either **micromanage** (delegate

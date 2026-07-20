@@ -10,6 +10,22 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 26: Parliament — Commons and Senate
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **bill** — a proposed law; a **reading** — each of the formal stages a bill passes through (the names are historical; nobody reads it aloud three times).
+> - **money bill** — a bill that taxes or spends; must start in the elected Commons.
+> - **the Speaker** — the elected referee of Commons debate.
+> - **Question Period ("QP")** — the daily 45 minutes when opposition MPs grill ministers.
+> - **Official Opposition** — the largest party not in government; its job is to challenge the government.
+> - **caucus** (KAW-kus) — all the MPs (and senators) of one party, as a group.
+> - **the whip / party discipline** — the party officer (and the practice) ensuring MPs vote the party line; a **free vote** — a rare vote where MPs may choose freely.
+> - **backbencher** — an ordinary MP with no cabinet job (they sit in the back rows); a **private member's bill** — a bill proposed by one, not by the government.
+> - **by-election** — an election in a single riding between general elections (e.g., after an MP resigns).
+> - **the Order Paper** — Parliament's official agenda of pending business; bills "die on the Order Paper" when a parliament ends.
+> - **Hansard** (HAN-serd) — the word-for-word official transcript of everything said in Parliament.
+> - **unicameral** (yoo-nih-KAM-er-ul) — having one legislative chamber (all provinces are; Ottawa has two = **bicameral**).
+> - **bagman** — slang: a party's fundraiser.
+
 ## Concept
 
 Canada's Parliament has three parts — **the Crown, the Senate, and the

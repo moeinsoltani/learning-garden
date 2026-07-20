@@ -10,6 +10,16 @@ parent: "Phase 1: The Land"
 
 # Lesson 01: Canada at a Glance
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **province** / **territory** — the 13 pieces Canada is divided into; a province has its own constitutional powers, a territory gets its powers from the federal government (explained below).
+> - **delegated** — given (a power) from a higher authority to a lower one; **devolved** — powers gradually handed down over time.
+> - **Crown land** — land owned by the government (in Canada, "the Crown" means the state; more in Lesson 25).
+> - **motto** — a short official phrase that expresses what a country stands for.
+> - **bilingual** (by-LING-gwul) — using two official languages (English and French).
+> - **Confederation** (kun-fed-er-AY-shun) — the 1867 joining of provinces that created Canada (Lesson 13).
+> - Tricky place names: **Quebec** (kwih-BEK; in French, keh-BEK), **Saskatchewan** (sus-KATCH-eh-wun), **Regina** (rih-JY-nah), **Newfoundland** (NOO-fund-LAND — stress on first and last syllable), **Nunavut** (NOO-nah-voot), **Iqaluit** (ee-KAL-oo-it), **Ottawa** (OTT-ah-wah), **the Maritimes** (MARE-ih-timez).
+
 ## Concept
 
 Hold this one image in your head before any date, prime minister, or treaty:

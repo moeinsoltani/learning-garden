@@ -10,6 +10,20 @@ parent: "Phase 7: The Economy"
 
 # Lesson 38: The Elephant Next Door
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **asymmetry** (ay-SIM-eh-tree) — an unbalanced relationship: the US is 75% of Canada's trade; Canada is a small share of America's.
+> - **production sharing** — one industry spread across two countries, with parts crossing the border many times before the product is finished.
+> - **stumpage** (STUM-pij) — the fee a company pays a province to cut timber on Crown land — the heart of the softwood dispute.
+> - **countervailing duty** — an extra import tax meant to cancel out a foreign government's subsidy; **anti-dumping** — duties against goods sold below "fair" price.
+> - **supply management** — Canada's system of production quotas + huge tariffs protecting dairy, poultry, and eggs; a **quota** (KWOH-tah) — a licensed production limit.
+> - **retaliation** — answering tariffs with your own tariffs, aimed to hurt politically.
+> - **lobbying** — professionally persuading legislators; a **lobby** — an organized interest group doing it.
+> - **gravity model** — the economics rule that trade grows with market size and closeness, and shrinks with distance — why diversification away from the US keeps failing.
+> - **USMCA / CUSMA** — the current North American trade agreement (2020), NAFTA's successor.
+> - **Section 232** — the US law letting a president impose tariffs on "national security" grounds.
+> - **sunset / review clause** — a built-in expiry or renegotiation date.
+
 ## Concept
 
 Pierre Trudeau, to the Washington Press Club, 1969: *"Living next to

@@ -10,6 +10,19 @@ parent: "Phase 7: The Economy"
 
 # Lesson 40: Money and Banking
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **central bank** — the public institution that manages a country's money and interest rates; **monetary policy** — that management.
+> - **overnight (policy) rate** — the interest rate the central bank sets; every other rate in the economy prices off it; **prime rate** — the banks' base lending rate, which follows it.
+> - **inflation targeting** — publicly promising to keep inflation at a number (2%) and steering rates to hit it.
+> - **lender of last resort** — the central bank's role of lending to banks in a panic so the system doesn't collapse.
+> - **mortgage term** vs **amortization** (am-or-tih-ZAY-shun) — the term is how long your *rate* is locked (in Canada, usually ≤5 years); amortization is the total years to pay the loan off (~25). At each term's end you *renew* at current rates — this is why Canadian rate hikes hit fast.
+> - **stress test** — the rule that you must qualify at a higher rate than you'll actually pay, to prove you can survive hikes.
+> - **recourse mortgage** — the bank can pursue your other assets if you walk away (unlike much of the US).
+> - **petro-currency** — a currency that rises and falls with oil prices; **loonie / toonie** — the $1 and $2 coins (and nicknames for the dollar itself).
+> - **CMHC** — the government mortgage insurer; **OSFI** (OSS-fee) — the bank regulator.
+> - Names: **Coyne** (KOYN), **Viola Desmond** (vy-OH-lah DEZ-mund — the civil-rights pioneer on the $10 bill).
+
 ## Concept
 
 Three institutions to understand, one national conversation to

@@ -10,6 +10,19 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 47: Metrics and KPIs
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **KPI** — Key Performance Indicator: a metric an organization steers by.
+> - **north-star metric** — the single outcome metric that captures the value you create; **input metrics** — the controllable drivers that feed it.
+> - **DORA metrics** — the four research-backed delivery metrics: deployment frequency, lead time for changes, change failure rate, time to restore.
+> - **cycle time** — how long a piece of work takes start to finish (Lesson 11).
+> - **velocity / story points** — agile's estimate-based output measures; notoriously gameable.
+> - **gaming (a metric)** — improving the number without improving the reality it's meant to measure.
+> - **vanity metric** — a number that looks impressive but informs no decision (total registered users); **actionable metric** — one that reflects real value and guides action.
+> - **Goodhart's Law** (GOOD-hart) — "when a measure becomes a target, it ceases to be a good measure."
+> - **proxy** — a stand-in measured *instead of* the real thing; all metrics are proxies.
+> - **instrument** (verb) — to add measurement to a system so you can actually see what's happening.
+
 ## Concept
 
 Leaders think and communicate in **metrics** — and a lead needs to speak them natively: both **business

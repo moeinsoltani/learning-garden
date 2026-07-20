@@ -10,6 +10,21 @@ parent: "Phase 1: The Transition"
 
 # Lesson 03: Letting Go of the Code
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **anti-pattern** — a common solution that looks right but reliably causes harm.
+> - **hero** (as a work pattern) — the person who saves every crisis personally; here, a trap, not a compliment.
+> - **critical path** — the chain of tasks that directly determines the delivery date; anything on it blocks others when it slips.
+> - **bus factor** — how many people could disappear ("be hit by a bus") before the project fails; a bus factor of one means everything depends on one person.
+> - **spike** — a short, throwaway technical investigation to answer a question or prove an approach.
+> - **proof-of-concept / prototype** — a rough working demo built to test an idea, not to ship.
+> - **DX (developer experience)** — the quality of the team's tools: build, tests, CI, dev environment.
+> - **pairing** — two people working at one screen; here, used to teach.
+> - **descope** — to cut a piece of work out of a deadline to make it achievable.
+> - **learned helplessness** — giving up trying because someone always takes over.
+> - **tribal knowledge** — important information that lives only in people's heads, never written down.
+> - **single point of failure** — the one component (or person) whose loss breaks everything.
+
 ## Concept
 
 Lesson 01 established that your output is now the team's output. This lesson is

@@ -10,6 +10,20 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 42: Customers and Users
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **support rotation** — engineers taking turns handling real customer support tickets.
+> - **engineering signal** — the real underlying problem extracted from what users literally say.
+> - **anecdote vs data** — one vivid story vs aggregate numbers; depth vs breadth — use both.
+> - **over-index** — to give something more weight than it deserves.
+> - **prevalence** (PREV-ah-lence) — how widespread a problem actually is.
+> - **enterprise customer** — a large company client, usually paying far more than ordinary users.
+> - **escalation** (customer sense) — a big customer pushing their demand up through management.
+> - **churn** (customer sense) — a customer leaving for good.
+> - **hijack the roadmap** — one loud customer's demands displacing everyone else's priorities.
+> - **string along** — to keep someone hoping with vague "maybes" instead of an honest no.
+> - **qualitative / quantitative** — the *why* and texture vs the *how many*.
+
 ## Concept
 
 Engineering exists to serve the humans on the other end — customers and users — but teams easily lose

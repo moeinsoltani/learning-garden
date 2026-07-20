@@ -10,6 +10,19 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 51: Estimation — and Why It Fails
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **estimate / target / commitment** — honest guess / hoped-for goal / firm promise: three different things never to conflate (the lesson's core).
+> - **conflate** — to blur two different things into one.
+> - **unknown unknowns** — the problems you can't foresee because you don't know they exist.
+> - **optimism bias / planning fallacy** — the systematic human tendency to imagine the happy path and underestimate work.
+> - **the happy path** — the scenario where nothing goes wrong.
+> - **pressure-contaminated** — an estimate unconsciously shrunk to please whoever wants it smaller.
+> - **point estimate vs range** — a single number ("3 weeks") vs an honest spread ("2–5 weeks").
+> - **reference-class forecasting** — estimating from how long *similar past projects actually took* (the "outside view") instead of imagining this one's steps (the "inside view").
+> - **conservative** — deliberately cautious; commitments should be.
+> - **re-estimate** — updating the estimate as you learn; honest, not shameful.
+
 ## Concept
 
 Estimation is one of the hardest and most-failing parts of engineering leadership — estimates are almost

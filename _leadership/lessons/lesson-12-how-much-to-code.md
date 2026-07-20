@@ -10,6 +10,19 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 12: How Much Should a Lead Still Code?
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **crunch** — a period of intense deadline pressure.
+> - **scope** (of a role) — how much responsibility it covers: people, teams, systems.
+> - **credibility** — being trusted because your judgment has proven good; a technical leader's currency.
+> - **top committer** — the person who ships the most code (not what credibility requires).
+> - **technical surface** — the activity through which you stay in contact with the code (for leads: mostly code review).
+> - **incident response** — jumping in on live production problems.
+> - **sustainable** — a level you can keep up indefinitely without burning out.
+> - **autopilot** — acting from habit instead of deliberate choice.
+> - **opportunity cost** — what the time *could* have produced instead (Lesson 11).
+> - **critical path / hero trap / lost-touch trap** — see Lesson 03; this lesson lives between those two failures.
+
 ## Concept
 
 This is the question every new technical leader wrestles with, and the honest

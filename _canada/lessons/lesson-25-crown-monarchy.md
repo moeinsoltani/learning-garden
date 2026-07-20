@@ -10,6 +10,20 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 25: The Crown and the Constitutional Monarchy
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **constitutional monarchy** — a system where a king/queen is head of state but real power is exercised by elected government under the constitution.
+> - **head of state** vs **head of government** — the person who *embodies* the country (the King) vs the person who *runs* it (the PM).
+> - **Governor General (GG)** — the King's stand-in in Canada; **Lieutenant Governor** — the same role in each province. Canadian pronunciation: **lef-TEN-ant** (not "loo-tenant").
+> - **reserve powers** — the tiny set of decisions a GG may still make personally (who forms a government in unclear cases; granting or refusing an election).
+> - **prorogation** (pro-roh-GAY-shun) — suspending Parliament for a while *without* dissolving it for an election; all business pauses.
+> - **hung parliament** — an election result where no party has a majority.
+> - **throne speech** — the government's agenda, read aloud by the GG to open each parliament.
+> - **honour of the Crown** — the legal doctrine that the Crown must keep its promises to Indigenous peoples honourably (Lessons 15, 17).
+> - **republican** — here: someone who wants to replace the monarchy with an elected head of state (not the US party).
+> - **viscount** (VY-count) — a rank of British nobility; **ermine** (ER-min) — the white fur of royal robes, a symbol of monarchy.
+> - Names: **Byng** (BING), **Meighen** (MEE-en), **Michaëlle Jean** (mee-shah-EL ZHAWN), **Payette** (pay-ET).
+
 ## Concept
 
 Canada is a **constitutional monarchy**: the head of state is the King

@@ -10,6 +10,23 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 21: The Postwar Boom
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **referendum** (ref-er-EN-dum) — a direct public vote on a question; a **runoff** — a second round between the top two options.
+> - **baby boom** — the surge of births ~1946–1964; the "boomers" are that generation.
+> - **displaced persons ("DPs")** — refugees left homeless in Europe's postwar camps.
+> - **points system** — Canada's 1967 immigration method: applicants scored on education, skills, and language instead of race or origin.
+> - **medicare** (MED-ih-care) — in Canada: the universal public health insurance system (note: in the US the same word means something narrower).
+> - **fee-for-service** — doctors billing per visit/procedure (to the public plan, in Canada's hybrid).
+> - **royal commission** — a major independent public inquiry appointed by the government.
+> - **peacekeeping** — neutral UN soldiers ("blue helmets") standing between former combatants.
+> - **filibuster** (FIL-ih-buss-ter) — endless speech-making in parliament to delay a vote.
+> - **ensign** (EN-sin) — a flag design based on the British naval flag; the **Red Ensign** was Canada's pre-1965 flag.
+> - **Nobel laureate** (LOR-ee-ut) — a Nobel Prize winner.
+> - **separatist** — someone who wants their region to become an independent country.
+> - **opt out** — to choose not to join a program (Quebec runs its own pension plan, the QPP).
+> - Names: **Smallwood** (SMALL-wood), **Pearson** (PEER-sun), **Diefenbaker** (DEE-fen-bay-ker), **Suez** (SOO-ez), **de Gaulle** (duh GOHL), **"Vive le Québec libre"** (VEEV luh kay-BEK LEE-bruh — "Long live free Quebec"), **Leduc** (leh-DUKE), **Kitimat** (KIT-ih-mat).
+
 ## Concept
 
 Between 1945 and 1970, Canada acquired most of the furniture you'd

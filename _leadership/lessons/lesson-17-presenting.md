@@ -10,6 +10,19 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 17: Presenting and Demos
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **story shape** — structuring a presentation as situation → tension → resolution instead of a flat list of facts.
+> - **demo** — showing the real working thing; a **live demo** runs it in front of the audience (and can break).
+> - **a net / fallback** — the backup (recording, screenshots) ready for when the live demo fails ("without a net" = no backup).
+> - **narrate** — to talk the audience through what they're seeing, as a story.
+> - **flustered** — visibly rattled and losing composure.
+> - **credit** (verb) — to publicly name who did the work; the opposite of taking it yourself.
+> - **self-promotion** — advertising yourself; making the *team's* work visible is not this.
+> - **QBR (quarterly business review)** — the regular meeting where teams present results to leadership.
+> - **bluffing** — pretending to know an answer; caught bluffs destroy credibility ("I don't know, I'll follow up" beats it).
+> - **deflect** — to dodge a question instead of answering it.
+
 ## Concept
 
 A lead regularly has to present — quarterly reviews, demos, proposals to

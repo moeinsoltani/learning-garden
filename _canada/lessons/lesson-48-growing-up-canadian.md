@@ -10,6 +10,20 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 48: Growing Up Canadian
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **shibboleth** (SHIB-oh-leth) — a small word or habit that instantly reveals whether you belong to a group ("grade 9" vs "9th grade").
+> - **sugar shack** (in Quebec: *cabane à sucre*, kah-BAN ah SOOK-rr) — the maple-syrup farm you visit in early spring to eat syrup poured on snow.
+> - **recorder** — the cheap plastic flute every Canadian child is forced to learn in music class.
+> - **house league** — the friendly, everyone-plays level of kids' sports (opposite of competitive "rep" teams).
+> - **pledge sheet** — the form where neighbours promise money per kilometre for a charity run.
+> - **PA (system)** — the loudspeaker system in schools ("announcements over the PA").
+> - **prom** — the formal graduation dance; **sleepover camp** — summer camp where kids stay for weeks.
+> - **cottage / cabin / camp** — the summer lake house; the word depends on region (Lesson 54 maps it).
+> - **potluck** — a shared meal where every guest brings a dish.
+> - **4-H** — a rural youth club (farming/skills); **powwow** (POW-wow) — an Indigenous celebration with dancing, drumming, and regalia; **Katimavik** (kah-TIM-ah-vik) — a national youth-volunteering program.
+> - Names: **Terry Fox** — the runner with an amputated leg who ran across Canada for cancer research in 1980 (Lesson 53 tells the full story).
+
 ## Concept
 
 When two Canadian adults meet, they can run a whole conversation on a

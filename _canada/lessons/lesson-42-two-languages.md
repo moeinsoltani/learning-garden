@@ -10,6 +10,19 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 42: Two Languages
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **official bilingualism** — the *government* must operate in both languages; individuals owe nothing (the lesson's core correction).
+> - **mother tongue** — the first language a person learned and still understands (the census measure).
+> - **"where numbers warrant"** — the legal threshold: services/schools required only where enough speakers live.
+> - **de facto** (deh FAK-toh) — true in practice, though not written in law (most provinces are de facto English).
+> - **French immersion** — schooling anglophone children largely *in* French.
+> - **symmetric vs asymmetric** — treating both languages identically vs deliberately protecting the weaker one (French).
+> - **B&B Commission** — the 1960s Royal Commission on Bilingualism and Biculturalism, parent of the 1969 Act.
+> - **joual** (zhoo-AL) — Quebec working-class French; **franglais** (frawn-GLEH) — French-English mixing.
+> - **tintamarre** (tan-tah-MAR) — the Acadian tradition of a deafening pot-banging parade on August 15.
+> - Names: **Acadians** (ah-KAY-dee-unz), **Franco-Ontarians**, **Fransaskois** (frawn-sass-KWAH — Saskatchewan's francophones), **St. Boniface** (BON-ih-fass), **Montfort** (mon-FOR — the Ottawa francophone hospital saved by court fight).
+
 ## Concept
 
 Start with the correction that defuses most confusion: **official

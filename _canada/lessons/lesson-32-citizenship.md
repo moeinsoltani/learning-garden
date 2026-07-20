@@ -10,6 +10,19 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 32: Citizenship — Rights and Responsibilities
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **naturalization** (natch-er-ul-eye-ZAY-shun) — becoming a citizen of a country you weren't born in.
+> - **jus soli** (yoos SOH-lee) — Latin: citizenship by *birthplace* (born on the soil); **jus sanguinis** (yoos SANG-gwin-iss) — citizenship by *parentage* (born to a citizen).
+> - **permanent resident (PR)** — someone with the right to live and work in Canada indefinitely, but not yet a citizen.
+> - **oath / affirm** — the formal promise of allegiance; "affirm" is the non-religious version.
+> - **dual citizenship** — holding two countries' citizenships at once (fully allowed by Canada); **renounce** — to formally give one up.
+> - **consular protection** — your country's embassies helping you when you're in trouble abroad.
+> - **deportation** — being legally removed from the country (possible for PRs, not citizens).
+> - **red serge** (SURJ) — the RCMP's famous red ceremonial uniform.
+> - **fealty** (FEE-ul-tee) — an old word for personal loyalty to a lord (what the oath is *not*, per the courts).
+> - **CLB** — Canadian Language Benchmarks, the official language-level scale (CLB 4 ≈ basic conversational).
+
 ## Concept
 
 Canadian citizenship is young as a legal thing: before the

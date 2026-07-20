@@ -10,6 +10,19 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 16: Writing Design Documents and Proposals
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **design doc** — the written proposal through which significant technical decisions get reviewed and made.
+> - **problem statement** — the section that says precisely what is being solved; the most-skipped, most-important part.
+> - **skimmer** — a reader who jumps through a document reading only headings and highlights (i.e., almost everyone).
+> - **executive summary** — the one paragraph at the top carrying the whole doc in miniature (Lesson 13's BLUF).
+> - **solicit** (soh-LIS-it) — to actively ask for (feedback, review).
+> - **design-by-committee** — a proposal watered down trying to please every reviewer until it stands for nothing; **mush** — the shapeless result.
+> - **point of view** — a clear recommendation the doc actually argues for.
+> - **decision log** — the record at the end: what was decided, when, by whom, and why.
+> - **bikeshedding** — arguing trivial details instead of the substance (Lesson 09).
+> - **wall of text** — a long unbroken block of writing nobody finishes.
+
 ## Concept
 
 Design docs and proposals are how significant technical and organizational

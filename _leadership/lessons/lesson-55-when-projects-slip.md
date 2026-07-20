@@ -10,6 +10,20 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 55: When Projects Slip
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **slip** — to fall behind schedule.
+> - **death march** — a doomed period of forced overwork trying to hit an impossible date.
+> - **crunch** — sustained long hours under deadline pressure; borrows from the future (burnout, bugs).
+> - **watermelon status** — a project reported "green" outside but actually red inside.
+> - **velocity** — the measured rate at which work actually completes (the honest signal).
+> - **Brooks's Law** — "adding manpower to a late software project makes it later" (onboarding + communication overhead exceed the added capacity).
+> - **communication overhead** — coordination cost that grows with team size.
+> - **divisible** — able to be split among more people ("nine women can't make a baby in one month").
+> - **recovery menu** — the honest options when slipping: cut scope / move date / add people / cut quality — mostly cut scope.
+> - **must-haves vs nice-to-haves** — the essential core vs the droppable extras.
+> - **false economy** — a "saving" that costs more later (cutting quality).
+
 ## Concept
 
 Despite good planning, projects slip — it's normal, not a personal failure. What matters is **recovering

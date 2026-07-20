@@ -10,6 +10,19 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 32: Career Development Conversations
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **aspiration** — where someone hopes their career goes.
+> - **performance review** — the backward-looking formal evaluation; a career conversation is its forward-looking opposite.
+> - **bend the work** — to steer someone's assignments toward their goals.
+> - **legible** (LEJ-ih-bul) — clear enough to read and understand; "legible criteria" = promotion requirements everyone can actually see.
+> - **the ladder** — the company's written levels and expectations (junior → senior → staff…).
+> - **promotion packet** — the file of evidence (projects, impact, next-level work) that supports a promotion case.
+> - **cycle** — a company's fixed promotion/review season ("not this cycle" = wait for the next round).
+> - **false hope** — vague comfort that hides the real answer; crueler than honesty.
+> - **the gap** — the specific difference between someone's current work and the next level's bar.
+> - **steward** (STOO-erd) — to look after something over time on another's behalf.
+
 ## Concept
 
 To develop people well, you need to know **where each person actually wants to go** — and then bend

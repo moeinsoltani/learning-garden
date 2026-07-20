@@ -10,6 +10,20 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 29: Federalism — Who Does What
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **jurisdiction** (joor-iss-DIK-shun) — the legal authority to make laws about a subject; the core word of this lesson.
+> - **decentralized** — with power spread out to the provinces rather than concentrated in Ottawa.
+> - **concurrent** (kun-KUR-ent) — a field both levels may legislate in (immigration, agriculture); **paramountcy** (pair-ah-MOWNT-see) — the rule that federal law wins when the two conflict.
+> - **transfer payments** — money Ottawa sends to provinces (the Canada Health Transfer, equalization).
+> - **spending power** — Ottawa's ability to attach conditions to money even in provincial fields (Lesson 21).
+> - **POGG** — "Peace, Order, and good Government," the federal residual power (Lesson 13); a **backstop** — a federal rule that applies only where a province has no equivalent.
+> - **"creatures of the province"** — the legal status of cities: they exist only by provincial law; **plenary** (PLEN-ah-ree) — complete, unrestricted (provincial power over cities is plenary).
+> - **First Ministers** — the PM and the provincial premiers, collectively.
+> - **internal trade barriers** — provincial rules that block goods/workers from other provinces.
+> - **NIMBY** (NIM-bee) — "Not In My Back Yard": residents supporting something in principle but opposing it near them.
+> - **arm's length** — operating independently of political control (the Bank of Canada).
+
 ## Concept
 
 The single most useful civic skill in Canada: **knowing which

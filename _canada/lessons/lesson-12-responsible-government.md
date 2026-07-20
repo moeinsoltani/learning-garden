@@ -10,6 +10,20 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 12: Rebellion and Responsible Government
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **the executive** — the people who actually run the government (governor, ministers); **the assembly / legislature** — the elected body that passes laws.
+> - **confidence** — here: the ongoing support of a majority of elected members; losing a "confidence vote" means the government must resign or call an election.
+> - **responsible government** — "responsible" = *answerable to* the elected assembly (not "sensible"); the whole lesson defines it.
+> - **clique** (KLEEK) — a small closed group holding power for itself; the **Family Compact** and **Château Clique** (shah-TOH KLEEK) were the ruling cliques of the two colonies.
+> - **Tory** (TOR-ee) — a Conservative, especially a defender of the old privileged order.
+> - **martial law** (MAR-shul) — rule by the army, with normal courts and rights suspended.
+> - **dissolve / dissolution** — formally ending a parliament so an election happens.
+> - **ministry / cabinet** — the group of ministers governing together; **premier** — a head of government (today: of a province).
+> - **reserve / veto a bill** — a governor refusing (or delaying) royal approval so a passed bill does not become law.
+> - **cross the floor** — to leave your party and join the other side.
+> - Names: **Papineau** (pap-ee-NOH), **Patriotes** (pat-ree-OT), **LaFontaine** (lah-fon-TEN), **Elgin** (EL-ghin, hard "g"), **Durham** (DUR-um), **St-Eustache** (sant-oo-STASH), **Yonge Street** (YUNG — Toronto's main street).
+
 ## Concept
 
 This lesson explains where Canada's *actual operating system* comes from.

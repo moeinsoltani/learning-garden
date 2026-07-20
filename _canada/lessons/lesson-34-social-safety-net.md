@@ -10,6 +10,21 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 34: The Social Safety Net
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **safety net** — the set of programs that catch people when life goes wrong (job loss, illness, old age).
+> - **income-tested / means-tested** — a benefit that shrinks as your income rises; a **clawback** — the reduction itself (OAS is "clawed back" at high incomes).
+> - **universality** — a program covering everyone regardless of income; **free at point of use** — no bill when you receive the service (paid via taxes instead).
+> - **extra-billing** — a doctor charging patients on top of the public payment (banned).
+> - **pharmacare** (FARM-ah-care) — public coverage of prescription drugs.
+> - **triage** (TREE-ahzh) — sorting patients by urgency, not by arrival order or ability to pay.
+> - **premium** — a regular insurance payment (EI premiums come off each paycheque).
+> - **prorated** (PRO-ray-ted) — reduced proportionally (OAS pays 10/40ths after 10 of 40 years' residence).
+> - **totalization treaty** — an agreement letting your working years in two countries count together for pension eligibility.
+> - **RRSP / TFSA / RESP / FHSA** (say the letters) — the registered savings accounts; Lesson 35 decodes them.
+> - **gig worker** — someone doing app-based or freelance jobs without employee status (mostly outside EI).
+> - **OAS / CPP / GIS / EI / CCB** — Old Age Security, Canada Pension Plan, Guaranteed Income Supplement, Employment Insurance, Canada Child Benefit.
+
 ## Concept
 
 Map the programs by life event and the whole system becomes

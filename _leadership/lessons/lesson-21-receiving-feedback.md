@@ -10,6 +10,19 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 21: Receiving Feedback as a Lead
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **information supply** — the flow of honest truth reaching you; a lead's decisions depend on it.
+> - **the flinch** — your visible first reaction to criticism (a frown, a tightening, a "well, actually…") — the thing everyone watches.
+> - **defensiveness** — protecting yourself by explaining and justifying instead of listening.
+> - **power gap** — the authority difference that makes criticizing you feel risky to your team.
+> - **clarifying question** — a question asked to understand, not to argue ("can you give me an example?").
+> - **digest** — to take feedback away and think it over instead of responding on the spot.
+> - **close the loop** — to come back later and show what you did with the feedback.
+> - **leading blind** — making decisions without the honest information you've silenced.
+> - **retro(spective)** — the team meeting reviewing how the last period of work went.
+> - **permission-giving question** — a specific ask that makes criticism safe ("what's one thing I should stop doing?").
+
 ## Concept
 
 Giving feedback is only half the skill — *receiving* it well is arguably more important for a

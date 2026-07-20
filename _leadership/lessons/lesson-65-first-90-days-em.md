@@ -10,6 +10,19 @@ parent: "Phase 12: Your Path"
 
 # Lesson 65: Your First 90 Days as an EM
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **peer-to-boss transition** — becoming the manager of people who were your equals yesterday; every relationship must be renegotiated.
+> - **power dynamic** — the asymmetry created when one person influences the other's career (Lesson 21's power gap).
+> - **the friend problem** — managing a close friend fairly while the team watches for favoritism.
+> - **the disappointed rival** — the person who also wanted your job and now reports to you.
+> - **wear the manager hat** — to act in the manager role even when it's personally awkward.
+> - **inherit (a team)** — to take over an existing team from a previous manager; **predecessor** — the person who held the role before you.
+> - **trash** (verb) — to publicly disparage; never do it to your predecessor.
+> - **the real performance picture** — how people are *actually* doing, beneath inherited labels and reputations.
+> - **peer group** — as a manager, your true peers are now other managers, not your old teammates (Lesson 66).
+> - **false pretense** — pretending nothing changed; the tempting, harmful option.
+
 ## Concept
 
 Becoming an Engineering Manager is a bigger jump than tech lead — you now have formal authority over people,

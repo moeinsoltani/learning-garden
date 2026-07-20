@@ -10,6 +10,20 @@ parent: "Phase 7: The Economy"
 
 # Lesson 39: What Canada Makes and Sells
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **tidewater** — ocean access for shipping; landlocked Alberta's oil must reach "tidewater" to sell beyond the US.
+> - **equity stake** — an ownership share in a project or company (some First Nations seek equity in pipelines).
+> - **critical minerals** — the metals batteries and electronics need (lithium, nickel, cobalt, rare earths).
+> - **LNG** — liquefied natural gas: gas cooled to liquid so ships can carry it overseas.
+> - **cluster** — many firms of one industry concentrated in one city, feeding each other (Montreal aerospace).
+> - **incumbent** — here: the established dominant company (BlackBerry was the incumbent the iPhone beat).
+> - **memento mori** (meh-MEN-toh MOR-ee) — Latin: "remember you will die" — a cautionary reminder (Nortel and BlackBerry play this role).
+> - **VFX** — visual effects for film; **CanCon** — Canada's rules requiring Canadian content in broadcasting (Lesson 46).
+> - **TSX** — the Toronto Stock Exchange.
+> - **duty to consult** — the Crown's obligation to consult Indigenous nations before projects on their lands (Lesson 24).
+> - Names: **Saguenay** (sag-eh-NAY), **Bombardier** (bom-bar-dee-AY), **Bengio** (BEN-jee-oh), **Mila** (MEE-lah — Montreal's AI institute), **Kitimat** (KIT-ih-mat).
+
 ## Concept
 
 Lesson 05 mapped the resources; this lesson maps the *industries* —

@@ -10,6 +10,19 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 15: Running Effective Meetings
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **agenda** — the stated purpose, desired outcome, and topics of a meeting, written in advance.
+> - **person-hours** — total human time consumed (10 people × 1 hour = 10 person-hours).
+> - **timebox** — a fixed time limit you hold to ("ten minutes on this item").
+> - **parking lot** — the list where off-topic-but-important points are "parked" for later instead of derailing the meeting.
+> - **derail** — to pull a discussion off its purpose.
+> - **divergent / convergent** — opening up to generate many ideas vs narrowing down to choose; brainstorms need both, in that order.
+> - **zombie meeting** — a recurring meeting that outlived its purpose (Lesson 04).
+> - **inertia** (in-ER-shah) — the tendency of things to keep going simply because they've been going.
+> - **load-bearing** — actually holding weight; a "feels load-bearing but isn't" meeting can be safely killed.
+> - **owners and dates** — every action leaving a meeting needs a named person and a deadline.
+
 ## Concept
 
 Meetings are the most expensive thing a lead controls — a one-hour meeting with

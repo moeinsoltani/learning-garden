@@ -10,6 +10,19 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 61: Motivation
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **autonomy / mastery / purpose** — control over your work / getting better at what matters / work that means something — the three drivers of knowledge-work motivation (Dan Pink's *Drive*).
+> - **intrinsic vs extrinsic** — motivation from the work itself vs from external rewards and punishments ("carrots and sticks").
+> - **demotivator** — something that kills existing motivation; most are manager-controlled.
+> - **churn / thrash** — constant direction changes that waste work (nothing demoralizes like discarded work).
+> - **invisible work** — contributions nobody acknowledges (Lesson 20).
+> - **burnout** — chronic exhaustion + cynicism + reduced capability from sustained stress (Lesson 05); needs load reduction, not slogans.
+> - **coasting** — doing the minimum comfortably; the disengaged-but-present state.
+> - **platitude** (PLAT-ih-tood) — an empty comforting phrase ("practice self-care!") substituting for real change.
+> - **efficacy** (EF-ih-kah-see) — the sense that your effort actually works.
+> - **re-engage** — to reconnect a checked-out person with what once drove them.
+
 ## Concept
 
 Understanding what actually motivates engineers — and, crucially, **not accidentally killing it** — is one

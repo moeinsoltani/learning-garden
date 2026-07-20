@@ -10,6 +10,21 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 36: Taking Part
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **civic culture** — the habits of participation (voting, volunteering, showing up) that keep institutions honest.
+> - **constituency / riding office** — your representative's local office; **casework** — its service of unsticking constituents' files with the bureaucracy (this lesson's most valuable secret).
+> - **MPP / MLA / MNA / MHA** — what provincial representatives are called (Ontario / most provinces / Quebec / Newfoundland).
+> - **ward** — a city's electoral district; your **councillor** represents one.
+> - **school trustee** — the elected member of a school board.
+> - **deputation** (dep-yoo-TAY-shun) — formally addressing city council in person for a few minutes, on the public record.
+> - **town hall** — an open public meeting with a politician.
+> - **nomination contest** — the internal party vote choosing who becomes the party's candidate in a riding — often the real election in safe seats.
+> - **petition** — a signed group request; weaker than individual letters, per this lesson.
+> - **bylaw** (BY-law) — a municipal law (parking, noise, snow-shovelling).
+> - **grassroots** — driven by ordinary people rather than organizations.
+> - **CVITP** — the volunteer tax clinics that file returns free for low-income people (Lesson 35).
+
 ## Concept
 
 Phase 5 ended on a finding this lesson operationalizes: **Canada's

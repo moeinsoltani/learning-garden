@@ -10,6 +10,20 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 10: Driving Technical Standards
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **paved road / guardrail / gate** — the easy supported default / the warning that catches danger / the hard block (the lesson defines them fully).
+> - **decree** (dih-KREE) — an order imposed from above without consultation.
+> - **malicious compliance** — obeying an order's exact letter in a way that defeats its purpose.
+> - **linter / CI check / formatter** — automated tools that enforce code rules impersonally.
+> - **style police** — the resented person who nitpicks everyone's code against personal taste; **nitpick** — to criticize tiny unimportant details.
+> - **flag day** — an abrupt everyone-switches-at-once change (risky; opposite of gradual).
+> - **early adopters** — the willing first users of a change, whose success persuades the rest.
+> - **social proof** — people adopting something because respected peers already did.
+> - **ratchet** (RATCH-et) — a mechanism that only turns one way; "ratcheting" = tightening a standard gradually, never loosening.
+> - **scaffold / generator / template** — tooling that creates new projects pre-configured the standard way.
+> - **buy-in** — genuine agreement and support, not just compliance.
+
 ## Concept
 
 Teams need shared standards — consistent testing, error handling, code style,

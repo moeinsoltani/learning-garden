@@ -10,6 +10,20 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 49: The Unwritten Rules
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **kernel** (KER-nul) — computing metaphor: the core program everything else runs on; here, the one rule generating all the others.
+> - **understatement** — deliberately saying less than you mean ("not bad" = great); the Canadian dialect's engine.
+> - **softener / hedging** — words that cushion a message ("just," "maybe," "I wonder if…") — see the English track, Lesson 15.
+> - **small talk** — light social conversation with no real information ("how's it going?" is a greeting, not a question).
+> - **RSVP** (say the letters; from French *répondez s'il vous plaît*) — the request to confirm whether you're coming; answering it is mandatory manners.
+> - **potluck** — a meal where every guest brings a dish to share.
+> - **"Irish goodbye"** — leaving a party silently without farewells (efficient elsewhere; rude here).
+> - **passive-aggressive** — expressing anger indirectly (cold silence, pointed notes) instead of openly.
+> - **rec league** (recreational) — casual adult sports leagues; a main way Canadians make friends.
+> - **LCBO** — Ontario's government liquor store (Lesson 50).
+> - **high-context / low-context culture** — cultures where meaning lives in shared context and hints vs in explicit words; Canada sits mid-spectrum.
+
 ## Concept
 
 Every culture runs on a law code nobody wrote down. Canada's is

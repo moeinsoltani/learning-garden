@@ -10,6 +10,19 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 57: Performance Management
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **performance management** — the formal cycle of evaluating work: reviews, ratings, expectations.
+> - **rating** — the score assigned in a review cycle ("meets / exceeds expectations").
+> - **review-season scramble** — trying to reconstruct a whole year's performance from memory in one week.
+> - **halo effect** — one strong (or weak) trait unfairly colouring your judgment of everything else about a person.
+> - **recency effect / recency-biased** — over-weighting the last few weeks over the whole period.
+> - **salience** (SAY-lee-ence) — how much something stands out in memory (dramatic ≠ representative).
+> - **calibration (meeting)** — managers comparing ratings across teams so standards stay consistent; you defend yours with evidence.
+> - **blindside** — to surprise someone with a bad rating they never saw coming (a management failure — Lesson 41).
+> - **evidence-based** — grounded in documented specifics (SBI at scale — Lesson 19), not impressions.
+> - **developmental** — aimed at helping the person grow, not only judging them.
+
 ## Concept
 
 Performance management — evaluating people's work, writing reviews, and assigning ratings — is a core

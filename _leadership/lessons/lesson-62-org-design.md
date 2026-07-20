@@ -10,6 +10,19 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 62: Org Design and Team Topologies
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **org design** — deliberately choosing team boundaries, ownership, and interactions.
+> - **Conway's Law** — systems end up shaped like the org that builds them; the **inverse Conway maneuver** — designing teams to *produce* the architecture you want.
+> - **cognitive load** (of a team) — how much a team can genuinely understand and own before drowning.
+> - **Team Topologies** — Skelton & Pais's four team types: **stream-aligned** (owns a product/domain end-to-end), **platform** (serves other teams with self-service tools), **enabling** (temporarily coaches teams into new skills), **complicated-subsystem** (owns one deep specialist area).
+> - **loosely coupled** — parts that interact through clean interfaces and can change independently.
+> - **reorg** — restructuring teams; real costs in disruption, anxiety, and lost momentum.
+> - **topology** (toh-POL-oh-jee) — the shape of how things connect.
+> - **"structure eats process for breakfast"** — good process cannot overcome bad structure (a play on "culture eats strategy for breakfast").
+> - **end-to-end** — owning something from start to finish, without handoffs.
+> - **thrashing** — constant disruptive change signalling no stable plan (Lesson 61's churn, at org scale).
+
 ## Concept
 
 How you structure teams — their boundaries, ownership, and interactions — profoundly shapes what they can

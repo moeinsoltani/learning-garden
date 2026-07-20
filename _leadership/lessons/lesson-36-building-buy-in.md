@@ -10,6 +10,19 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 36: Building Buy-In for Ideas
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **buy-in** — genuine support for an idea, not just permission (Lesson 10).
+> - **socialize (an idea)** — to discuss it informally with key people one at a time, *before* any official meeting.
+> - **groundwork** — the preparatory work done before the visible event.
+> - **win the room** — to persuade a whole group live in a meeting (the amateur's plan).
+> - **blindside** — to surprise someone with something they should have known was coming; never do it to a decision-maker.
+> - **ratify** — to formally confirm a decision that's effectively already made.
+> - **co-ownership** — others having shaped the idea enough to feel it's partly theirs — and champion it.
+> - **pilot / experiment framing** — proposing a small, reversible trial instead of a permanent commitment.
+> - **objection inventory** — the per-person list of likely concerns, prepared in advance.
+> - **over-selling** — continuing to persuade after you've already won, which re-opens doubt.
+
 ## Concept
 
 Getting an idea adopted isn't about making a brilliant pitch in the big meeting — it's about the

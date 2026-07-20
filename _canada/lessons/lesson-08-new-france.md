@@ -10,6 +10,21 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 08: New France
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **seigneurial system** (sen-YOR-ee-ul) — New France's land system: a **seigneur** (sen-YUR — landlord) held a riverfront strip (**seigneury**) and rented plots to **habitants** (ah-bee-TAWN — farm families).
+> - **parish** (PAIR-ish) — the local district served by one Catholic church; the basic unit of community life.
+> - **feudalism** (FEW-dul-izm) — medieval Europe's lord-and-peasant system; **serfdom** — peasants legally bound to the land (habitants were *not* serfs); **freehold** — owning your land outright.
+> - **tithe** (rhymes with "scythe": TYTHE) — a church tax, a share of the harvest.
+> - **missionary** — a person sent to spread their religion; the **Jesuits** (JEZ-oo-its) and **Ursulines** (UR-suh-leenz) were Catholic religious orders.
+> - **Intendant** (in-TEN-dent) — the royal official who ran the colony's economy and justice.
+> - **Filles du Roi** (FEE dew RWAH — "the King's Daughters") — the ~800 women sent to marry settlers.
+> - **coureurs des bois** (koo-RUR day BWAH — "runners of the woods") — unlicensed fur traders; **voyageurs** (voy-ah-ZHUR) — licensed canoe crews.
+> - **corvée** (kor-VAY) — a few days of unpaid labour owed to the seigneur each year.
+> - **Acadians** (ah-KAY-dee-unz) — the separate French community of the Bay of Fundy; **le Grand Dérangement** (luh grawn day-rawnzh-MAWN — "the Great Upheaval") — their 1755 deportation; **Cajun** (KAY-jun) — their Louisiana descendants.
+> - **assimilate** — to absorb a people until they lose their own language and culture; **la survivance** (lah sur-vee-VAWNSS) — Quebec's tradition of cultural survival; **"Je me souviens"** (zhuh muh soo-VYEN) — "I remember."
+> - Names: **Trois-Rivières** (twah ree-vee-AIR), **Wendat** (WEN-dat), **Innu** (IN-noo), **Algonquin** (al-GON-kin).
+
 ## Concept
 
 In 1608 Samuel de Champlain built a fortified trading post under the cliff at

@@ -10,6 +10,19 @@ parent: "Phase 12: Your Path"
 
 # Lesson 66: Building Your Support System
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **support system** — the deliberately built network of peers, mentors, and resources that keeps a leader learning and sane.
+> - **vent** — to release frustration by talking freely; you can't do it to your own team.
+> - **peer group** — fellow leads/managers facing the same problems, inside and outside your company.
+> - **LeadDev / Rands Leadership Slack** — the two best-known engineering-leadership communities (conference+site / a large Slack community).
+> - **mentor one step ahead** — someone who has already done your *next* job, not just your current one.
+> - **executive/leadership coach** — a paid professional thinking-partner for your growth; a strength, not a weakness.
+> - **stigma** — social shame attached to something (therapy, coaching) that stops people using it.
+> - **Manager Tools** — a long-running management podcast and framework.
+> - **decision journal** — recording big decisions (what, why, expected outcome, confidence) and reviewing later to improve your judgment.
+> - **derail** — to be knocked off course; what isolation does to new leaders.
+
 ## Concept
 
 Leadership is lonelier than individual contribution — you can't vent to your team, your problems are more

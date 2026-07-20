@@ -10,6 +10,20 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 20: The Second World War
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **plebiscite** (PLEB-ih-site) — a direct national yes/no vote on one question (similar to a referendum).
+> - **convoy** — merchant ships sailing together under warship escort; **U-boat** (YOO-boat) — a German submarine.
+> - **garrison** (GAIR-ih-sun) — troops stationed to defend a place; **POW** — prisoner of war.
+> - **War Measures Act** — the 1914 emergency law letting cabinet rule by decree, suspending normal rights (used for both world wars' internments; replaced by the Emergencies Act, 1988).
+> - **confiscate** — for the state to seize property; **redress** (rih-DRESS) — compensation for a past wrong.
+> - **extraterritorial** — legally treated as outside the country it is physically in.
+> - **estuary** (ESS-choo-air-ee) — the wide mouth of a river where it meets the sea (the Scheldt).
+> - **crown corporation** — a company owned by the government (CBC, Canada Post).
+> - **middle power** — a country influential through diplomacy and alliances rather than raw strength — Canada's brand.
+> - **the Holocaust** (HOL-oh-kost) — Nazi Germany's murder of six million Jews.
+> - Names: **Dieppe** (dee-EP), **Juno** (JOO-noh), **Scheldt** (SKELT), **Ortona** (or-TOH-nah), **Caen** (KAHN), **Falaise** (fah-LEZ), **Margriet** (mar-GREET), **Mackenzie King** (muh-KEN-zee), **Mulroney** (mul-ROH-nee), **St. Louis** (saint LOO-iss).
+
 ## Concept
 
 On **September 10, 1939** — one week after Britain — Canada declared war

@@ -10,6 +10,20 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 48: Connecting Technical Decisions to Business Outcomes
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **translation table** — the mental mapping from technical properties (latency, uptime, debt) to business outcomes (conversion, churn, cost).
+> - **conversion** — the share of visitors who become paying users.
+> - **uptime** — the fraction of time a service works ("99.9%"); its opposite is **downtime**.
+> - **time-to-market** — how fast an idea becomes a shipped product.
+> - **loaded cost** — an employee's true cost: salary plus benefits, equipment, office, taxes.
+> - **engineer-month / engineer-quarter** — units of effort: one engineer working one month/quarter; convertible to dollars.
+> - **expected value** — probability × impact; how to price a risk rationally.
+> - **business case** — the numbers-and-assumptions argument for an investment (Lesson 11).
+> - **labeled assumptions** — stating openly which numbers are estimates, so the case is honest and checkable.
+> - **payback** — how long until an investment has returned its cost.
+> - **gold-plating** — polish beyond what pays off (Lesson 11).
+
 ## Concept
 
 To get engineering investments approved and to make good decisions, you must **justify significant

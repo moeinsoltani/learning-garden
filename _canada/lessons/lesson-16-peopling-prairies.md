@@ -10,6 +10,21 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 16: Peopling the Prairies
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **homestead** (HOME-sted) — a free government farm plot (160 acres = a **quarter-section**) earned by living on it and farming it for three years ("**proving up**").
+> - **sod house** — a first home built from blocks of prairie earth, because the open prairie had no trees for lumber.
+> - **stalwart** (STAWL-wert) — strong, tough, dependable.
+> - **bloc settlement** — an area settled by one ethnic group together (a Ukrainian district, a Mennonite district).
+> - **chain migration** — settled immigrants bringing over relatives, who bring more relatives.
+> - **diaspora** (dy-ASS-por-ah) — a people living spread outside their homeland.
+> - **Order-in-Council** — a government decree made by cabinet alone, without a vote in Parliament.
+> - **continuous-journey rule** — the 1908 regulation requiring one non-stop voyage from your birth country — impossible from India on purpose.
+> - **pacifist** (PASS-ih-fist) — someone who refuses all violence and war; **sect** — a small religious group.
+> - **Doukhobors** (DOO-kuh-borz) and **Mennonites** (MEN-uh-nites) — pacifist Christian farming communities from the Russian Empire.
+> - **Sikh** (SEEK) — a member of the Sikh religion of Punjab, India; a **gurdwara** (GURD-wah-rah) is a Sikh temple.
+> - Names: **Sifton** (SIF-tun), **Laurier** (LOR-ee-ay), **Galicia** (gah-LISH-ah — a region then in Austria-Hungary, now Ukraine/Poland), **Komagata Maru** (koh-mah-GAH-tah MAH-roo), **Gimli** (GHIM-lee), **Vegreville** (VEG-reh-vil).
+
 ## Concept
 
 Between 1896 and 1914, Canada ran history's most successful settler-

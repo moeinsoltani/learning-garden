@@ -10,6 +10,20 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 39: Driving Change Across an Organization
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **resistance is information** — people resist for reasons, often valid; the resistance tells you what to fix.
+> - **early adopters** — the willing first users (Lesson 10); the **adoption curve** runs early adopters → early majority → late majority → **laggards** (the last, most reluctant).
+> - **beachhead** — a first secured position from which a campaign expands (a military landing metaphor).
+> - **paved road** — making the new way the *easiest* way (Lesson 10).
+> - **visible wins** — early publicized successes that prove the change works.
+> - **momentum** — accumulated motion; success attracting more success.
+> - **the honeymoon** — the initial enthusiasm phase after any change, which fades.
+> - **revert** — to slide back to the old way once attention moves on.
+> - **Kotter's change model** — the classic 8-step organizational-change framework this lesson compresses.
+> - **campaign** — a sustained, planned effort over time (not a single announcement).
+> - **status quo** (STAT-us KWOH) — the current state of things.
+
 ## Concept
 
 The hardest influence challenge is landing a change **bigger than any team you control** — migrating

@@ -10,6 +10,19 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 45: How Your Company Makes Money
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **business model** — how a company creates and captures value: revenue in, costs out.
+> - **revenue model** — the specific way money comes in: **SaaS/subscriptions** (recurring fees), **transactions** (a cut of each sale), ads, licenses, usage-based.
+> - **margin** — revenue minus costs, usually as a percentage; **cost structure** — where the money goes.
+> - **cost center** — a part of the company that spends money but doesn't directly earn it.
+> - **unit economics** — whether one average customer is profitable: **CAC** (customer acquisition cost), **LTV** (lifetime value — total revenue a customer brings), **payback period** (months until a customer covers their CAC).
+> - **churn** — customers leaving (Lesson 42); the enemy of subscription businesses.
+> - **take-rate** — the percentage cut a marketplace keeps of each transaction.
+> - **growth stage vs profitability stage** — grabbing market share fast (funded by investors) vs optimizing margins; each implies different engineering priorities.
+> - **earnings call** — a public company's quarterly presentation of results to investors.
+> - **read like an investor** — understanding the whole company's economics, not just your slice.
+
 ## Concept
 
 Most engineers never really understand how their company makes money — and it limits them. A lead who

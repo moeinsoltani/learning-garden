@@ -10,6 +10,19 @@ parent: "Phase 12: Your Path"
 
 # Lesson 67: Choosing (and Re-choosing) Your Path
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the real dailies** — what a role's ordinary Tuesday actually contains, as opposed to its job-description fantasy.
+> - **calendar screenshot** (as evidence) — asking someone in the role to show what their week really looks like.
+> - **energizes vs flatters** — work that genuinely engages you day-to-day vs status that merely pleases your ego.
+> - **acting role** — a bounded temporary trial of a job (Lesson 33).
+> - **rotation** — a planned temporary stint in a different role.
+> - **one-way door** — an irreversible decision (Lesson 07); the career choice is *not* one.
+> - **the pendulum** — swinging between IC and management over a career; normal and healthy (Lesson 02).
+> - **exit criteria** — the conditions you decide in advance that would tell you, in a year, to re-choose.
+> - **decision memo** — writing your choice down with reasoning and review date — this course's final exercise.
+> - **capstone** — the final crowning piece of a course (as in the Canada track's Lesson 47).
+
 ## Concept
 
 The final question this course prepares you for: **which path — Lead, EM, or Staff+ (technical) — is right

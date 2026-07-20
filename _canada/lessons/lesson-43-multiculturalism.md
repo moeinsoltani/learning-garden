@@ -10,6 +10,20 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 43: Multiculturalism
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **multiculturalism** — the official policy that newcomers may keep their heritage; Canada is the sum of its cultures.
+> - **melting pot** vs **mosaic** (moh-ZAY-ik) — the US image (cultures melt into one) vs the Canadian image (distinct tiles forming one picture); both are partly myths.
+> - **interculturalism** — Quebec's alternative model: diversity welcomed *into* a declared common francophone culture.
+> - **"third force"** — 1960s term for Canadians neither British nor French (Ukrainians, Germans, Italians…), whose objection created multiculturalism.
+> - **nativist** (NAY-tih-vist) — politics hostile to immigrants; **parallel societies** — the fear of communities living separately from the mainstream.
+> - **settlement services** — funded programs (language classes, job help) that integrate newcomers.
+> - **assimilation** vs **integration** — being absorbed and losing your culture vs joining fully while keeping it.
+> - **second generation** — the Canadian-born children of immigrants (the key measure of whether integration works).
+> - **strawman** — misrepresenting an opponent's argument into a weak version so it's easy to knock down.
+> - **s.27** — the Charter clause requiring interpretation consistent with Canada's multicultural heritage.
+> - Names: **Baltej Dhillon** (BAHL-tej DIL-un — the Mountie who won the right to wear a turban, 1990), **laïcité** (lah-ee-see-TAY — Lesson 22).
+
 ## Concept
 
 In 1971, Canada became the **first country on Earth to adopt

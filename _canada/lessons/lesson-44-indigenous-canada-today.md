@@ -10,6 +10,20 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 44: Indigenous Canada Today
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **modern treaty / comprehensive claim** — a full land-and-government agreement negotiated today (James Bay 1975, Nisga'a 2000), unlike the 1800s numbered treaties.
+> - **self-government agreement** — a negotiated deal replacing Indian Act rule with a nation's own law-making government.
+> - **fee simple** — ordinary full private ownership of land (what modern treaties grant over core lands).
+> - **development corporation** — a nation-owned business arm investing settlement money.
+> - **economic reconciliation** — repairing the relationship through ownership: equity stakes, procurement, business.
+> - **hereditary chiefs** — leaders under a nation's pre-colonial governance system, passed through traditional law; **elected band council** — the Indian Act's elected system; both can claim to speak for a nation (the Wet'suwet'en conflict).
+> - **blood quantum** — measuring Indigenous identity by ancestry percentage (a US approach; Canadian nations define their own citizenship).
+> - **performative** — done for appearance rather than effect.
+> - **land back** — the movement to return land ownership/control to Indigenous nations.
+> - **throat singing** — the traditional Inuit vocal art (Tanya Tagaq's medium).
+> - Names: **Wet'suwet'en** (wet-SOO-wet-en), **Nisga'a** (NISS-gah), **Tsilhqot'in** (sil-KOH-teen), **Monkman** (MUNK-man), **Tagaq** (TAH-gahk), **Obomsawin** (oh-BOM-sah-win), **Abenaki** (ab-eh-NAH-kee), **Wab Kinew** (WOB kih-NOO), **Membertou** (MEM-ber-too), **Eeyou Istchee** (EE-yoo ISS-chee — the James Bay Cree territory), **Kanien'kehá:ka** (gah-nyen-geh-HAH-gah — the Mohawk).
+
 ## Concept
 
 This lesson completes the arc begun in Lesson 06: Indigenous peoples

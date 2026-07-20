@@ -10,6 +10,19 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 43: Other Engineering Teams and Dependencies
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **dependency** — work of yours that cannot proceed until another team delivers theirs.
+> - **dependency contract** — the written agreement: *what* they'll deliver, *when*, with what *interface*.
+> - **interface** — the exact technical boundary (API, schema, spec) two teams meet at.
+> - **incentives** — what actually drives a team's choices: their goals, metrics, mandate — not kindness.
+> - **goodwill** — friendly willingness to help; real but unreliable when priorities compete.
+> - **burning bridges** — winning today in a way that destroys the relationship you'll need tomorrow.
+> - **over someone's head** — going to a person's boss without trying them first.
+> - **platform team** — a team whose product is tooling and infrastructure for other teams; you are its **customer**.
+> - **mandate** — what a team is officially chartered to do.
+> - **reciprocal** (rih-SIP-roh-kul) — flowing both ways over time; cross-team relationships are.
+
 ## Concept
 
 Your work often depends on **other engineering teams** — a platform team, an API you need changed, a

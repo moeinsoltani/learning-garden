@@ -10,6 +10,20 @@ parent: "Phase 1: The Land"
 
 # Lesson 03: Climate and the North
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **temperate** — mild, without extreme heat or cold; **maritime climate** — weather moderated (softened) by a nearby ocean; **continental climate** — inland weather with extreme swings, far from any ocean.
+> - **moderate** (verb: MOD-er-ate) — to make less extreme; oceans moderate the temperature of coastal cities.
+> - **chinook** (shih-NOOK) — a warm dry wind that blows down from the Rockies and can melt an Alberta winter day in hours.
+> - **nor'easter** (nor-EAST-er) — a powerful Atlantic winter storm (short for "northeaster").
+> - **treeline** — the line beyond which it's too cold for trees; **tundra** — the treeless land north of it; **subarctic** — the zone just south of the true Arctic.
+> - **permafrost** — ground that stays frozen all year round.
+> - **polar night / midnight sun** — weeks of winter darkness / weeks of summer daylight in the far north; **aurora** (uh-ROAR-ah) — the northern lights.
+> - **sovereignty** (SOV-rin-tee) — a country's legal control over its territory.
+> - **internal waters** vs **international strait** — waters fully controlled by one country vs a sea passage all ships may legally use; the heart of the Northwest Passage dispute.
+> - **Inuit** (IN-oo-it) — the Indigenous people of the Arctic; **Inuvik** (ih-NOO-vik) — a town in the western Arctic.
+> - **nordicity** (nor-DISS-ih-tee) — a Canadian scholars' word for "how northern" a place really is (remoteness + climate, not just latitude).
+
 ## Concept
 
 Two ideas in this lesson. First: **Canada does not have "a" climate** — it has

@@ -10,6 +10,19 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 22: Crucial Conversations
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **crucial conversation** — one where stakes are high, opinions differ, and emotions run strong (from the book of the same name).
+> - **stakes** — what stands to be won or lost.
+> - **silence / violence** — the two failure modes under pressure: avoiding and sugar-coating vs pushing and attacking (the book's terms — "violence" here is verbal, not physical).
+> - **sugar-coat** — to soften bad news so much the truth disappears.
+> - **dialogue** — the honest two-way exchange both failure modes kill.
+> - **mutual purpose** — a goal both people genuinely share, reframing "me vs you" into "us vs the problem."
+> - **facts vs story** — what objectively happened vs the interpretation (usually assuming bad intent) you've told yourself about it.
+> - **contrasting** — a repair statement of the form "I *don't* mean X; I *do* mean Y."
+> - **tentatively** — offering your view as a possibility ("I'm starting to wonder if…"), not a certainty.
+> - **fester** — of a problem: to sit unaddressed and quietly worsen, like an untreated wound.
+
 ## Concept
 
 A *crucial conversation* is one where the **stakes are high, opinions differ, and emotions run

@@ -10,6 +10,21 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 23: The Constitution Comes Home
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **patriation** (pay-tree-AY-shun) — a made-in-Canada word: bringing the constitution "home" from Britain so Canada could amend it itself.
+> - **entrenched** — locked into the constitution, beyond the reach of ordinary laws.
+> - **constitutional convention** — an unwritten rule of politics that is binding in practice but not enforceable in court.
+> - **unilateral** (yoo-nih-LAT-er-ul) — done by one party alone, without the others' agreement.
+> - **fait accompli** (fet ah-kom-PLEE) — French: a thing already done, presented so it cannot be undone.
+> - **veto** (VEE-toh) — the power to block a decision single-handedly.
+> - **notwithstanding clause (s.33)** — "notwithstanding" = "despite"; the clause lets a legislature declare a law valid *despite* certain Charter rights, for renewable 5-year periods.
+> - **parliamentary supremacy** — the older British principle that parliament's laws cannot be struck down by courts (the Charter ended this in Canada).
+> - **accord** — a formal agreement between governments; **ratification** — the follow-up approvals that make it law.
+> - **"distinct society"** — Meech Lake's proposed constitutional recognition of Quebec's uniqueness.
+> - **MLA** — Member of the Legislative Assembly (a provincial parliament member); **unanimous consent** — agreement of every single member, letting a legislature skip normal delays.
+> - Names: **Chrétien** (kray-tee-EN), **Meech Lake** (MEECH), **Bourassa** (boo-RASS-ah), **Elijah Harper** (ih-LY-jah), **Oji-Cree** (OH-jee-KREE), **Hull** (HULL — the Quebec city facing Ottawa, now Gatineau), **la nuit des longs couteaux** (lah NWEE day LON koo-TOH — "the night of the long knives").
+
 ## Concept
 
 April 17, 1982, on a rainy Parliament Hill: the Queen signs, and

@@ -10,6 +10,22 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 52: Food and Drink
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **canon** (KAN-un) — the agreed list of classics everyone is expected to know.
+> - **curds** (KURDZ) — fresh lumps of young cheese; the real thing squeaks when bitten.
+> - **poutine** (poo-TEEN; Quebec French: poo-TSIN) — fries + curds + gravy.
+> - **casse-croûte** (kass-KROOT) — a Quebec roadside snack shack.
+> - **tourtière** (toor-tee-AIR) — Quebec's spiced meat pie; **réveillon** (ray-vay-YON) — the festive Christmas Eve midnight meal.
+> - **tire d'érable** (teer day-RAHBL) — hot maple syrup poured on snow and rolled onto a stick.
+> - **donair** (doh-NAIR) — Halifax's sweet-sauced spiced meat wrap.
+> - **bannock** (BAN-uk) — pan-fried flat bread, a staple across Indigenous communities.
+> - **Nanaimo bar** (nuh-NY-moh) — the no-bake chocolate-custard-coconut square from Nanaimo, BC.
+> - **perogies** (peh-ROH-geez) — Ukrainian filled dumplings (Lesson 16's settlers, edible).
+> - **peameal bacon** (PEE-meel) — cornmeal-rolled back bacon (never say "Canadian bacon" here).
+> - **Clamato** (klah-MAH-toh) — clam-tomato juice, the Caesar's engine; **icewine** — sweet wine from grapes picked frozen (Niagara's specialty).
+> - Names: **Schwartz's** (SHWORTS-iz — Montreal's famous smoked-meat deli), **Jiggs' dinner** (JIGZ — Newfoundland's salt-beef boil), **toutons** (TOW-tunz — Newfoundland fried dough).
+
 ## Concept
 
 Ask "what is Canadian food?" and natives will laugh, then get

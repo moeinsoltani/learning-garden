@@ -10,6 +10,19 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 31: Assigning for Growth, Not Speed
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the fastest-person trap** — always assigning important work to whoever is quickest, so nobody else grows.
+> - **locally vs globally optimal** — best for this one task vs best for the whole system over time.
+> - **calcify** (KAL-sih-fy) — to harden into a fixed state (a team whose skill gaps stop changing).
+> - **stagnate** — to stop growing.
+> - **blast radius** — how much damage a failure can cause (from explosions); "contained blast radius" = a stretch where mistakes are recoverable.
+> - **glue work** — the unglamorous work that holds a team together: docs, flaky-test fixes, onboarding, coordination (Tanya Reilly's term).
+> - **rotate** — to take turns so no one is stuck with the same duty forever.
+> - **going stale** — doing the same-level work so long you stop developing.
+> - **both/and** — holding two competing goals at once, instead of choosing one ("either/or").
+> - **resilience** — the ability to absorb losses and keep functioning.
+
 ## Concept
 
 Who you assign work to is one of your most powerful development levers — because **the work itself is

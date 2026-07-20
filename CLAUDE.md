@@ -332,6 +332,12 @@ variants). Mark each ✓ as its file lands.
 
 *(Engineering Leadership track complete — lessons 01–67 all written across 12 phases. Update this index if lessons change.)*
 
+Leadership-track vocabulary convention (same as Canada's): every lesson opens with a
+`{: .note }` **"Words to know"** callout right after the H1, before `## Concept` — one-line
+plain-English definitions of management jargon and English idioms ("bus factor", "blast
+radius", "yes-person"), with respelled pronunciations only for genuinely tricky words
+(im-POSS-ter, PROO-dent). Keep the box when editing; add one to any new leadership lesson.
+
 ## English for Work Lesson Index
 Phase parent pages live at `_english/lessons/phase-NN-name.md`. File paths follow
 `_english/lessons/lesson-NN-<slug>.md`. Labs are rewrite drills + phrase banks (see
@@ -371,3 +377,10 @@ lessons change. History phases 2–4 are chronological and come before instituti
 by design. Lesson 47 ends with a cumulative 40-question citizenship-style final exam;
 Phase 9 deliberately follows the capstone — the lived-culture "epilogue" phase. Geographic
 content uses real Wikimedia Commons images, not ASCII maps.)*
+
+Canada-track vocabulary convention (student is a non-native English speaker): every lesson
+opens with a `{: .note }` **"Words to know"** callout immediately after the `# Lesson NN` H1,
+before `## Concept` — simple one-line definitions for technical/historical terms plus
+easy-respelling pronunciations (e.g., "Inuit (say: IN-oo-it)", "Métis (may-TEE)") for
+Indigenous, French, and other specific names. Keep this box when editing lessons, and add
+one to any future Canada lesson.

@@ -10,6 +10,18 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 07: European Contact
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **contact** — the historians' word for the first meetings between Indigenous peoples and Europeans; **pre-contact** = before those meetings.
+> - **Norse** (NORSS) — the medieval Scandinavians, also called **Vikings**; their stories are the **sagas** (SAH-gahz); **sod** — blocks of earth with grass, used to build walls.
+> - **pathogen** (PATH-oh-jen) — a germ that causes disease; **acquired immunity** — protection your body builds only after surviving a disease (Indigenous peoples had never met these germs, so they had none).
+> - **scurvy** (SKUR-vee) — a deadly illness from lack of vitamin C on long voyages.
+> - **pyrite** (PIE-rite) — "fool's gold," a shiny mineral that looks like gold but is worthless.
+> - **overwinter** — to stay somewhere through the winter.
+> - **Columbian Exchange** — the huge two-way transfer of plants, animals, tools, and diseases between the Americas and the rest of the world after 1492.
+> - **Doctrine of Discovery** — the old European legal idea that "discovering" non-Christian lands gave the discoverer ownership; **repudiated** = officially rejected.
+> - Names: **Cabot** (KAB-ut), **Cartier** (kar-tee-AY), **Champlain** (sham-PLANE), **L'Anse aux Meadows** (LANCE oh MED-ohz), **Gaspé** (gas-PAY), **Stadacona** (stad-ah-KOH-nah), **Hochelaga** (hoh-shuh-LAH-gah), **Donnacona** (don-ah-KOH-nah), **kanata** (kah-NAH-tah), **Basque** (BASK — a people from the Spain/France border), **Mi'kmaq** (MIG-mah).
+
 ## Concept
 
 Three separate European "arrivals," centuries apart, and none of them a

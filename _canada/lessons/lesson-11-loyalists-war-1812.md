@@ -10,6 +10,21 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 11: Loyalists and the War of 1812
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **Loyalist** — an American colonist who stayed loyal to the British Crown during the Revolution; many fled to Canada as refugees.
+> - **counter-revolution** — a movement *against* a revolution, defending the old order.
+> - **confiscation** — the state seizing someone's property; **exile** — being forced to leave your homeland.
+> - **militia** (mih-LISH-ah) — ordinary citizens (farmers, shopkeepers) called up as part-time soldiers; **regulars** — full-time professional soldiers.
+> - **impressment** — the Royal Navy's practice of seizing sailors and forcing them into service — a cause of the war.
+> - **annexation** (an-ek-SAY-shun) — one country absorbing another's territory.
+> - **confederacy** — an alliance of nations acting together (here, Tecumseh's alliance of Indigenous nations).
+> - **buffer state** — a small neutral country placed between two rivals to keep them apart (the Indigenous state Britain promised, then abandoned).
+> - **status quo ante** (STAT-us kwoh AN-tay) — Latin: "the way things were before"; the 1814 peace restored pre-war borders.
+> - **demilitarized** — with weapons and armed forces removed by agreement.
+> - **ward** — a person treated as unable to manage their own affairs, put under a guardian's control — what Canada made of its former allies (Lesson 17).
+> - Names: **Tecumseh** (teh-KUM-seh), **Shawnee** (shaw-NEE), **Thayendanegea/Joseph Brant** (thay-en-dah-NEH-geh-ah), **Haldimand** (HAL-dih-mund), **Châteauguay** (shat-oh-GAY), **Salaberry** (sal-ah-beh-REE), **Voltigeurs** (vol-tee-ZHUR), **Ghent** (GENT — a city in Belgium), **Queenston** (KWEENZ-tun).
+
 ## Concept
 
 Two American wars created English Canada. The **Revolution (1775–83)**

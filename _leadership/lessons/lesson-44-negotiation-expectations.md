@@ -10,6 +10,19 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 44: Negotiation and Expectation Management
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the iron triangle** — scope, time, and people are linked; you cannot fix all three ("pick two").
+> - **scope** — how much gets built; **descope / cut scope** — deliberately building less.
+> - **over-constrained** — demanding more fixed conditions than reality allows.
+> - **trade-off menu** — offering realistic options ("full scope +3 weeks, or the date with less scope — choose") instead of yes/no.
+> - **BATNA** — Best Alternative To a Negotiated Agreement: what you'll do if no deal is reached; knowing it grounds your position (from *Getting to Yes*).
+> - **under-promise, over-deliver** — committing to less than you expect to achieve, so you reliably exceed it.
+> - **over-commit** — promising the impossible; the doomed "yes."
+> - **renegotiate early** — raising a slipping plan while there's still room to adjust, instead of apologizing after missing.
+> - **agency** — the power to choose; a trade-off menu gives the other side agency.
+> - **interests vs positions** — Lesson 37's pair, central to all negotiation.
+
 ## Concept
 
 As a lead, you **negotiate constantly** — scope, timelines, staffing, priorities — with product,

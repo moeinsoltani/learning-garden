@@ -10,6 +10,19 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 41: Managing Up
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **managing up** — deliberately working well with your own manager so they can be effective on your behalf.
+> - **air cover** — a manager's protection from organizational pressure while you work (a military-aviation metaphor).
+> - **no surprises** — the cardinal rule: bad news reaches your manager from you, early — never first from others.
+> - **blindside** — to let someone be surprised in public by something you knew (Lesson 36; worst in front of *their* boss).
+> - **options, not problems** — bringing choices plus a recommendation instead of dumping a raw problem.
+> - **altitude** — the level of detail appropriate to an audience (execs fly higher).
+> - **proactive status** — updates that answer questions before they're asked.
+> - **yes-person** — someone who never disagrees; less valuable than a respectful challenger.
+> - **skip-level** — your manager's manager (Lesson 05).
+> - **career-limiting** — polite phrase for "will damage your future here."
+
 ## Concept
 
 **Managing up** — working effectively with your own manager — is a skill most people never think to

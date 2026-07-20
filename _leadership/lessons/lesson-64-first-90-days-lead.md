@@ -10,6 +10,19 @@ parent: "Phase 12: Your Path"
 
 # Lesson 64: Your First 90 Days as a Lead
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the first 90 days** — the standard framing (from Watkins's book) for a role transition's critical opening period.
+> - **listen-first period** — roughly 30 days of learning and no big changes.
+> - **Chesterton's fence** — don't remove a fence until you know why it was put there; don't change what you don't yet understand.
+> - **build your map** — learning the people, systems, and history before acting.
+> - **"where the bodies are buried"** — idiom: the hidden problems, old wounds, and political sensitivities nobody mentions.
+> - **landmine** — a hidden issue that explodes when accidentally stepped on.
+> - **early win** — a small visible improvement that earns trust without imposing.
+> - **stepping on toes** — intruding on someone else's territory or authority.
+> - **remit** (REE-mit) — the area you're officially responsible for.
+> - **renegotiate your IC workload** — explicitly agreeing with your manager how much individual work you drop to make room for leading.
+
 ## Concept
 
 Becoming a tech lead deliberately — not just "a senior with extra meetings" — starts with how you spend your

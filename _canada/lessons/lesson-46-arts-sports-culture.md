@@ -10,6 +10,19 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 46: Arts, Sports, and the Shared Culture
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **CanCon** — "Canadian content": the legal quotas requiring radio/TV to carry Canadian music and shows; **CRTC** — the broadcast regulator enforcing them; **MAPL** — the points system certifying a song as Canadian.
+> - **quota** — a required minimum share (35% Canadian music on radio).
+> - **discoverability** — how easily an algorithm surfaces something to you; the streaming-era battleground.
+> - **NFB** — the National Film Board, Canada's public documentary studio.
+> - **téléroman** (tay-lay-roh-MAWN) — Quebec's hugely popular nightly serial dramas.
+> - **star system** — a self-sustaining celebrity industry; Quebec runs its own, invisible to English Canada.
+> - **the Original Six** — the NHL's six founding-era teams (two Canadian: Montreal, Toronto).
+> - **dynasty** — a team dominating for years; **the Summit Series** — the 1972 Canada–USSR showdown.
+> - **koan** (KOH-ahn) — see Lesson 45: the no-Stanley-Cup-since-1993 riddle.
+> - Names: **Massey** (MASS-ee), **Gord Downie** (DOW-nee), **Munro** (mun-ROH), **Richler** (RICH-ler), **Arcand** (ar-KAWN), **Villeneuve** (veel-NUV), **Wickenheiser** (WIK-en-hy-zer), **Gretzky** (GRET-skee), **the Habs** (HABZ — the Montreal Canadiens).
+
 ## Concept
 
 The touchstones that come up in any Canadian conversation — with

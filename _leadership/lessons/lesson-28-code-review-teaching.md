@@ -10,6 +10,19 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 28: Code Review as Teaching
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **gate / gating** — acting only as an approve-or-block filter, without teaching.
+> - **the pattern / principle** — the reusable general rule behind a specific fix; teaching it is this lesson's core move.
+> - **comment tiers** — labelling each review comment's weight: **blocking** (must fix), **suggestion** (author's call), **nit** (minor, take it or leave it).
+> - **nit / nitpick** — a tiny style-level comment.
+> - **wall of red marks** — a review that's nothing but corrections; demoralizing even when each is fair.
+> - **magic number** — an unexplained literal value in code (why 86400?) that should be a named constant.
+> - **separation of concerns** — the design principle that one function should do one thing.
+> - **edge case** — an unusual input (empty list, zero, huge value) that breaks naive code.
+> - **PR (pull request)** — a proposed code change submitted for review.
+> - **pair instead** — replacing a huge comment pile with a live working session; warmer and faster for big rework.
+
 ## Concept
 
 Code review is the **highest-volume teaching channel** most leads have — you review far more code

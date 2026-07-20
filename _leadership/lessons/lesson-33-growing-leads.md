@@ -10,6 +10,19 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 33: Growing Seniors into Leads
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **successor** — the person who could take over your role; **succession** — deliberately preparing them.
+> - **multiply yourself** — to create more leadership capacity than one person by growing others.
+> - **leadership signals** — the real predictors of leading well: making others better, caring about the team, judgment, communication — *not* coding skill.
+> - **aptitude** (AP-tih-tood) — natural ability for something.
+> - **acting lead** — someone temporarily doing a lead's job as a bounded trial ("acting" = temporary, as in an acting manager).
+> - **bounded** — with clear limits in time and scope.
+> - **fail safely** — to make mistakes where the damage is recoverable (Lesson 31's blast radius).
+> - **over-protect** — to prevent all mistakes, and with them all learning.
+> - **hoarding your role** — clinging to responsibilities out of insecurity.
+> - **threatened** — feeling your position is endangered by someone else's ambition (the small, self-defeating reaction).
+
 ## Concept
 
 The highest form of developing people is **growing the next generation of leaders** — turning your

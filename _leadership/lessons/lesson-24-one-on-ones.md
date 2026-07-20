@@ -10,6 +10,19 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 24: 1:1s That Aren't Status Meetings
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **1:1 (one-on-one)** — the regular private meeting between a lead and one team member.
+> - **report** (noun) — a person who reports to you ("your reports" = your team members).
+> - **status meeting / status report** — an update on what got done; what a 1:1 should *not* be.
+> - **cadence** (KAY-dence) — how often something repeats (weekly, biweekly).
+> - **non-negotiable** — not to be cancelled or traded away.
+> - **agenda** — here: whose topics the meeting serves — theirs, not yours.
+> - **question bank** — a prepared list of good questions to draw from.
+> - **surface** (verb) — to bring a hidden problem into the open.
+> - **theme** — a topic that keeps returning across weeks; tracking themes is the note-taking skill.
+> - **disengaged** — mentally checked out; still present, no longer invested.
+
 ## Concept
 
 The regular one-on-one is potentially the **highest-leverage 30 minutes of your week** — the

@@ -10,6 +10,20 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 27: The Prime Minister and Cabinet
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **incumbent** (in-KUM-bent) — the current holder of an office.
+> - **minority government** — a government whose party holds under half the seats, surviving vote by vote; **coalition** — two+ parties actually sharing cabinet (rare in Canada).
+> - **supply-and-confidence agreement** — a smaller party promises to support the government on confidence votes in exchange for policy wins ("supply" = approving spending).
+> - **cabinet solidarity** — ministers must publicly support every cabinet decision or resign; **ministerial responsibility** — each minister answers to Parliament for their department.
+> - **PMO** — the Prime Minister's Office: the PM's *political* staff; **PCO** — the Privy Council Office: the *non-partisan* civil-service counterpart.
+> - **mandate letter** — the PM's published instruction letter telling each minister what to deliver.
+> - **snap election** — an election called early, by surprise, when polls look good.
+> - **"court government"** — scholar Donald Savoie's (sav-WAH) phrase for power concentrated in the PM and unelected advisers, like a royal court.
+> - **shuffle** — the PM reassigning ministers to new jobs.
+> - **lame duck** — an office-holder whose power is fading because their exit is known.
+> - Names: **Wilson-Raybould** (WIL-sun RAY-boold), **Kim Campbell**, **Meighen** (MEE-en), **24 Sussex** (SUSS-ex — the PM's official residence).
+
 ## Concept
 
 Start with the fact that surprises every newcomer: **nobody in Canada

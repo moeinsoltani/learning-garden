@@ -10,6 +10,19 @@ parent: "Phase 1: The Transition"
 
 # Lesson 01: What Actually Changes
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **IC (individual contributor)** — an engineer who builds things personally and manages no one.
+> - **leverage** — impact per hour of your time; **multiplier** — work that increases *other people's* output instead of adding your own.
+> - **artifact** — a visible product of work (a commit, a document, a ticket); much lead work leaves none.
+> - **1:1 (one-on-one)** — the regular private meeting between a lead and each team member.
+> - **Sev-1** (severity one) — the most critical class of production incident; everything stops for it.
+> - **scope / poorly-scoped** — the defined size of a piece of work / vague and too big.
+> - **throughput** — how much work gets finished per week; **bottleneck** — the one point everything else waits on.
+> - **heads-down** — working with full focus, ignoring everything else; **unblock** — to remove whatever is stopping someone's progress.
+> - **dopamine** (DOH-pah-meen) — the brain's reward chemical; shorthand for "the good feeling of visible progress."
+> - **retention risk** — the danger that a team member quits.
+
 ## Concept
 
 The single most important idea in this entire course, and the one most new

@@ -10,6 +10,20 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 27: Mentoring Engineers
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **scaffolding** — temporary support around growing skill (from construction scaffolds): a stretch task + a safety net, removed gradually.
+> - **stretch (task/assignment)** — work slightly beyond what someone can currently do alone.
+> - **safety net** — the support (check-ins, pairing, fallback) that keeps a stretch from failing badly.
+> - **by osmosis** (oz-MOH-sis) — absorbing skills passively just by being nearby (doesn't work).
+> - **the edge of ability** — the zone just past current skill where growth is fastest.
+> - **productive struggle** — difficulty that teaches, as opposed to drowning.
+> - **fade (the support)** — to withdraw scaffolding step by step as skill grows.
+> - **"I do, we do, you do"** — demonstrate → do it together → they do it while you watch.
+> - **reverse mentoring** — learning from someone junior about things they know better.
+> - **bootcamp** — an intensive months-long programming course; a "bootcamp grad" is new to professional work.
+> - **green** — inexperienced.
+
 ## Concept
 
 Growing juniors and mid-level engineers is one of a lead's highest-return investments — but it

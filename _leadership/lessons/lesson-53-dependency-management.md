@@ -10,6 +10,19 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 53: Dependency Management
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **critical path** — the chain of dependent work that sets the project's minimum duration; a slip on it slips everything (Lesson 03).
+> - **gate** (verb) — to block progress until done ("this dependency gates the launch").
+> - **dependency kickoff** — the early alignment conversation with a team you'll depend on, held *before* you're blocked.
+> - **interface-first** — agreeing the API/contract up front so both teams build in **parallel** instead of waiting in sequence.
+> - **mock / stub** — a fake stand-in for a not-yet-built component, letting you build against it.
+> - **serialize** — to force work into one-after-another order (what dependencies do if unmanaged).
+> - **buffer or decouple** — the two defenses: plan slack around a risky dependency, or remove its power to block you.
+> - **blindsided** — surprised by something you should have seen coming (Lesson 36/41).
+> - **early-warning signs** — the small signals that a promise is slipping, visible before the miss.
+> - **track like your own** — monitoring others' commitments as actively as your own tasks.
+
 ## Concept
 
 Dependencies — on other teams, external services, or things outside your control — are one of the most

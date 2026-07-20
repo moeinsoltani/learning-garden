@@ -10,6 +10,19 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 47: What Is a Canadian? (Capstone)
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **capstone** — the final stone that completes a building; a course's crowning final project.
+> - **thesis** (THEE-siss) — the central claim an essay argues for; the course's "**method-thesis**" = Canada is a method (permanent negotiation), not a finished identity.
+> - **counterweight** — here: a region or nation whose reality disproves any simple national story.
+> - **hyphenated Canadian** — an identity joining origin + Canada (Ukrainian-Canadian); once an insult, now policy.
+> - **parasitic** — living off something else; "not American" is parasitic because it needs its rival to exist.
+> - **old-stock** — informal term for families in Canada for many generations.
+> - **la survivance** (lah sur-vee-VAWNSS) — Quebec's survival tradition (Lesson 08); **POGG** — "Peace, Order, and good Government" (Lesson 13).
+> - **alibi** (AL-ih-by) — an excuse that deflects blame; the essay must decide whether "slowly, in public" is a virtue or an alibi.
+> - **romanticize** — to describe something as prettier than it really is.
+> - **koan / liturgy / mosaic** — see Lessons 45–46 and 43; the capstone reuses the whole vocabulary.
+
 ## Concept
 
 Forty-six lessons ago this course promised you could eventually

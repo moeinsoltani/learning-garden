@@ -10,6 +10,19 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 18: The First World War
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **armistice** (ARM-iss-tiss) — an agreement to stop fighting; the WWI Armistice took effect November 11, 1918.
+> - **conscription** (kun-SKRIP-shun) — forcing citizens by law to serve in the army (also called "the draft").
+> - **corps** (KOR — the "ps" is silent) — a large army formation of several divisions; a **division** ≈ 15,000–20,000 soldiers.
+> - **barrage** (buh-RAHZH) — massed artillery fire; a **creeping barrage** moves forward just ahead of advancing soldiers.
+> - **suffrage** (SUF-rij) — the right to vote; a **suffragist** campaigned for women's votes; **franchise** — another word for the right to vote; **enfranchise** — to grant it.
+> - **internment** — imprisoning civilians without trial during wartime; an "**enemy alien**" was a resident born in an enemy country.
+> - **khaki election** (KAH-kee — the army uniform colour) — an election fought in wartime on war issues.
+> - **casualties** (KAZH-ul-teez) — all soldiers killed, wounded, or captured (not only deaths).
+> - **autonomous** (aw-TON-oh-muss) — self-governing.
+> - Names: **Ypres** (EE-pruh), **Vimy** (VIM-ee), **the Somme** (SUM), **Passchendaele** (PASH-en-dale), **Beaumont-Hamel** (boh-mon-ah-MEL), **Amiens** (am-YAN), **Mons** (MONZ), **Versailles** (vair-SIGH), **Currie** (KUR-ee), **McCrae** (muh-KRAY), **Guelph** (GWELF), **Borden** (BOR-den), **Bourassa** (boo-RASS-ah), **Pegahmagabow** (peg-ah-MAG-ah-bow).
+
 ## Concept
 
 In August 1914 Canada went to war **automatically** — when Britain

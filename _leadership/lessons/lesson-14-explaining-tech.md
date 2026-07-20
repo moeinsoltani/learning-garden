@@ -10,6 +10,19 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 14: Explaining Technology to Non-Technical People
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **analogy** (ah-NAL-oh-jee) — explaining something unfamiliar by mapping it onto something familiar ("tech debt is like a loan").
+> - **quantify** — to put a number on something; **units** — here: the measures an audience reasons in (money, risk, time — not milliseconds).
+> - **latency** (LAY-ten-see) — delay; how long a system takes to respond.
+> - **cascading failure** — one component's failure triggering others, like dominoes.
+> - **condescending** (kon-deh-SEN-ding) — talking down to someone as if they're less intelligent.
+> - **dumb down** — to oversimplify until real meaning is lost (not the goal; clarity is).
+> - **the "so what"** — the part of an explanation that says why it matters to the listener.
+> - **diminishing returns** — each additional unit of effort produces less benefit than the last.
+> - **CFO** — Chief Financial Officer, the executive who controls the money.
+> - **two-sentence version** — this lesson's discipline: the essential *what* and *so-what* of any technical situation, compressed.
+
 ## Concept
 
 A huge part of a lead's job is translating between the technical world and the

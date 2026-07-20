@@ -10,6 +10,20 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 56: Incidents and Blameless Postmortems
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **incident** — a live production emergency (outage, data risk); **severity** — its declared seriousness level, which drives the response.
+> - **incident command(er)** — the person running the response: roles, decisions, communications — *not* debugging.
+> - **communications lead** — the role that updates stakeholders on a regular **cadence** so responders aren't interrupted.
+> - **postmortem** (post-MOR-tum) — the structured review after an incident (medical term: examination after death).
+> - **blameless** — focused on the *systemic* factors that allowed the incident, never on punishing the person who triggered it.
+> - **systemic** — belonging to the system (missing review, no rollback) rather than to an individual.
+> - **root cause** — the underlying cause; "root cause = the person" is the anti-pattern.
+> - **scapegoat** — a person unfairly given all the blame.
+> - **rollback / staged rollout** — undoing a change fast / releasing gradually to limit damage.
+> - **near miss** — something that *almost* caused an incident; mature teams report and learn from these.
+> - **action items that ship** — postmortem fixes that are owned, tracked, and actually done — not filed and forgotten.
+
 ## Concept
 
 When things break — the site's down, data's at risk — the team learns **who you really are as a leader.**

@@ -10,6 +10,19 @@ parent: "Phase 8: Culture & Identity"
 
 # Lesson 45: Symbols, Holidays, and Rituals
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **liturgy** (LIT-er-jee) — the fixed script of a religious service; used here for the national calendar of rituals.
+> - **statutory holiday ("stat")** — an official paid day off set by law.
+> - **inadmissible** — not allowed to be used as evidence in court (what Apology Acts make "sorry").
+> - **provenance** (PROV-eh-nunss) — where something originally came from.
+> - **koan** (KOH-ahn) — a Zen riddle with no tidy answer (the no-Cup-since-1993 fact).
+> - **vernacular** (ver-NAK-yoo-ler) — belonging to ordinary everyday people, not officialdom.
+> - **rampant** — in heraldry: an animal rearing up on its hind legs ("a rodent rampant" is a joke about the beaver on coats of arms).
+> - **double-double** — Tim Hortons coffee with two creams, two sugars; **two-four** — a case of 24 beers (hence the "May two-four" weekend).
+> - **red serge** (SURJ) — the Mounties' red dress uniform (Lesson 32).
+> - Names: **Calixa Lavallée** (kah-LEE-ksah lah-vah-LAY — O Canada's composer), **Saint-Jean-Baptiste** (san-ZHAWN bah-TEEST), **the Habs** (HABZ — nickname of the Montreal Canadiens hockey team).
+
 ## Concept
 
 A country's symbols are its history compressed for daily carry —

@@ -10,6 +10,18 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 54: Speaking Canadian
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **lexicon** (LEK-sih-kon) — a vocabulary set; **dialect** — a language variety with its own words, sounds, and rules.
+> - **register** (in linguistics) — the style level of speech: formal, casual, joking, rural, etc.
+> - **tag** (in linguistics) — a small word added to a sentence to invite agreement ("eh?", "right?").
+> - **Canadian raising** — the real sound shift in "about/house/out" that Americans mishear as "aboot."
+> - **loanword** — a word borrowed from another language ("dep" from French *dépanneur*).
+> - **hoser** (HOH-zer) — the parody rural Canadian (toque, beer, "take off, eh") invented by Bob & Doug McKenzie.
+> - **PSA** — public-service announcement (the Hinterland Who's Who wildlife spots).
+> - **canon** — the shared list of references everyone knows (Lesson 52).
+> - Names: **Penfield** (PEN-feeld — the brain surgeon of the "burnt toast" Heritage Minute), **Roch Carrier** (ROCK kar-ee-AY — author of *The Hockey Sweater*), **Stompin' Tom Connors** (STOMP-in TOM), **Bobcaygeon** (bob-KAY-jun — the Ontario town in the Tragically Hip song), **Naismith** (NAY-smith — basketball's Canadian inventor).
+
 ## Concept
 
 Canadian English hides in plain sight: it sounds American to

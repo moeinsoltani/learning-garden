@@ -10,6 +10,19 @@ parent: "Phase 1: The Transition"
 
 # Lesson 05: Identity, Doubt, and the Psychology of the Switch
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **impostor syndrome** (im-POSS-ter) — the persistent feeling that you're a fraud who will be "found out," despite real competence.
+> - **feedback loop** — the cycle of acting and seeing the result; engineering's is minutes (tests pass), leadership's is weeks or never.
+> - **self-worth** — your sense of your own value; here, dangerously tied to personal output.
+> - **burnout** — deep exhaustion from prolonged stress; in leads, driven by *energy* depletion more than hours.
+> - **energy management** — planning your week around which activities drain vs restore you, not just around time.
+> - **role fit** — whether the *nature* of a job (not its difficulty) matches what energizes you.
+> - **skip-level** — a meeting with your manager's manager, or (as a lead) with your reports' reports.
+> - **white-knuckle** — to endure something by sheer force of will (from gripping so hard your knuckles whiten).
+> - **wallowing** — staying stuck in a bad feeling instead of acting on it.
+> - **trajectory** — the direction something is heading over time (improving vs worsening).
+
 ## Concept
 
 The first four lessons were about what changes and what to do. This one is about

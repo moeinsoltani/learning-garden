@@ -10,6 +10,19 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 46: Customer Needs and Product Strategy
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **jobs-to-be-done (JTBD)** — the lens that customers "hire" a product to accomplish a *job* (the underlying need), not for its features ("they don't want a drill, they want a hole").
+> - **segment** — a group of customers with similar needs; **persona** — an invented archetypal user representing a segment.
+> - **monolithic** — treated as one uniform block; "the customer" isn't.
+> - **choosing what to disappoint** — strategy's essence: deciding which customers and requests you deliberately *won't* serve.
+> - **bloated** — swollen with too many features; **incoherent** — without a unifying logic.
+> - **roadmap** — the planned sequence of what to build; good ones follow strategy, bad ones are a **grab-bag** (random assortment).
+> - **differentiator** — what makes your product meaningfully different from competitors.
+> - **product thinking** — the PM's discipline of deciding what's worth building and why.
+> - **fluff** — impressive-sounding filler without substance (Lesson 06).
+> - **lens** — a way of looking at something that reveals particular aspects.
+
 ## Concept
 
 To be a real partner to your PM (and to make good engineering-informed product decisions), you need to

@@ -10,6 +10,19 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 54: Prioritization and Trade-offs
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the one ranked list** — a single visible priority order; makes every "no" a transparent trade-off instead of a personal rejection.
+> - **cost of delay** — how much value is lost per week of postponing something; value × urgency.
+> - **WSJF** — Weighted Shortest Job First: cost of delay ÷ effort; do high-value, cheap, urgent things first.
+> - **urgent vs important** — the Eisenhower distinction: deadline-pressured vs genuinely valuable; the urgent crowds out the important unless you protect it.
+> - **the tyranny of the urgent** — the pattern where fires consume all capacity forever.
+> - **interrupt budget** — a fixed share of team capacity reserved for unplanned work (support, bugs).
+> - **on-call / support rotation** — one person absorbing the interrupts so the rest keep focus (Lesson 34/42).
+> - **"not now" vs "no"** — deferred vs declined; most good ideas are "not now."
+> - **strings along** — keeps someone hoping with vague maybes (Lesson 42).
+> - **who shouts loudest** — the anti-method: prioritizing by noise instead of value.
+
 ## Concept
 
 As a lead, you **say no (or "not now") all day** — there's always more demand than capacity, and your job

@@ -10,6 +10,20 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 51: Winter as a Way of Life
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **windchill** — the "feels like" temperature combining cold + wind; the number Canadians actually quote.
+> - **frostbite** — skin freezing; at deep cold it can happen to exposed skin in minutes.
+> - **toque** (TOOK — also spelled tuque) — the knitted winter hat; the most Canadian garment.
+> - **block heater** — an electric engine warmer you plug into a wall outlet overnight so the car starts at −30.
+> - **windrow** (WIN-droh) — the wall of plowed snow the city plow leaves across your freshly shovelled driveway.
+> - **toboggan** (tuh-BOG-un) — a sled for sliding down snowy hills; **snowshoes** — wide frames strapped to boots for walking on deep snow.
+> - **snowbird** — a Canadian (usually retired) who spends winters in Florida or Arizona.
+> - **SAD / seasonal affective disorder** — winter depression caused by lack of daylight; openly discussed, treated with therapy lamps.
+> - **"second winter"** — the betrayal snowstorm that arrives after spring seemed to start.
+> - **patio season** — when restaurants open outdoor seating and attendance becomes a civic duty.
+> - Names: **Rideau Canal** (rih-DOH) — Ottawa's canal that freezes into the world's largest skating rink; **Winterlude / Carnaval** (kar-nah-VAL) — Ottawa's and Quebec City's winter festivals; **BeaverTails** — fried flat pastry (Lesson 52).
+
 ## Concept
 
 Lesson 03 gave you winter as climate data. This lesson gives you

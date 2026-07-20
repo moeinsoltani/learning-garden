@@ -10,6 +10,23 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 17: Treaties, the Indian Act, and Residential Schools
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **treaty** (TREE-tee) — a formal agreement between nations; **cede / surrender** — to give up land or rights in such an agreement.
+> - **annuity** (ah-NYOO-ih-tee) — a small fixed payment made every year, forever.
+> - **reserve** — land set aside for a First Nation, legally held by the Crown "for" the band, not owned by it.
+> - **band** — a First Nations community as defined by the Indian Act; **status** — the state's legal definition of who counts as an "Indian."
+> - **ward** — a person treated as legally unable to manage their own affairs, placed under a guardian (Lesson 11's word, now made law).
+> - **Indian agent** — the government official who controlled daily life on each reserve; the **pass system** — his written permission required to leave the reserve.
+> - **enfranchisement** (en-FRAN-chize-ment) — here: gaining full citizenship (the vote) *at the price of* losing Indian status — the Act's designed "exit."
+> - **inalienable** (in-AY-lee-en-ah-bul) — legally impossible to sell, mortgage, or transfer.
+> - **boilerplate** — standard legal wording copied into every contract without discussion.
+> - **medicine chest clause** — Treaty 6's promise of medicines at the agent's house, read by courts as a health-care obligation.
+> - **residential school** — a church-run boarding school Indigenous children were forced into, designed to erase their language and culture.
+> - **TRC** — the Truth and Reconciliation Commission (2008–2015); **cultural genocide** (JEN-oh-side) — destroying a people *as a people* (language, culture, families) without mass killing.
+> - **repatriation** (ree-pay-tree-AY-shun) — returning taken things (regalia, remains) to their home community.
+> - Names: **potlatch** (POT-latch) and **sun dance** — major ceremonies, banned 1885–1951 (Lesson 06); **Kamloops** (KAM-loops).
+
 ## Concept
 
 This is the heaviest lesson in Phase 3, and the one most necessary for

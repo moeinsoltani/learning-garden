@@ -10,6 +10,19 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 13: Audience-First Communication
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **BLUF** — "Bottom Line Up Front": state your conclusion first, support it after.
+> - **sender-first / audience-first** — organizing a message around what *you* want to say vs what the *receiver* needs to hear.
+> - **curse of knowledge** — once you know something deeply, you can't remember what not-knowing felt like, so you skip the context others need.
+> - **triage** (TREE-ahzh) — quickly sorting by importance before acting; here: audience → purpose → medium.
+> - **medium** — the channel a message travels in (Slack, email, doc, meeting).
+> - **calibrate** — to adjust to fit ("calibrate detail to the audience").
+> - **takeaway** — the one thing the audience should remember.
+> - **jargon** — specialist vocabulary outsiders don't share.
+> - **spin** — dishonest framing that misleads; audience-shaping with consistent facts is *not* spin.
+> - **executive summary** — the few lines at the top that carry the whole message for busy readers.
+
 ## Concept
 
 The single most common communication mistake — and the one that separates

@@ -10,6 +10,19 @@ parent: "Phase 9: Business & Product Thinking"
 
 # Lesson 49: "Should We Build This?" — The Question That Changes
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **opportunity cost** — the value of the best alternative you give up; every "yes" is a "no" to something else (Lesson 11).
+> - **build vs buy vs open-source vs don't** — the full menu of options for any capability (engineers default to "build"; often wrongly).
+> - **walking skeleton** — the thinnest possible end-to-end version of a system, built first to prove the shape works.
+> - **wizard-of-oz** — faking a feature manually behind the curtain to test demand before building it.
+> - **spike** — a short throwaway investigation (Lesson 03); **de-risk** — reduce risk before committing (Lesson 07).
+> - **sunk cost (fallacy)** — money/time already spent, which is gone either way; continuing *because* of it is the fallacy ("we've spent 3 months, we can't stop now").
+> - **forward-looking** — judging only by future costs and benefits, from today.
+> - **forego / foregone** — to give up; the projects not done because this one was chosen.
+> - **kill (a project)** — to stop it deliberately; a skill, not a failure.
+> - **superseded** — replaced by something better (Lesson 07).
+
 ## Concept
 
 The biggest mindset shift from senior engineer to lead is the question you ask. A senior engineer asks

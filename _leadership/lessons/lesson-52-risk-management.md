@@ -10,6 +10,19 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 52: Risk Management
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **pre-mortem** — imagining the project has *already failed* and asking why; surfaces the risks optimism hides (opposite of a post-mortem).
+> - **risk register** — the maintained list of a project's risks, each with likelihood, impact, and an owner.
+> - **likelihood × impact** — how risks are prioritized: probability times damage.
+> - **owner** (of a risk) — the named person responsible for watching and mitigating it.
+> - **mitigate** (MIT-ih-gate) — to reduce a risk's likelihood or impact in advance.
+> - **theater** — activity that looks like the real thing but changes nothing ("risk theater").
+> - **risk vs issue** — something that *might* happen vs something that *has* happened; prevented vs resolved.
+> - **naysayer** — the person seen as negative for pointing out problems (the pre-mortem removes this stigma).
+> - **front-load** — to do the hard, scary parts first, not last.
+> - **the quiet risks** — the non-technical killers: people leaving, dependencies slipping, unclear ownership.
+
 ## Concept
 
 Most projects that fail are killed by a risk that was **identifiable in week one** but wasn't found (or

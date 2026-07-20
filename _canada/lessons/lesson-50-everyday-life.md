@@ -10,6 +10,20 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 50: Everyday Life
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **GST / HST / PST** — the sales taxes added *at the till*, never shown on the shelf price (Lesson 35).
+> - **tip-flation** — the grumbled trend of tip screens suggesting ever-higher percentages.
+> - **Interac / e-transfer** — Canada's debit network / its email money transfer, the standard way friends pay each other back.
+> - **loonie / toonie** — the $1 and $2 coins (Lessons 40/45).
+> - **scrip** — substitute paper money issued by a company (Canadian Tire money).
+> - **LCBO / SAQ** (say the letters / ess-ah-KEW) — Ontario's and Quebec's government liquor stores; **the Beer Store** — Ontario's separate beer retailer; **dépanneur** (day-pan-NUR) — a Quebec corner store.
+> - **Timbits** — Tim Hortons donut holes; **double-double** — coffee with two creams, two sugars.
+> - **klick** — slang for kilometre.
+> - **"first and last"** — first and last month's rent paid up front, the standard Ontario lease deposit.
+> - **block heater** — the plug-in engine warmer for −30° mornings (Lesson 51).
+> - **metrication** (met-rih-KAY-shun) — the 1970s switch to metric, famously left half-finished.
+
 ## Concept
 
 Culture's densest layer is the boring one: how you pay, shop, tip,

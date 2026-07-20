@@ -10,6 +10,19 @@ parent: "Phase 3: Communication Foundations"
 
 # Lesson 18: Async and Written Communication
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **async / sync** — communication read whenever convenient (messages, docs) vs everyone present at once (meetings, calls).
+> - **negativity bias** — the brain's habit of reading ambiguous signals as slightly negative; why neutral text lands cold.
+> - **terse** — so short it feels cold; **curt** — rudely brief.
+> - **over-signal** — deliberately adding *more* warmth than speech would need, because text subtracts it.
+> - **softeners** — cushioning words ("just," "when you get a chance") — the English track's Phase 3.
+> - **scheduled send** — writing a message now but delivering it during work hours.
+> - **FYI** — "for your information": no action needed; **DM** — direct (private) message; **thread** — a chain of replies on one topic.
+> - **runaway thread** — a discussion going in circles with no convergence.
+> - **to land a decision** — to close a debate firmly and fairly: summarize, decide with reasons, name next steps.
+> - **always-on** — the unhealthy expectation of being reachable at all hours.
+
 ## Concept
 
 Increasingly, leadership happens through text — Slack, docs, code review comments,

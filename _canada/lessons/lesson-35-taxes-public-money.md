@@ -10,6 +10,20 @@ parent: "Phase 6: Civic Life"
 
 # Lesson 35: Taxes and Public Money
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **marginal tax bracket** — each tax rate applies *only* to the dollars inside its income band, never to your whole income (the lesson's core idea).
+> - **withholding** — tax your employer deducts from each paycheque and sends ahead to the government.
+> - **GST / HST / PST** — the federal sales tax / the combined ("harmonized") version / a province's own sales tax.
+> - **excise tax** (EK-size) — extra tax on specific goods (alcohol, tobacco, fuel).
+> - **capital gain** — profit from selling an asset for more than you paid; the **principal residence exemption** — your own home's gain is entirely tax-free.
+> - **tax deferral** — postponing tax to a later year (the RRSP's trick).
+> - **general revenue** — the government's single big pot of tax money (not earmarked).
+> - **fiscal capacity** — how much revenue a province *could* raise at normal tax rates — what equalization measures.
+> - **CRA** — the Canada Revenue Agency (the tax authority); **T4** — the annual slip from your employer showing pay and tax withheld; **SIN** — Social Insurance Number, your tax/benefits ID.
+> - **clawback** — a benefit reduced as income rises (Lesson 34).
+> - **third rail** — an issue so politically dangerous no politician will touch it (from the electrified subway rail).
+
 ## Concept
 
 Two ideas organize everything: **marginal tax brackets** (the most

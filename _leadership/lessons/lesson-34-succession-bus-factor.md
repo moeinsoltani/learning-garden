@@ -10,6 +10,20 @@ parent: "Phase 6: Delegation & Growing the Team"
 
 # Lesson 34: Succession and the Bus Factor
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **bus factor** — how many people could be lost ("hit by a bus") before critical knowledge is gone (Lesson 03).
+> - **SPOF (single point of failure)** — the one person or component whose loss breaks everything.
+> - **de-risk** — to reduce a risk deliberately before it bites.
+> - **redundancy** — having more than one person able to do each critical thing; here framed as *freedom*, not expendability.
+> - **knowledge mapping** — listing each critical system and asking "who understands this?"
+> - **runbook** — the written step-by-step guide for operating a system ("what to do when X breaks").
+> - **tribal knowledge** — critical information living only in heads (Lesson 03).
+> - **brown-bag** — an informal lunchtime teaching session (named for the lunch bag).
+> - **hoards context** — keeps knowledge to themselves, deliberately or not, because being irreplaceable feels safe.
+> - **expendable / disposable** — easily discarded; the threatening misreading of "not irreplaceable."
+> - **on call** — carrying the pager: responsible for responding to incidents.
+
 ## Concept
 
 The **bus factor** is the number of people who'd have to be "hit by a bus" (leave, go on vacation, be

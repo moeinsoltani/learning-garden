@@ -10,6 +10,23 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 06: The First Peoples
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **pre-contact** — the time *before* Europeans arrived in the Americas ("contact" = the first meetings between Indigenous peoples and Europeans).
+> - **confederacy** (kun-FED-er-uh-see) — a group of separate nations that join together under one shared council, while each keeps its own identity.
+> - **Inuit** (say: IN-oo-it) — the Indigenous people of the Arctic. One person is an **Inuk** (EE-nook). Their language is **Inuktitut** (ih-NOOK-tih-toot).
+> - **Métis** (may-TEE — French spelling, the "s" is silent) — a distinct nation descended from First Nations mothers and European fur-trader fathers. Their language is **Michif** (mee-SHIF).
+> - **Haudenosaunee** (hoe-dee-no-SHOW-nee) — "People of the Longhouse"; the confederacy also called the **Iroquois** (EAR-uh-kwah).
+> - **Anishinaabe** (ah-nish-ih-NAH-beh) — the people also known as **Ojibwe** (oh-JIB-way).
+> - **Mi'kmaq** (MIG-mah) — the First Nation of the Atlantic region. **Haida** (HY-dah) — Pacific coast. **Cree** (KREE) — the largest First Nation. **Dene** (DEH-neh) — northern forests. **Wendat/Huron** (WEN-dat / HYUR-on) — eastern farmers.
+> - **sedentary** (SED-en-tair-ee) — living permanently in one place (the opposite of moving with the seasons).
+> - **matrilineal** (mat-rih-LIN-ee-ul) — family membership and inheritance passed down through the *mother's* side.
+> - **potlatch** (POT-latch) — a Pacific-coast ceremony where a leader gains status by *giving away* wealth, not keeping it.
+> - **treeline** — the northern limit beyond which it is too cold for trees to grow; **boreal forest** (BORE-ee-ul) — the huge belt of evergreen forest south of it.
+> - **oral tradition** — history, law, and knowledge passed on by trained speech and memory instead of writing.
+> - **polity** (POL-ih-tee) — a formal word for any organized political unit (a nation, state, or confederacy).
+> - **unceded** (un-SEE-ded) — land that was never given up by treaty or lost in war.
+
 ## Concept
 
 Before a single European ship arrived, the land now called Canada had been
@@ -121,7 +138,8 @@ chiefs), procedures (consensus, condolence ceremonies for succession), and a
 founding narrative (burying weapons beneath the Tree of Peace). Its existence
 tells you that centuries before Confederation, this land held polities with
 constitutional law, diplomacy, and federal design — transmitted orally with
-professional precision (wampum belts served as mnemonic records). "Prehistory"
+professional precision (<strong>wampum</strong> belts — WAHM-pum, patterns of
+shell beads — served as memory aids recording each agreement). "Prehistory"
 implies nothing happened until Europeans wrote it down; in fact the
 Europeans arrived <em>into</em> functioning international systems and spent
 150 years negotiating within them. Bonus: some historians argue the

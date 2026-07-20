@@ -10,6 +10,19 @@ parent: "Phase 10: Project Leadership"
 
 # Lesson 50: Planning and Roadmaps
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **milestone** — a marked point of progress; good ones *prove* something, not just mark dates.
+> - **risk retirement** — removing an unknown by proving the risky thing works (or doesn't) early.
+> - **slack / buffer** — deliberately unscheduled time that absorbs the inevitable surprises; a feature, not padding.
+> - **brittle vs robust** — shatters at the first surprise vs absorbs surprises and holds.
+> - **work backward** — planning from the target date to today, to see what must be true when.
+> - **now / next / later** — a roadmap format whose precision honestly decreases with distance.
+> - **Gantt chart** (GANT) — the classic bar-chart project schedule that pretends to know far-future dates.
+> - **false precision** — exact-looking numbers that imply certainty nobody has.
+> - **cadence** — the repeating rhythm of planning and reality-checking (Lesson 38).
+> - **stale artifact** — a document nobody updates or believes anymore.
+
 ## Concept
 
 Plans are essential and yet almost always wrong — "no plan survives contact with reality." The goal

@@ -10,6 +10,20 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 29: Sponsorship
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **sponsorship** — spending your own credibility and influence *acting* on someone's behalf (vs mentoring, which only advises).
+> - **capital** (social/political) — the accumulated trust and influence you can "spend" on requests and people.
+> - **credibility** — being believed and trusted; what you put at risk when you vouch for someone.
+> - **"saying their name in the room"** — advocating for someone in the meetings they're not invited to.
+> - **visibility** — being seen by decision-makers; work leadership never sees doesn't advance anyone.
+> - **promotion calibration** — the leadership meeting where candidates for promotion are compared and decided.
+> - **stretch assignment** — a visible, high-stakes task given to grow and showcase someone (Lesson 27).
+> - **the safe pick** — the always-chosen, already-proven person; defaulting to them concentrates opportunity.
+> - **underrepresented groups** — people whose group is scarce in the field and who face extra bias.
+> - **equity lever** — a tool that corrects unfair gaps in opportunity.
+> - **self-promote** — to advertise your own accomplishments; those who don't need sponsors most.
+
 ## Concept
 
 Mentoring *advises*; sponsorship *acts*. Mentoring is giving someone guidance; **sponsorship is

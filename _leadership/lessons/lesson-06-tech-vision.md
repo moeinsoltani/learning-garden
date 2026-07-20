@@ -10,6 +10,20 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 06: Technical Vision and Strategy
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **vision / strategy / roadmap** — destination / route and choices / turn-by-turn steps (the lesson defines them fully).
+> - **kernel** (Rumelt's) — the three-part core of real strategy: diagnosis, guiding policy, coherent actions.
+> - **diagnosis** — naming what is *actually* wrong before choosing a cure.
+> - **coherent / cohere** — parts that fit together and reinforce each other.
+> - **monolith** — one big codebase deployed as a single unit; **microservices** — many small independently deployed services.
+> - **strangler fig** — replacing an old system piece by piece while it keeps running (named after the tree that slowly envelops its host); opposite of a **big-bang rewrite**.
+> - **seam** — a natural boundary in code where you can safely split it.
+> - **churn** — how often a piece of code changes; high-churn areas matter most.
+> - **fluff** — impressive-sounding words with no content.
+> - **wish-list** — a list of desires with no choices or trade-offs behind it.
+> - **adjudicate** — to settle a dispute by acting as the judge.
+
 ## Concept
 
 Without a technical direction, a team makes locally-reasonable decisions that add

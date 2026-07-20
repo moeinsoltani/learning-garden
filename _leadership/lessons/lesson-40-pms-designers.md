@@ -10,6 +10,19 @@ parent: "Phase 8: Stakeholder Management"
 
 # Lesson 40: Working with Product Managers and Designers
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the triad** — product + design + engineering working as three equal partners.
+> - **PM (product manager)** — owns *what* to build and *why* (user needs, business value, priorities).
+> - **feature factory** — an engineering team that only executes finished specs with no say in what gets built.
+> - **spec** — a written specification of what to build; **ticket** — one packaged unit of work.
+> - **healthy tension** — productive disagreement between perspectives that produces better decisions.
+> - **problem definition** — the stage where the *problem* is chosen, before any solution; where engineering should engage.
+> - **feasibility** (fee-zih-BIL-ih-tee) — whether something can practically be built at acceptable cost.
+> - **veto** — blocking something outright; push back **with alternatives** instead.
+> - **conduit** (KON-doo-it) — a channel things flow through; the lead is the conduit for the "why."
+> - **UX** — user experience: how the product works for the humans using it.
+
 ## Concept
 
 Engineering doesn't ship in isolation — it works with **product** (what to build and why) and

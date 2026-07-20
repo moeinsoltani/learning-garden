@@ -10,6 +10,20 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 08: Evaluating Trade-offs
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **trade-off** — a choice where gaining one thing costs another; there is no free option.
+> - **implicit vs explicit** — unstated and hidden vs openly named; the lesson's core move is making trade-offs explicit.
+> - **premature** — done too early, before it's needed ("premature scalability").
+> - **headroom** — spare capacity above current needs.
+> - **cost of delay** — what shipping later actually costs the business (sometimes everything, sometimes nothing).
+> - **the 10x test** — "would this survive ten times the load — and do we actually *expect* ten times?"
+> - **"what would have to be true?"** — asking under what conditions an option would be right, instead of arguing which is better.
+> - **product-market fit (PMF)** — proof that people genuinely want your product; the early startup's only goal.
+> - **build vs buy** — writing it yourself vs paying for an existing product.
+> - **debiasing** (dee-BY-us-ing) — correcting a systematic thinking error.
+> - **context** — here: the business situation (stage, scale, timeline, team) that decides which option wins.
+
 ## Concept
 
 Almost every meaningful technical decision is a trade-off: speed vs quality,

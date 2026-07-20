@@ -10,6 +10,19 @@ parent: "Phase 1: The Transition"
 
 # Lesson 04: Time and Leverage
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **maker's schedule / manager's schedule** — Paul Graham's terms: long uninterrupted blocks for deep work vs a day sliced into meeting slots (the lesson defines them fully).
+> - **flow (state)** — the deeply focused mental state where hard technical work happens; slow to enter, instantly destroyed by interruption.
+> - **batching** — grouping small interruptions (email, Slack) into a few fixed blocks instead of answering continuously.
+> - **office hours** — a standing open block when anyone can bring you questions.
+> - **async** (AY-sink) — communication that doesn't need both people present at once (messages, docs — not meetings).
+> - **standup** — the short daily team meeting; **all-hands** — a meeting for the whole company or org.
+> - **zombie meeting** — a recurring meeting that has outlived its purpose but nobody cancels.
+> - **firefighting** — constantly reacting to urgent problems instead of working on planned priorities.
+> - **calendar audit** — honestly reviewing where your hours actually went last week.
+> - **buffer** — a person or thing that absorbs disruption to protect others (the lead shields the team from meetings).
+
 ## Concept
 
 You have the same 40-ish hours you had as a senior engineer, but the job changed

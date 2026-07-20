@@ -10,6 +10,21 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 28: Elections and Voting
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **first-past-the-post (FPTP)** — the candidate with the most votes wins the riding, even without a majority.
+> - **plurality** (ploor-AL-ih-tee) — the most votes without necessarily half; **majority** — more than half.
+> - **popular vote** — the raw national vote totals (which FPTP does *not* directly reward).
+> - **wasted votes** — votes that elect nobody (all votes for losing candidates, and surplus votes for winners).
+> - **strategic voting** — voting for a likelier winner you can accept instead of your true favourite.
+> - **proportional representation (PR)** — any system where seats match vote shares; **MMP** — mixed-member proportional (riding MPs + top-up seats); **ranked ballot** — ranking candidates 1, 2, 3 instead of one X.
+> - **gerrymandering** (JERR-ee-man-der-ing) — politicians drawing district boundaries to favour themselves (a US problem; Canada uses independent commissions).
+> - **scrutineer** (skroo-tih-NEER) — a party's observer who watches the vote count.
+> - **expatriate** (eks-PAT-ree-ut) — a citizen living abroad.
+> - **brokerage party** — a party that builds broad coalitions across regions/classes rather than serving one ideology.
+> - **kingmaker** — a smaller party whose support decides who governs.
+> - **counterfoil** — the tear-off numbered stub of a ballot (proves the ballot is genuine without identifying you).
+
 ## Concept
 
 A Canadian federal election is **343 separate simultaneous local

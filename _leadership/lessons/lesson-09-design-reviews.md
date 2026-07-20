@@ -10,6 +10,20 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 09: Running Design Reviews
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **design review** — the team examining a proposed design (usually a written doc) before it's built.
+> - **gauntlet** (GAWNT-let) — a punishing trial you must run through ("running the gauntlet").
+> - **gatekeeping** — acting as a barrier whose approval must be won; the adversarial reviewer stance.
+> - **stance** — the attitude you take into an interaction (curious vs gatekeeping).
+> - **bikeshedding** — spending the meeting on trivial details (the bike shed's colour) while ignoring the big questions.
+> - **pile-on** — many people criticizing one person at once.
+> - **steamroller** — a person whose force of opinion flattens all discussion.
+> - **siloed** (SY-lohd) — knowledge trapped in one person or team, like grain in a silo.
+> - **moderate** (verb: MOD-er-ate) — to guide a discussion, keeping it fair and on track.
+> - **overrule** — to use your authority to decide against the group's preference.
+> - **facilitate** (fah-SIL-ih-tate) — to make a discussion work well without dictating its outcome.
+
 ## Concept
 
 A design review can be one of two things: a gauntlet where senior engineers

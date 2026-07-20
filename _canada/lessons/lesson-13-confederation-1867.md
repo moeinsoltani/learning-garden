@@ -10,6 +10,22 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 13: Confederation, 1867
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **Confederation** — in Canada, always means the 1867 union that created the country (capital C).
+> - **Dominion** (duh-MIN-yun) — the invented name for Canada's new status: self-governing but still inside the British Empire.
+> - **statute** (STATCH-oot) — a written law passed by a parliament; **royal assent** — the Crown's formal signature that makes a bill law; **ratify** — to formally approve an agreement.
+> - **federation / federalism** — a system with two levels of government (national + provincial), each supreme in its own areas; **unitary state** — the opposite: one central government only.
+> - **division of powers** — the constitutional lists (s.91 federal, s.92 provincial) saying which level controls what.
+> - **representation by population ("rep-by-pop")** — seats in parliament proportional to population.
+> - **Senate** — the appointed upper chamber; "**sober second thought**" = its job of calmly reviewing the elected House's work.
+> - **denominational schools** (dih-nom-ih-NAY-shun-ul) — schools run by a religious group (Catholic or Protestant).
+> - **tariff** (TAIR-if) — a tax on imported goods; **Reciprocity** (ress-ih-PROSS-ih-tee) — the free-trade treaty with the US that was cancelled.
+> - **Fenians** (FEE-nee-unz) — Irish-American raiders who attacked Canada in 1866 hoping to hurt Britain.
+> - **secessionist** (sih-SESH-un-ist) — someone who wants their region to leave the union.
+> - **euphemism** (YOO-fem-izm) — a soft word chosen to avoid saying something bluntly.
+> - Names: **Macdonald**, **Cartier** (kar-tee-AY), **Charlottetown** (SHAR-lut-town), **Tupper** (TUP-er), **Tilley** (TIL-ee); **bleus/rouges** (BLUH / ROOZH) — Quebec's conservative and liberal parties of the era.
+
 ## Concept
 
 On July 1, 1867, the **British North America Act** united four colonies —

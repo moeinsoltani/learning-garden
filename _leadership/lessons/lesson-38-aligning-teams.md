@@ -10,6 +10,19 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 38: Aligning Teams Around a Direction
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **alignment vs agreement** — actually building compatible things toward one shared understanding vs merely nodding in a meeting (the lesson's core pair).
+> - **silent misalignment** — everyone "agreed" but each understood something different; invisible until the pieces collide.
+> - **memo** — a short written statement of direction, reasoning, and scope; the alignment tool.
+> - **the "say it back" test** — asking people to state the direction in their own words, which exposes divergent interpretations.
+> - **multi-region / active-active / DR** — example jargon from the lesson: running in several data centres / all serving traffic at once / a disaster-recovery backup.
+> - **in/out of scope** — what a direction includes and deliberately excludes.
+> - **drift** — slow unnoticed movement away from the agreed direction.
+> - **cadence** — a regular repeating rhythm (a "re-alignment cadence").
+> - **kickoff** — the meeting that starts an effort.
+> - **rowing the same direction** — everyone's efforts pushing the same way (a boat metaphor).
+
 ## Concept
 
 Getting people to *agree* in a meeting is easy; getting them to stay **aligned** after they leave — so

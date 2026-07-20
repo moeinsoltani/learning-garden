@@ -10,6 +10,19 @@ parent: "Phase 2: Technical Leadership"
 
 # Lesson 07: Architecture Decisions and ADRs
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **ADR (Architecture Decision Record)** — a short document capturing one significant decision: context, choice, consequences.
+> - **superseded** (soo-per-SEE-ded) — replaced by a newer decision (an ADR status).
+> - **one-way / two-way door** — Bezos's terms: an irreversible decision vs one you can walk back; reversibility sets how long you deliberate.
+> - **deliberation** — careful discussion before deciding; the "**deliberation budget**" = how much of it a decision deserves.
+> - **defer** — to postpone a decision on purpose; **interim** — temporary, until the real answer.
+> - **de-risk** — to reduce a decision's risk before committing (by learning more, prototyping).
+> - **disagree and commit** — once a decision is made, everyone executes it fully — including those who argued against it.
+> - **consensus** (kun-SEN-sus) — everyone agreeing; requiring it for everything causes paralysis.
+> - **relitigate** (ree-LIT-ih-gate) — to reopen and re-argue a settled question.
+> - **archaeology** (metaphor) — digging through old code/chats to reconstruct why something was done.
+
 ## Concept
 
 Big technical decisions get made in meetings, Slack threads, and someone's head —

@@ -10,6 +10,19 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 26: Coaching vs Mentoring
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **mentoring** — giving your answer and experience; **coaching** — helping someone find *their own* answer through questions (the lesson's core pair).
+> - **knowledge transfer** — moving facts from one head to another (what mentoring does fast).
+> - **capability / judgment** — the ability to solve *future* problems well (what coaching builds).
+> - **GROW model** — a coaching structure: Goal → Reality → Options → Will (way forward).
+> - **leading question** — a "question" that's really your answer in disguise ("don't you think you should…?"); fake coaching.
+> - **ownership** — feeling that a decision or task is genuinely yours.
+> - **dependence** — the state where the team can't decide without you (what always-mentoring creates).
+> - **intent-based leadership** — Marquet's model: people bring "I intend to do X" instead of "what should I do?"
+> - **onboarding** — the period of learning a new team, codebase, and conventions.
+> - **developmental** — done for the person's growth, not just the task's completion.
+
 ## Concept
 
 When someone brings you a problem, you have two fundamentally different ways to help: **mentor**

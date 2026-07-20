@@ -10,6 +10,21 @@ parent: "Phase 7: The Economy"
 
 # Lesson 41: Working in Canada
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **employment standards** — the legal minimums for wages, hours, vacation, and dismissal.
+> - **at-will employment** — the US rule: fired any time, for (almost) any reason, with zero notice. Does **not** exist in Canada.
+> - **severance / pay in lieu** (in LOO) — money paid instead of working notice when you're dismissed.
+> - **reasonable notice** — the judge-made Canadian right to *months* of notice/pay based on age, tenure, and role — unless a valid contract clause limits it.
+> - **probation** — the initial trial months of a job with minimal protection.
+> - **non-compete / non-solicit** — clauses banning you from joining competitors / from taking clients and colleagues with you.
+> - **union density** — the share of workers in unions; the **Rand formula** — everyone a union contract covers pays dues, member or not.
+> - **credential recognition** — getting your foreign qualifications accepted by a Canadian licensing body; a **bridging program** — training that closes the gap.
+> - **catch-22** — a circular trap: you need X to get Y, but you need Y to get X ("Canadian experience").
+> - **misclassification** — labelling a real employee an independent "contractor" to dodge protections.
+> - **no-fault** — compensation paid without needing to prove anyone was to blame (workers' comp).
+> - **CRS** — the points score ranking Express Entry candidates; **TN / H-1B** — the US work visas Canadian professionals typically use.
+
 ## Concept
 
 The labour market a newcomer or citizen actually navigates — its

@@ -10,6 +10,22 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 19: Between the Wars
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **general strike** — when workers across *all* industries in a place stop work at once; **collective bargaining** — workers negotiating pay as a united group through a union.
+> - **Bolshevism** (BOHL-sheh-vizm) — Russian-revolution communism; in 1919 the establishment's all-purpose scare word.
+> - **sedition / seditious libel** (sih-DISH-un) — the crime of speech that supposedly stirs rebellion against the state.
+> - **magistrate** (MAJ-iss-trate) — a judge in a lower court.
+> - **reference case** — a government asking the courts a legal question directly, without a normal lawsuit.
+> - **Privy Council** (PRIV-ee) — here: the Judicial Committee of the Privy Council in London, then the Empire's highest court of appeal.
+> - **"living tree" doctrine** — the rule that a constitution grows with the times instead of staying frozen at its writing.
+> - **eugenics** (yoo-JEN-iks) — the discredited movement to "improve" the population by controlling who could have children; **sterilization** — surgery making someone unable to reproduce.
+> - **amending formula** — the agreed rules for *who must consent* before a constitution can be changed.
+> - **relief** — 1930s word for welfare payments; **relief camps** — work camps for unemployed single men.
+> - **drought** (DROWT) — a long period without rain; the **Palliser Triangle** (PAL-ih-ser) — the dry prairie region hit hardest.
+> - **manifesto** (man-ih-FESS-toh) — a public declaration of a movement's beliefs and plans.
+> - Names: **Woodsworth** (WOODZ-worth), **McClung** (muh-KLUNG), **Sankey** (SANK-ee), **Aberhart** (AB-er-hart), **Rowell–Sirois** (ROH-el seer-WAH), **CCF** (say the letters) — the socialist party that became today's **NDP**.
+
 ## Concept
 
 Twenty-one years separate the armistices, and in them Canada: won

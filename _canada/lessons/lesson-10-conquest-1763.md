@@ -10,6 +10,20 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 10: The Conquest and Its Bargain
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **conquest** (KON-kwest) — taking a territory by military force; in Quebec, **la Conquête** (lah kon-KET) means the British conquest of 1759–60 specifically.
+> - **assimilate** — to force a people to abandon their language, religion, and customs and become like the rulers.
+> - **cede / cession** (SEED / SESH-un) — to formally give up territory (usually in a treaty).
+> - **capitulate** (kah-PIT-you-late) — to formally surrender.
+> - **proclamation** — an official public announcement by the Crown with the force of law.
+> - **siege / besieged** (SEEJ / bih-SEEJD) — surrounding a city with an army until it surrenders; **musket** — the long gun of the era.
+> - **test oath** — a religious oath that Catholics could not honestly swear, used to shut them out of public office.
+> - **Magna Carta** (MAG-nah KAR-tah) — England's famous 1215 charter limiting the king's power; used here as a metaphor for a foundational rights document.
+> - **casus belli** (KAH-soos BEL-ee) — Latin: an event used to justify starting a war.
+> - **"Intolerable Acts"** — the American colonists' name for the British laws of 1774 they found unacceptable.
+> - Names: **Wolfe** (WOOLF), **Montcalm** (mont-KAHM), **Louisbourg** (LOO-ee-burg), **Guadeloupe** (gwah-duh-LOOP), **Pontiac** (PON-tee-ak), **Odawa** (oh-DAH-wah), **Sainte-Foy** (sant-FWAH), **Voltaire** (vol-TAIR), **Carleton** (KARL-tun).
+
 ## Concept
 
 Fifteen minutes of musket fire on a field outside Quebec City, September 13,

@@ -10,6 +10,20 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 58: Underperformance and PIPs
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **underperformance** — consistently working below the role's expected bar.
+> - **PIP (Performance Improvement Plan)** — a formal written plan with specific goals, a deadline, and support; either a genuine chance or "exit paperwork."
+> - **exit paperwork** — documentation of a departure already decided.
+> - **skill vs will** — can't do it vs won't/doesn't want to; different causes, different responses.
+> - **escalation ladder** — the fair sequence: feedback → clear expectations → support → PIP.
+> - **the bar** — the expected performance level for a role.
+> - **HR** — Human Resources: the department owning formal processes, with legal requirements.
+> - **part ways** — the soft phrase for ending employment.
+> - **with dignity** — handled so the person keeps their self-respect.
+> - **drag on** — to continue unresolved far too long; what avoidance produces.
+> - **false hope** — pretending a predetermined PIP is a real chance — the cruel failure (Lesson 32).
+
 ## Concept
 
 Handling underperformance is the **hardest management duty** — emotionally difficult, high-stakes, and

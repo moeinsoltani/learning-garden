@@ -10,6 +10,19 @@ parent: "Phase 5: 1:1s, Coaching & Mentoring"
 
 # Lesson 25: Listening and Powerful Questions
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **the advice trap** — the urge to give advice the instant you hear a problem, before understanding it.
+> - **presented problem vs real problem** — the surface version someone brings vs the actual issue underneath.
+> - **symptom** — a visible sign of a deeper problem, not the problem itself.
+> - **levels of listening** — 1: waiting to reply; 2: hearing the words; 3: hearing what's underneath.
+> - **powerful question** — a question that makes someone think, not just answer ("what's the real challenge here for you?").
+> - **the AWE question** — "And What Else?" — because the first answer is rarely the whole answer.
+> - **hold the space / tolerate silence** — staying quiet after a question so the person can actually think.
+> - **reflect back / summarize-and-check** — repeating what you heard in your own words and asking if it's right.
+> - **buy in(to)** — to genuinely accept and support a solution (people buy into answers they found themselves).
+> - **tangle** — a knot of mixed-together issues.
+
 ## Concept
 
 The most useful thing a lead can often do is *not* have the answer — it's to **listen deeply and

@@ -10,6 +10,19 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 37: Resolving Conflict
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **task conflict vs relationship conflict** — disagreement about the *work* (healthy) vs personal friction (corrosive).
+> - **corrosive** (kor-ROH-siv) — slowly destructive, like acid on metal.
+> - **positions vs interests** — what people demand ("use Kafka!") vs *why* they want it (from *Getting to Yes*); resolutions live in the interests.
+> - **groupthink** — a team agreeing too easily because nobody challenges anything.
+> - **curdle** — to go bad (like milk); a task disagreement "curdling" into personal resentment.
+> - **mediate / mediator** (MEE-dee-ate) — to help two parties resolve a conflict as a neutral third person.
+> - **neutral** — taking neither side.
+> - **impasse** (IM-pass) — a deadlock no one can move past at the current level.
+> - **escalation as a service** — taking a genuine impasse upward to someone who can decide — responsible, not a failure.
+> - **agree to differ / let it stand** — accepting an unresolved disagreement that doesn't block the work.
+
 ## Concept
 
 Conflict is inevitable on any team — and a lead's job isn't to eliminate it (some conflict is

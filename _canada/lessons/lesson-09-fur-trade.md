@@ -10,6 +10,22 @@ parent: "Phase 2: First Peoples & the Colonial Era"
 
 # Lesson 09: The Fur Trade
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **pelt** — the skin and fur of an animal; **felt** — the smooth fabric made by pressing fur together (best hats were beaver felt).
+> - **charter** — a royal document creating a company and granting it rights; **monopoly** (muh-NOP-uh-lee) — the exclusive legal right to a trade, with no competitors allowed.
+> - **watershed** — all the land whose rivers drain into one body of water; the Hudson Bay watershed = **Rupert's Land**.
+> - **trading post / factor** — a fortified trade station / the company officer who ran it.
+> - **portage** (POR-tij) — carrying canoe and cargo overland between rivers; **brigade** (brih-GADE) — a convoy of canoes travelling together; **rendezvous** (RON-day-voo) — the big annual meeting point.
+> - **pemmican** (PEM-ih-kun) — dried bison meat mixed with fat and berries — the high-energy travel food that fuelled the trade.
+> - **Made Beaver** — the trade's unit of money: the value of one prime beaver pelt.
+> - **middlemen** — traders who buy from producers and resell at a profit, controlling access between the two.
+> - **à la façon du pays** (ah lah fah-SOHN dew pay-EE) — "in the custom of the country": marriages between traders and Indigenous women under Indigenous law.
+> - **kinship** — family relationship; in Indigenous trade culture, being family (by blood or marriage) was the precondition for doing business.
+> - **pidgin** (PIJ-in) — a simplified mixed language used only for basic trade (Michif is *not* one — see Exercise 3).
+> - **dispossession** (dis-poh-ZESH-un) — having your land and property taken away.
+> - Names: **Michif** (mee-SHIF), **Assiniboine** (uh-SIN-ih-boyn), **Saulteaux** (SOH-toh), **Lachine** (lah-SHEEN), **voyageurs** (voy-ah-ZHUR).
+
 ## Concept
 
 For two centuries, Canada's economy *was* a hat supply chain. European

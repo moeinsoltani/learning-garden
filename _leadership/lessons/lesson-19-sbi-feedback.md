@@ -10,6 +10,19 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 19: Feedback That Lands — SBI
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **SBI** — Situation–Behavior–Impact: the feedback structure this lesson teaches.
+> - **behavioral feedback** — feedback about what someone *did*, never about what kind of person they *are*.
+> - **observation vs judgment** — what a camera would have recorded vs your interpretation of their character.
+> - **verdict** — a judgment pronounced on someone, as if by a court.
+> - **to land** (of feedback) — to be actually heard and accepted, not deflected.
+> - **raise shields** — to trigger someone's defenses (a Star Trek metaphor).
+> - **actionable** — concrete enough that the person knows what to change.
+> - **timely** — given soon after the event, while it's fresh.
+> - **ambush** — surprising someone with saved-up criticism they never had a chance to fix.
+> - **feedback ratio** — the balance of recognition to criticism; if your attention only means criticism, feedback becomes a threat.
+
 ## Concept
 
 Feedback is one of a lead's highest-leverage tools — it's how behavior changes, how people

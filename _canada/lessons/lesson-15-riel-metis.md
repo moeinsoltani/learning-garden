@@ -10,6 +10,20 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 15: Riel and the Métis Resistances
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **provisional government** — a temporary government formed to run things until a permanent, recognized one exists.
+> - **high treason** (TREE-zun) — the crime of making war against your own country's Crown; the most serious offence in the law.
+> - **court-martial** (court-MAR-shul) — a military court trial; **the gallows** (GAL-ohz) — the structure used for hanging.
+> - **scrip** (SKRIP) — a paper certificate the government gave Métis people, exchangeable for land or money; most were bought up cheaply by speculators.
+> - **speculator** — someone who buys assets cheaply hoping to resell at profit.
+> - **Orangeman** — a member of the Orange Order, a militantly Protestant, anti-Catholic society powerful in old Ontario.
+> - **amnesty** (AM-nes-tee) — an official pardon for political offences; **exile** — forced absence from your country.
+> - **asylum** (uh-SY-lum) — here: a psychiatric hospital (old usage).
+> - **martyr** (MAR-ter) — someone killed for a cause, honoured by its supporters.
+> - **exonerated** (eg-ZON-er-ay-ted) — officially cleared of guilt; **posthumously** (POSS-chuh-muss-lee) — after death.
+> - Names: **Riel** (ree-EL), **Métis** (may-TEE), **Batoche** (bah-TOSH), **Gabriel Dumont** (doo-MON), **Poundmaker** (Cree: Pîtikwahanapiwiyin), **Mercier** (mair-see-AY), **Assiniboine** (uh-SIN-ih-boyn).
+
 ## Concept
 
 No figure in Canadian history carries more contradictory labels than

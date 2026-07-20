@@ -10,6 +10,19 @@ parent: "Phase 9: Living Canadian"
 
 # Lesson 53: Hockey Nation
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **ambient** — present everywhere in the background, whether or not you engage with it.
+> - **pantheon** (PAN-thee-on) — a culture's set of supreme heroes; **scripture** — used here jokingly: the stories everyone can recite.
+> - **shinny** (SHIN-ee) — informal pickup hockey on an outdoor rink, no referees.
+> - **rep / travel team** — the competitive (expensive) tier of kids' hockey; **house league** — the friendly tier (Lesson 48).
+> - **junior hockey** — the high-level leagues for players 16–20; in small towns, the junior team *is* the town.
+> - **PWHL** — the Professional Women's Hockey League (launched 2024); **CFL / Grey Cup** — Canadian pro football and its November championship.
+> - **curling** — the ice sport of sliding granite stones; sweepers shout "**hurry hard!**"
+> - **chirp** — hockey trash-talk, ideally witty; **gongshow** — chaos (now general slang).
+> - **overtime / sudden death** — extra play where the first goal instantly wins.
+> - Names: **Gretzky** (GRET-skee), **Crosby** (KROZ-bee), **Marie-Philip Poulin** (poo-LAN), **Humboldt** (HUM-bolt — the Saskatchewan town whose junior-team bus crash united the country in grief, 2018), **Foster Hewitt** (HYOO-it — the radio voice of "He shoots, he scores!").
+
 ## Concept
 
 Lesson 46 filed hockey under shared culture; this lesson explains

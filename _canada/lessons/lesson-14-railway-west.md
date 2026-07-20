@@ -10,6 +10,21 @@ parent: "Phase 3: Confederation & Expansion"
 
 # Lesson 14: The Railway and the West
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **transcontinental** — crossing the whole continent, ocean to ocean.
+> - **CPR** — the Canadian Pacific Railway, the company and the line itself; the **Last Spike** — the final nail of the track, driven in 1885.
+> - **syndicate** (SIN-dih-kit) — a group of investors formed to finance one big venture.
+> - **magnate** (MAG-nayt) — a very rich, powerful business person.
+> - **subsidy** (SUB-sih-dee) — government money given to support a private company or activity.
+> - **monopoly clause** — the CPR's legal guarantee that no competing line could be built near it for 20 years.
+> - **Head Tax** — the special entry fee charged only to Chinese immigrants (1885–1923).
+> - **National Policy** — Macdonald's three-part program: protective tariffs + railway + immigration.
+> - **Mounties / NWMP** — the North-West Mounted Police, ancestors of today's RCMP (national police).
+> - **whisky forts** — illegal American trading posts selling alcohol on the plains, which the Mounties were sent to shut down.
+> - **redress** (rih-DRESS) — compensation for a past wrong.
+> - Names: **Craigellachie** (kray-GHEL-ah-kee), **Van Horne** (van HORN), **Guangdong** (gwahng-DONG — a province in southern China), **Batoche** (bah-TOSH), **Fraser Canyon** (FRAY-zer).
+
 ## Concept
 
 In 1867 Canada was four provinces huddled in the east. Within **six years**

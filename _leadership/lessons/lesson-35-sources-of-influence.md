@@ -10,6 +10,19 @@ parent: "Phase 7: Influence Without Authority"
 
 # Lesson 35: Where Influence Actually Comes From
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **influence vs authority** — getting things done through trust and persuasion vs through a title and reporting line.
+> - **credibility** — your track record making people trust your judgment (Lesson 12).
+> - **framing** — presenting an idea in terms of what the *listener* cares about.
+> - **currency** (metaphor) — something you earn and spend; influence is "the leadership currency."
+> - **track record** — your history of delivering and being right.
+> - **reciprocity** (ress-ih-PROSS-ih-tee) — the human tendency to help those who have helped you.
+> - **trust battery** — Shopify's image: each relationship holds a charge that good interactions fill and letdowns drain.
+> - **goodwill** — accumulated positive feeling toward you.
+> - **influence audit** — mapping who really decides something and where you stand with each of them.
+> - **hit a ceiling** — to stop being able to advance.
+
 ## Concept
 
 The higher you go in leadership, the more you get things done through people you *don't* control —

@@ -10,6 +10,20 @@ parent: "Phase 7: The Economy"
 
 # Lesson 37: The Economy at a Glance
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **GDP** — Gross Domestic Product: the total value of everything a country produces in a year; **per capita** (per KAP-ih-tah) — per person.
+> - **G7** — the group of seven big rich democracies (Canada, US, UK, France, Germany, Italy, Japan).
+> - **productivity** — output produced per hour of work; the source of long-run wages.
+> - **services economy** — one where most people work in offices, shops, health, finance — not farms or factories.
+> - **oligopoly** (ol-ih-GOP-uh-lee) — a market controlled by a few big firms (Lesson 04).
+> - **branch plant** — a local factory or subsidiary owned by a foreign parent company, which keeps the head office, research, and profits at home.
+> - **commercialization** — turning research into products and companies that make money.
+> - **multiplier** — the extra economic activity one job or industry generates around it.
+> - **capital** (in economics) — the machines, software, and buildings workers use; "investing in capital" = equipping workers better.
+> - **export account** — what a country sells abroad (can look very different from what its people work at).
+> - **brain drain** — losing your most skilled people to a richer country.
+
 ## Concept
 
 Canada is a **G7 economy of ~41 million people** — roughly the

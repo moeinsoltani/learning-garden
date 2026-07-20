@@ -10,6 +10,19 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 63: Psychological Safety and Culture
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **psychological safety** — the shared belief that it's safe to take *interpersonal risks*: ask, admit mistakes, disagree, raise problems (Amy Edmondson's term).
+> - **interpersonal risk** — an act that could make you look bad to colleagues (a "dumb" question, a confessed mistake).
+> - **Project Aristotle** — Google's study finding psychological safety the #1 predictor of team effectiveness.
+> - **not niceness** — the key correction: safety coexists with high standards; it's honesty without fear, not comfort.
+> - **complacency** — comfortable low standards (safety *without* standards).
+> - **the flinch** — the small visible negative reaction that teaches people not to bring you truth (Lesson 21).
+> - **punishing the messenger** — reacting badly to whoever reports the problem, guaranteeing you stop hearing about problems.
+> - **"culture is what you tolerate"** — culture equals the worst behaviour you allow to continue, not the values poster.
+> - **micro-behaviors** — the small everyday reactions that build or destroy safety.
+> - **safe-to-fail** — designed so failure is survivable and instructive (blameless retros, experiments).
+
 ## Concept
 
 **Psychological safety** — the shared belief that it's safe to take interpersonal risks (ask questions,

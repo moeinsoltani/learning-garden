@@ -10,6 +10,20 @@ parent: "Phase 1: The Land"
 
 # Lesson 02: Physical Regions
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **physical region** — a large area of land defined by its landscape (rock, soil, mountains), not by political borders.
+> - **Canadian Shield** — the huge horseshoe of ancient bare rock around Hudson Bay; "shield" here is a geology term, not a real shield.
+> - **Cordillera** (kor-dih-YAIR-ah) — a system of parallel mountain ranges; **Appalachian** (ap-uh-LAY-chun) — the old, worn-down mountains of the east.
+> - **archipelago** (ar-kih-PEL-ah-go) — a group of many islands.
+> - **igneous rock** (IG-nee-us) — rock formed from cooled molten material; the oldest, hardest kind.
+> - **glacier** (GLAY-sher) — a slow-moving mass of ice; in the ice ages, glaciers covered Canada and scraped the land.
+> - **fertile** — good for growing crops; **eroded** — worn down slowly by wind, water, or ice.
+> - **navigable** (NAV-ih-guh-bul) — deep and calm enough for ships to travel on.
+> - **boreal forest** (BORE-ee-ul) — the belt of northern evergreen forest; **tundra** (TUN-drah) — cold treeless plains; **muskeg** (MUSS-keg) — northern swampy bog.
+> - **permafrost** — ground that stays frozen all year (Lesson 03 covers it fully).
+> - **hydro / hydroelectricity** — electricity made from falling water; Canadians say "hydro" to mean electric power in general.
+
 ## Concept
 
 Canada is not one landscape; it's **seven**, and each one dictated what humans

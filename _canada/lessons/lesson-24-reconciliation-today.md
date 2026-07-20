@@ -10,6 +10,21 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 24: Reconciliation and the Canada of Today
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **reconciliation** (rek-un-sil-ee-AY-shun) — repairing the relationship between Canada and Indigenous peoples: truth first, then redress and structural change.
+> - **White Paper** — a government document proposing a policy (the famous 1969 one proposed abolishing Indian status).
+> - **Aboriginal title** — Indigenous nations' legal ownership-type right to their traditional lands; **duty to consult** — the Crown's obligation to consult nations before acting on their lands.
+> - **class action** — one lawsuit brought on behalf of thousands of people harmed the same way.
+> - **UNDRIP** (UN-drip) — the UN Declaration on the Rights of Indigenous Peoples.
+> - **MMIWG** — Missing and Murdered Indigenous Women and Girls (the national crisis and the 2019 inquiry into it).
+> - **land acknowledgement** — the practice of naming, at the start of an event, whose traditional territory you are on.
+> - **visible minority** — Statistics Canada's term for people who are non-white and non-Indigenous.
+> - **denialism** — refusing to accept well-documented historical facts.
+> - **ground-penetrating radar** — technology that detects disturbed soil (possible graves) without digging.
+> - **special interlocutor** (in-ter-LOK-yoo-ter) — an official appointed to investigate an issue and recommend action.
+> - Names: **Calder** (KAWL-der), **Nisga'a** (NISS-gah), **Tsilhqot'in** (sil-KOH-teen), **Delgamuukw** (del-gah-MOOK), **Oka** (OH-kah), **Kamloops** (KAM-loops), **Mary Simon** — first Indigenous Governor General, an Inuk (EE-nook) from northern Quebec.
+
 ## Concept
 
 Phase 4 ends by bringing two arcs to the present. The first is the

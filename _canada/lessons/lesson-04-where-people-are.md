@@ -10,6 +10,18 @@ parent: "Phase 1: The Land"
 
 # Lesson 04: Where the People Are
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **corridor** — a long narrow strip of connected cities; *the* corridor in Canada = Quebec City to Windsor.
+> - **census** (SEN-sus) — the official government count of the population, done every five years in Canada.
+> - **urbanized** — living in cities rather than the countryside; **metro (metropolitan area)** — a big city plus all its suburbs counted together.
+> - **archipelago** (ar-kih-PEL-ah-go) — a group of islands; used here as a picture of Canada's separated "islands" of settlement.
+> - **oligopoly** (ol-ih-GOP-uh-lee) — a market controlled by only a few big companies (Canada's banks, airlines, telecoms).
+> - **Western alienation** (ay-lee-en-AY-shun) — the long-running feeling in western provinces that federal politics ignores them.
+> - **fly-in community** — a remote settlement with no road at all; reachable only by airplane (or winter ice road).
+> - **riding** — Canadian word for an electoral district (a seat in Parliament).
+> - **Gatineau** (GAT-ih-no) — the Quebec city across the river from Ottawa.
+
 ## Concept
 
 If Lesson 01 gave you the map and Lesson 02 the landforms, this lesson gives

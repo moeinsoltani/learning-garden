@@ -10,6 +10,19 @@ parent: "Phase 4: Feedback & Difficult Conversations"
 
 # Lesson 20: Praise That Lands
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **recognition** — noticing and naming someone's good work; the positive half of feedback.
+> - **calibrated** — adjusted to fit the person and situation (public vs private).
+> - **growth mindset** — believing ability grows through effort; praised by recognizing *process*, not just results.
+> - **attrition** (ah-TRISH-un) — people gradually leaving an organization.
+> - **favoritism** — visibly preferring some people over others.
+> - **pass credit up** — telling *your* boss specifically what *your people* did well, by name.
+> - **hoarding credit** — letting the team's work look like yours.
+> - **unglamorous** — important but unimpressive-looking (data migrations, cleanup).
+> - **reflexive pleasantry** — an automatic nice phrase that means nothing ("great job!").
+> - **normative** — signalling to everyone what behaviour is valued (public praise is normative).
+
 ## Concept
 
 Recognition is half the feedback job — and most leads under-do it or do it badly. "Great job!"

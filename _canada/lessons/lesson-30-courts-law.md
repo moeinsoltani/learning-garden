@@ -10,6 +10,22 @@ parent: "Phase 5: Government & Institutions"
 
 # Lesson 30: Courts and the Law
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **common law** — law built from judges' past decisions (**precedent**, PRESS-ih-dent), England's tradition; **civil law** — law organized in one comprehensive written **code**, France's tradition (Quebec's private law).
+> - **bijural** (by-JOOR-ul) — running both legal traditions in one country, as Canada does.
+> - **tort** (TORT) — a civil wrong (negligence, defamation) you can sue over.
+> - **notary** (NOH-tah-ree) — in Quebec, a distinct legal profession handling property, wills, and contracts.
+> - **tribunal** (try-BYOO-nul) — a specialized, less formal decision-body (landlord–tenant, human rights) where most everyday disputes actually go.
+> - **judicial review** — a court checking whether a government decision or law was legal.
+> - **leave to appeal** — a court's *permission* to bring an appeal (the Supreme Court chooses its cases).
+> - **stay / stayed** (STAY) — a case halted permanently or temporarily (Jordan stays = charges dismissed for delay).
+> - **bail** — release from custody while awaiting trial.
+> - **beyond a reasonable doubt** — the criminal standard of proof: near-certainty, not just "probably guilty."
+> - **sentencing circle** — an Indigenous-tradition process where community members help shape a sentence.
+> - **legal aid** — government-funded lawyers for those who can't pay; **self-represented** — arguing your own case without a lawyer.
+> - Names: ***R.* in case names** = Rex/Regina (Latin: the King/Queen — i.e., the Crown prosecuting), **Gladue** (GLAD-yoo), **Nadon** (nah-DON), **Comeau** (KOH-moh), **O'Bonsawin** (oh-BON-sah-win).
+
 ## Concept
 
 Canada runs on **three legal traditions in one system**: English

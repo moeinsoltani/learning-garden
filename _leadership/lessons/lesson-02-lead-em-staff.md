@@ -10,6 +10,20 @@ parent: "Phase 1: The Transition"
 
 # Lesson 02: Lead vs EM vs Staff — the Tracks
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **EM (Engineering Manager)** — the role that owns people: hiring, reviews, careers.
+> - **Staff / Principal engineer** — senior ranks on the technical (IC) ladder, above Senior, with broad influence but no direct reports.
+> - **direct reports** — the people who formally report to you (you run their reviews).
+> - **dual ladder / dual track** — parallel promotion paths: management track and technical (IC) track, equal in seniority and pay.
+> - **the pendulum** — the career pattern of swinging between manager and IC roles over the years.
+> - **de facto** (deh FAK-toh) — in practice, though not in title ("a de-facto manager").
+> - **accidental manager** — someone doing a manager's job without the title, pay, or support.
+> - **lip service** — claiming to support something without really doing so ("pays lip service to the IC ladder").
+> - **stepping stone** — a role used only as a path to the next one.
+> - **hands-on** — personally doing the technical work (opposite: hands-off).
+> - **people-work** — the human side of leadership: 1:1s, feedback, conflict, careers.
+
 ## Concept
 
 "Moving up" from senior engineer isn't one path — it's a fork with several

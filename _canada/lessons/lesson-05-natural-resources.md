@@ -10,6 +10,20 @@ parent: "Phase 1: The Land"
 
 # Lesson 05: Natural Resources
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **staple** (STAY-pul) — here: a main raw material a region exports (fur, wheat, oil) — not the office staple; the **staples thesis** is the theory that these exports shaped Canada's whole development.
+> - **oil sands** — sand mixed with **bitumen** (BIT-yoo-men), a heavy tar-like form of oil that is hard and expensive to extract.
+> - **potash** (POT-ash) — a mineral used as farm fertilizer; Saskatchewan is the world's biggest producer.
+> - **canola** (kuh-NO-lah) — a yellow-flowered oilseed crop bred in Canada (the name = "Canada + oil").
+> - **royalties** (ROY-ul-teez) — the payment a resource company makes to the government for each barrel/tonne it extracts.
+> - **moratorium** (more-ah-TORE-ee-um) — an official temporary ban (the 1992 cod moratorium never ended).
+> - **boom–bust cycle** — the pattern of resource economies: rich years when world prices are high, painful crashes when they fall.
+> - **equalization** — the federal program that moves money to poorer provinces (Lesson 35).
+> - **nationalized** — taken over by the government from private owners.
+> - **unceded** (un-SEE-ded) — land never given up by treaty (Lesson 06).
+> - Names: **Hydro-Québec** (EE-dro kay-BEK — Quebec's giant public electricity company), **Athabasca** (ath-ah-BASS-kah), **Leduc** (leh-DUKE), **Sudbury** (SUD-ber-ee).
+
 ## Concept
 
 Canada's economic history in one sentence: **a country built by selling what

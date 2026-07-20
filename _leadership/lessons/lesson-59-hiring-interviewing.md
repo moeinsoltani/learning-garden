@@ -10,6 +10,19 @@ parent: "Phase 11: People Management (the EM path)"
 
 # Lesson 59: Hiring and Interviewing
 
+{: .note }
+> **Words to know** *(simple definitions for this lesson's jargon)*
+> - **structured interview** — every candidate gets the same questions, scored against the same rubric.
+> - **rubric** (ROO-brik) — a written scoring guide; **anchored** — with concrete descriptions of what weak/good/strong answers look like.
+> - **vibes / gut feel** — unstructured impressions; feels insightful, predicts poorly.
+> - **work sample** — an exercise resembling the actual job (the best predictor); **brain-teaser** — an abstract puzzle ("how many golf balls fit in a bus") that predicts nothing.
+> - **shadowing** — new interviewers observing experienced ones to learn the bar.
+> - **"culture fit" as mirror test** — rejecting candidates for not resembling you, disguised as fit; the fix is **values fit + culture add**.
+> - **monoculture** — a team of similar people; worse at problems than a diverse one.
+> - **similarity bias** — favouring people like yourself.
+> - **candidate experience** — how the process feels to candidates; your hiring brand.
+> - **above the bar** — good enough to raise the team's average, not just fill the seat.
+
 ## Concept
 
 Hiring is one of the highest-leverage things you do — a great hire multiplies the team, a bad one costs

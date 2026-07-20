@@ -10,6 +10,18 @@ parent: "Phase 4: The World Wars to Modern Canada"
 
 # Lesson 22: Quebec — the Quiet Revolution to the Referendums
 
+{: .note }
+> **Words to know** *(simple definitions + how to say the names)*
+> - **secular / secularize** (SEK-yoo-ler) — not religious / to move something (schools, hospitals) out of religious control; **clerical** — run by the Church.
+> - **patronage** (PAT-run-ij) — handing out government jobs and contracts to political friends.
+> - **nationalize** — for the state to buy or take over private companies (here: the electricity companies → Hydro-Québec).
+> - **sovereignty** (SOV-rin-tee) — here: Quebec becoming an independent country; **sovereignty-association** — independence *plus* a negotiated economic partnership with Canada.
+> - **anglophone / francophone / allophone** (AN-gloh-fone / FRAN-koh-fone / AL-oh-fone) — English-speaker / French-speaker / (in Quebec) someone whose first language is neither.
+> - **CEGEP** (say-ZHEP) — Quebec's free college level between high school and university.
+> - **laïcité** (lah-ee-see-TAY) — French-style strict separation of religion from the state.
+> - **intelligentsia** (in-tel-ih-GENT-see-ah) — a society's intellectual class (writers, artists, academics).
+> - Names & phrases: **Duplessis** (doo-pless-EE), **la Grande Noirceur** (lah grawnd nwahr-SUR — "the Great Darkness"), **Lesage** (luh-SAHZH), **Lévesque** (lay-VEK), **Trudeau** (troo-DOH), **Parti Québécois / PQ** (par-TEE kay-bay-KWAH), **FLQ** (say the letters; in French: ef-el-KEW), **Bouchard** (boo-SHAR), **Parizeau** (pah-ree-ZOH), **"Maîtres chez nous"** (METR shay NOO — "masters in our own house"), **"À la prochaine fois"** (ah lah proh-SHEN FWAH — "until next time"), **épanouissement** (ay-pah-noo-ees-MAWN — "flourishing").
+
 ## Concept
 
 In 1960, Quebec was the most church-run society in the Western world —
