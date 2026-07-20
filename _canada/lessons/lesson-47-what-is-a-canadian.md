@@ -81,7 +81,7 @@ your own.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The regional counterweights (no national answer survives them)
 

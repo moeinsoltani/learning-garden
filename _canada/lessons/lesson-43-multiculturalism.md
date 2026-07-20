@@ -77,7 +77,7 @@ course's standing rule.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### What the policy actually does
 

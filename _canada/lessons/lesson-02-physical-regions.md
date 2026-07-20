@@ -52,7 +52,7 @@ and everything from Confederation politics to house prices follows from that.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The seven regions, and what each one *meant*
 

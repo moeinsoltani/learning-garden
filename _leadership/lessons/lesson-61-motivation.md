@@ -53,7 +53,7 @@ for each person. Motivation is largely about removing the demotivators, per-pers
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Autonomy, mastery, purpose
 

@@ -69,7 +69,7 @@ critical path.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Why hoarding the hard tasks actively harms
 

@@ -54,7 +54,7 @@ deliberately.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The revenue model — how money comes in
 

@@ -36,7 +36,7 @@ someone who did their homework.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The help-request shape
 

@@ -54,7 +54,7 @@ cutting scope — sustainable and credible.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Detect slip early — velocity, not "status: green" lies
 

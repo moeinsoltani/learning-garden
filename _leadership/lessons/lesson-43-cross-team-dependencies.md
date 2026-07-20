@@ -55,7 +55,7 @@ next time.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Dependency contracts — what, when, interface, in writing
 

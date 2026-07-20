@@ -55,7 +55,7 @@ prioritized correctly.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The translation table — technical to business
 

@@ -62,7 +62,7 @@ transition is as much emotional as practical (Lesson 05).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### "Success this week" is redefined
 

@@ -37,7 +37,7 @@ doing = present continuous) doing real work.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The done / doing / blocked shape
 

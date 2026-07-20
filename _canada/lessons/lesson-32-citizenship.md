@@ -67,7 +67,7 @@ relationship (Lesson 17's "we are all treaty people," made oath).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### What citizenship adds to permanent residence
 

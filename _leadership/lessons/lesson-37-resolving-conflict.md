@@ -54,7 +54,7 @@ compatible).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Task conflict vs relationship conflict
 

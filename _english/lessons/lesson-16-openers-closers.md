@@ -35,7 +35,7 @@ feels forced. This lesson teaches both.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Warm openers (that cost almost nothing)
 

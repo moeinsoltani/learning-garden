@@ -52,7 +52,7 @@ exhausting — compounds into large developmental impact.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Review the risk, teach the pattern
 

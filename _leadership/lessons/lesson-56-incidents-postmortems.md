@@ -55,7 +55,7 @@ blameless focus on <em>why the system allowed it</em> is what actually improves 
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Incident command — the lead coordinates, does NOT debug
 

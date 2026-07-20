@@ -54,7 +54,7 @@ stop — permanently.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Power distorts honesty
 

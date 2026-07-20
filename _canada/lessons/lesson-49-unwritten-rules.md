@@ -55,7 +55,7 @@ derive the rest.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The sorry economy
 

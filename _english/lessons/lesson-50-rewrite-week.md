@@ -38,7 +38,7 @@ stick and grow.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Rewriting is how writing improves
 

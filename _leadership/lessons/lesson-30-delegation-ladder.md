@@ -52,7 +52,7 @@ and confidence for that specific work, with a monitoring contract that fits.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Delegate outcomes, not tasks
 

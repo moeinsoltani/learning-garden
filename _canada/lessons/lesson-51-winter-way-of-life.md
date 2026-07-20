@@ -52,7 +52,7 @@ the weather actually bears loads.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The physical curriculum
 

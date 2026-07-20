@@ -38,7 +38,7 @@ these tone signals helps you land as friendly as you intend.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The period that sounds cold in short replies
 

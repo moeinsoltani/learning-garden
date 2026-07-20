@@ -70,7 +70,7 @@ its habit of late apology were both minted.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The war abroad, campaign by campaign
 

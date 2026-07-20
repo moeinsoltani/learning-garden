@@ -38,7 +38,7 @@ don't earn their place, keeping the warmth and meaning.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Cut the filler words
 

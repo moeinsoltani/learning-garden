@@ -57,7 +57,7 @@ velocity and cost, not "the code is ugly."
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Debt is about the future cost, not the aesthetics
 

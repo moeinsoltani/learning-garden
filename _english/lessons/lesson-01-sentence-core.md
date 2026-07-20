@@ -38,7 +38,7 @@ the sentence isn't finished.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Find the subject and the verb
 

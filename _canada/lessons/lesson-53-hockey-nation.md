@@ -51,7 +51,7 @@ elevators screams at televisions in April.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The pipeline (how natives acquire it)
 

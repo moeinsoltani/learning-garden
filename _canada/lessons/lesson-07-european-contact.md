@@ -59,7 +59,7 @@ had ever seen a European.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Norse: proof, not consequence
 

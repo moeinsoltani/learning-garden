@@ -69,7 +69,7 @@ chamber survives in a democracy: it behaves.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Commons: the floor where confidence lives
 

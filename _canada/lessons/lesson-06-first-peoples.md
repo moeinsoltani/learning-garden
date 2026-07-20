@@ -66,7 +66,7 @@ or the treaties without first seeing the nations as *nations*.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The cultural regions (match them to Lesson 02's map)
 

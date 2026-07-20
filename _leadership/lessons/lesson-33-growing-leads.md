@@ -53,7 +53,7 @@ people out, caring about the team, judgment, communication) is different from â€
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Spot lead potential â€” it's not the best coder
 

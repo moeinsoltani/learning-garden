@@ -55,7 +55,7 @@ when you miss.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Interests vs positions — again
 

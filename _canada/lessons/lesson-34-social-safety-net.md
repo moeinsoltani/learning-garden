@@ -74,7 +74,7 @@ where the gaps are is the practical civics of daily life.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Medicare: what the card actually buys
 

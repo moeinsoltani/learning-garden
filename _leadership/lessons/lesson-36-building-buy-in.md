@@ -52,7 +52,7 @@ been built, rather than being a high-stakes gamble.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Socialize the idea 1:1 first — never surprise a decision-maker
 

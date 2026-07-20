@@ -38,7 +38,7 @@ language: getting stuck on a missing word.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Paraphrasing to confirm understanding
 

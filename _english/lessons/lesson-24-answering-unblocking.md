@@ -36,7 +36,7 @@ people want to work with.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Answer the question first
 

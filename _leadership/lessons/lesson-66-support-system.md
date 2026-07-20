@@ -53,7 +53,7 @@ hard parts.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Peer groups — other leads and managers
 

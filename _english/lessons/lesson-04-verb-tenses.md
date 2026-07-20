@@ -38,7 +38,7 @@ present continuous — covered below).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Present simple: facts and habits
 

@@ -61,7 +61,7 @@ strategy about the hard choices — especially **what you won't do**.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Diagnose before you prescribe
 

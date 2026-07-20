@@ -61,7 +61,7 @@ every "essentially Canadian" thing has a build date in this window.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Completing the map: Newfoundland, 1949
 

@@ -54,7 +54,7 @@ people above your current bar.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Structured interviews — same questions, anchored rubrics
 

@@ -63,7 +63,7 @@ side.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Loyalists: refugees of a civil war
 

@@ -64,7 +64,7 @@ pulled short.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Forming a government
 

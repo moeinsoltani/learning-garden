@@ -74,7 +74,7 @@ sovereignist, has ever signed). Both facts are load-bearing.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The 1981 endgame
 

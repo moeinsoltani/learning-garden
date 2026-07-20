@@ -39,7 +39,7 @@ concerns are handled" is what turns clarity into a yes.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Frame the problem in the reader's terms
 

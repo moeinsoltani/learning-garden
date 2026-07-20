@@ -39,7 +39,7 @@ doesn't). The fix: point first, plain words, one layer of politeness.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### English front-loads the point
 

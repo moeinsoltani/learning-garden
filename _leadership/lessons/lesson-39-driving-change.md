@@ -56,7 +56,7 @@ honeymoon (or it reverts).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Resistance is information, not an obstacle
 

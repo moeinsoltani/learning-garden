@@ -53,7 +53,7 @@ surprises — just a summary of feedback already given.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Continuous evaluation, not a review-season scramble
 

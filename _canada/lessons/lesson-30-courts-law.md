@@ -72,7 +72,7 @@ worth understanding precisely because so few countries manage it.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The traditions
 

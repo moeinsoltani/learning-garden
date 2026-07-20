@@ -54,7 +54,7 @@ concepts distinct.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Why estimates fail
 

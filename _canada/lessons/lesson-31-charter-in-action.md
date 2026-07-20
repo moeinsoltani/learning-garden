@@ -76,7 +76,7 @@ the living tree (Lesson 19), planted deliberately.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Oakes test: how s.1 actually runs
 

@@ -36,7 +36,7 @@ produce only more meetings.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Summarize the decisions
 

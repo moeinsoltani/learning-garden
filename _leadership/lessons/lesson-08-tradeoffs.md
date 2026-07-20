@@ -61,7 +61,7 @@ badly because the context wasn't honestly assessed.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Make the trade-off visible
 

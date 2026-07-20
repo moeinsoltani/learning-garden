@@ -33,7 +33,7 @@ between, and match the verb to it.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The distance trap
 

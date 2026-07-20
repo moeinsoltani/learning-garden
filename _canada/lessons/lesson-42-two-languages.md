@@ -67,7 +67,7 @@ genuinely mixed — is this lesson's honest cargo.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### What the Official Languages Act actually requires
 

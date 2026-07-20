@@ -60,7 +60,7 @@ heavy time on the highest-leverage activities and ruthlessly cutting the rest.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### What high-leverage activities actually are
 

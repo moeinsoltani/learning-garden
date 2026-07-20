@@ -52,7 +52,7 @@ like, choose what genuinely energizes you, and know you can re-choose (the pendu
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The real dailies — calendar screenshots, not job descriptions
 

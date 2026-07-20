@@ -67,7 +67,7 @@ nations, one draft**). A citizen of Canada should be able to tell both.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Corps and its reputation
 

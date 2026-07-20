@@ -37,7 +37,7 @@ top-5 list before sending catches the great majority of your errors in seconds.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Your errors are a short, repeating set
 

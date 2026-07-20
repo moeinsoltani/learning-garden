@@ -50,7 +50,7 @@ unimaginable emptiness starting an hour's drive north.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The corridor and the archipelago
 

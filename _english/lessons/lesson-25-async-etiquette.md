@@ -33,7 +33,7 @@ resentment. Following them marks you as a considerate, low-friction colleague.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Use threads
 

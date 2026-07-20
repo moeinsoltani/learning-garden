@@ -33,7 +33,7 @@ have all the answers.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Invite quiet people in — by name, gently
 

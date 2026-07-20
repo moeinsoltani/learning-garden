@@ -37,7 +37,7 @@ speakers whose neutral text can already read as flat.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Engagement markers
 

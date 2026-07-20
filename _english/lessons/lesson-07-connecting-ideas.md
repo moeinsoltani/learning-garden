@@ -36,7 +36,7 @@ just use a period. You rarely go wrong with shorter sentences.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The comma splice and its three fixes
 

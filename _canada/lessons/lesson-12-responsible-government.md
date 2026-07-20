@@ -61,7 +61,7 @@ Canadian part — **the losers' cause won anyway**, peacefully, by 1848.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The rebellions of 1837–38
 

@@ -75,7 +75,7 @@ politics happens.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Why the map looks like this
 

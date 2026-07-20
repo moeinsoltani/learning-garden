@@ -56,7 +56,7 @@ politics in disguise.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The resource map, by province
 

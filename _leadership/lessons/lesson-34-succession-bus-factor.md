@@ -53,7 +53,7 @@ of failure (including your own) is a core responsibility of a lead.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Knowledge mapping — find the bus factor 1s
 

@@ -55,7 +55,7 @@ structure).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Conway's Law — and using it on purpose
 

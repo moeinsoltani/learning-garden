@@ -53,7 +53,7 @@ potluck, the barbecue, and the Tim Hortons run (L.45/50).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The folk canon (know these on sight)
 

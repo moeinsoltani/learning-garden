@@ -53,7 +53,7 @@ being broken by it.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Milestones as risk-retirement, not calendar decoration
 

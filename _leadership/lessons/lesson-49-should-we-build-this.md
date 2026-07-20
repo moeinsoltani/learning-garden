@@ -57,7 +57,7 @@ scarce engineering effort where it creates the most value.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Opportunity cost — the lead's constant lens
 

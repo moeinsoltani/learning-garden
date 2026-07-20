@@ -59,7 +59,7 @@ enforcer.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Which standards are worth having (and which aren't)
 

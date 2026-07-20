@@ -37,7 +37,7 @@ and turn them into a fast, personal check.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Your top-10 candidate errors (from Phase 1)
 

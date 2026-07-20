@@ -64,7 +64,7 @@ real, and always been selective.** The selection criteria change
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Sifton's machine
 

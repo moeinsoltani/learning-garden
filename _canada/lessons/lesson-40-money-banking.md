@@ -72,7 +72,7 @@ braids them.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Bank of Canada: how the 2% machine works
 

@@ -37,7 +37,7 @@ this and your longer writing stops feeling like disconnected fragments and start
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### One idea per paragraph
 

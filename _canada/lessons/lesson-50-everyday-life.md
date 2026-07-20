@@ -57,7 +57,7 @@ five oddities and you read as local.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Money at street level
 

@@ -37,7 +37,7 @@ good, and be specific about the concern. Clear + warm is the goal for every comm
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Written comments read harsher — add warmth
 

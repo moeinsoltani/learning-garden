@@ -55,7 +55,7 @@ people who can solve problems themselves — which is how your impact scales.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The distinction, and why it matters
 

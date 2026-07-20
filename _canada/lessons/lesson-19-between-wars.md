@@ -62,7 +62,7 @@ by suffering.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Winnipeg, 1919: six weeks that named the sides
 

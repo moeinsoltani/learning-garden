@@ -36,7 +36,7 @@ constantly and the errors are noticeable.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### do vs make
 

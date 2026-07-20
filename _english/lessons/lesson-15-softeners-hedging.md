@@ -38,7 +38,7 @@ them (to warm up blunt statements) and knowing the limit (so you don't disappear
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The softener toolkit
 

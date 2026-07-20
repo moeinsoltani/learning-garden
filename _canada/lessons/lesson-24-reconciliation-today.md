@@ -71,7 +71,7 @@ questions.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### From White Paper to Calls to Action
 

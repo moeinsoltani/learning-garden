@@ -38,7 +38,7 @@ processing time you sometimes need, without awkwardness.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Acknowledge-and-think phrases
 

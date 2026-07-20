@@ -55,7 +55,7 @@ stays frozen (permafrost).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The climate bands that matter
 

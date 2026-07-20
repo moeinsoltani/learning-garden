@@ -38,7 +38,7 @@ speak up more.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Getting a word in
 

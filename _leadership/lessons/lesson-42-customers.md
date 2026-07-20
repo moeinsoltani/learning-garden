@@ -53,7 +53,7 @@ requests) into what engineering should actually do.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Direct customer exposure for engineers
 

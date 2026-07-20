@@ -54,7 +54,7 @@ document, a Slack update, or nothing at all.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### No agenda, no meeting
 

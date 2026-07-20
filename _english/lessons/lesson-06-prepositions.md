@@ -34,7 +34,7 @@ avoid: adding *to* where English drops it (or dropping it where English needs it
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Time: in / on / at
 

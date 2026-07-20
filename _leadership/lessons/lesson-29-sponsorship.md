@@ -53,7 +53,7 @@ one of the most powerful and overlooked ways a lead grows people.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Sponsorship acts — it doesn't just advise
 

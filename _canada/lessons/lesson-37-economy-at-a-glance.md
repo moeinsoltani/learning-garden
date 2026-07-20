@@ -70,7 +70,7 @@ through this whole phase.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The real proportions
 

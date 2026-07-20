@@ -38,7 +38,7 @@ maintenance notice is calm; an incident is focused and serious but not panicked)
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The announcement structure
 

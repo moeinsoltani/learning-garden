@@ -39,7 +39,7 @@ English; you need clear, simple English, which you can absolutely write.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Prefer the simple word
 

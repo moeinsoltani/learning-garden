@@ -37,7 +37,7 @@ powerful move.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### It's about warmth, not wit
 

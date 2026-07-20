@@ -36,7 +36,7 @@ seconds to compose it.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The four-beat structure
 

@@ -52,7 +52,7 @@ more than talking, and holding it as non-negotiable is what unlocks its leverage
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### It's *their* meeting
 

@@ -58,7 +58,7 @@ lesson is the leadership *judgment*.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### When async beats sync
 

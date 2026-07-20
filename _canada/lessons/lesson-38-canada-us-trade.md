@@ -66,7 +66,7 @@ structural.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### What actually crosses the border
 

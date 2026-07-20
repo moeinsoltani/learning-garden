@@ -38,7 +38,7 @@ solve the problem. Staying calm yourself is the foundation of all of it.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Stay calm — your calm is contagious
 

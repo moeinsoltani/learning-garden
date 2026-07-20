@@ -68,7 +68,7 @@ raise.)
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The taxes you'll actually meet
 

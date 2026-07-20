@@ -52,7 +52,7 @@ convey the *essential reality* in a form they can reason with.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Quantify in their units
 

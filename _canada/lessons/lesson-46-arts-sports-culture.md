@@ -70,7 +70,7 @@ most cheerful example).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Hockey: the shared church (attendance mandatory-ish)
 

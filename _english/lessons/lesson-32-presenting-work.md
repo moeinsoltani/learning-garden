@@ -40,7 +40,7 @@ actually need, far more than polish.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Lead with the point (BLUF)
 

@@ -71,7 +71,10 @@ parent: "Phase N: Name"
 Then immediately after front matter:
 - **Home button**: `[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }` (Just the Docs button style, uses Jekyll relative_url so it works under /learning-garden/ baseurl)
 - **Concept** — mental model, analogy, ASCII diagram
-- **How it works** — mechanics (brief, focused on "why")
+- **How It Works** — mechanics (brief, focused on "why"). *In the non-terminal
+  tracks (canada, leadership, english) this section is titled **Going Deeper**
+  instead, since "how it works" reads oddly over history/advice content — see the
+  Lab-variants note below.*
 - **Lab** — exact commands with expected output (`$` = run this, `#` = comment)
 - **Checkpoint** — each question has:
   1. `**Your answer:**` blank field for the student
@@ -81,8 +84,12 @@ Then immediately after front matter:
 Model answers must always be written — never leave a checkpoint or homework without one.
 
 ### Lab variants for the non-terminal tracks
-The `leadership` and `english` tracks keep the same section names and hidden-answer
-format, but their **Lab** is not terminal commands:
+The `leadership` and `english` tracks keep the same hidden-answer format, but their
+**Lab** is not terminal commands. Two section-name differences apply across all three
+non-terminal tracks (canada, leadership, english): the second section is titled
+**Going Deeper** (not "How It Works"), and — in canada and leadership — every lesson
+opens with a `{: .note }` **"Words to know"** callout (plain-English definitions +
+pronunciations) immediately after the H1, before Concept. The Lab specifics:
 - **Leadership** — a realistic scenario ("your PM promised a date you can't hit");
   the student writes their response (`**Your response:**` field), then reveals a
   model answer explaining the reasoning, common mistakes, and useful phrasing.

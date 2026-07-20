@@ -70,7 +70,7 @@ both belonging in your literate vocabulary.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Nations rebuilding: the government layer
 

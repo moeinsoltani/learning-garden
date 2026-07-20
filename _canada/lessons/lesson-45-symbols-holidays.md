@@ -72,7 +72,7 @@ verdict). Reading the calendar *is* reading the country.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The calendar, decoded
 

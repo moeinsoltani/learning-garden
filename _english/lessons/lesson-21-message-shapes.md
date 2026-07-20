@@ -36,7 +36,7 @@ makes it scannable.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Ask first, context second
 

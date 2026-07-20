@@ -40,7 +40,7 @@ tests of a leader.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Deliver it early — the moment you know
 

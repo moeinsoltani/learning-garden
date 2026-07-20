@@ -53,7 +53,7 @@ solving the real problem beats expertly solving the wrong one.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Levels of listening
 

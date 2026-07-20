@@ -39,7 +39,7 @@ and genuine care — is how feedback helps rather than hurts.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Separate behavior from character
 

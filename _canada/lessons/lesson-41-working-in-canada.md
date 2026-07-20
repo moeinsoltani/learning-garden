@@ -75,7 +75,7 @@ still-unsolved defects.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The rules that surprise newcomers (both directions)
 

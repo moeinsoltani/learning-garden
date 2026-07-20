@@ -53,7 +53,7 @@ never just geography; it's always also a compromise.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The thirteen pieces
 

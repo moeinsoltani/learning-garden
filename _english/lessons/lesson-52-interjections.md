@@ -36,7 +36,7 @@ state of mind before the content even starts — that's a lot of warmth for thre
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The work set, grouped by what they signal
 

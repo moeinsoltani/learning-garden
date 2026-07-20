@@ -53,7 +53,7 @@ on growth, the manager, and the mission, so the close is about genuinely address
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The debrief — evidence before opinions
 

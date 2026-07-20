@@ -54,7 +54,7 @@ words) before it causes collisions.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Alignment ≠ agreement
 

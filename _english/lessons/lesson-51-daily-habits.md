@@ -38,7 +38,7 @@ time. That's how this becomes permanent.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Attach habits to things you already do
 

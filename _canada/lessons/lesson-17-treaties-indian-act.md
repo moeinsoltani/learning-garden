@@ -82,7 +82,7 @@ enforce their real meaning is the spine of Lesson 44.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Numbered Treaties: one text, two understandings
 

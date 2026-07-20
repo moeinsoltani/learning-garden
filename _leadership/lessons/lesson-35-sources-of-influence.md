@@ -55,7 +55,7 @@ continuous.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Credibility — your track record
 

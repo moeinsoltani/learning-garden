@@ -34,7 +34,7 @@ the reader knows which — use **the**.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### First mention *a*, later mentions *the*
 

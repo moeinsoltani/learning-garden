@@ -36,7 +36,7 @@ disagreement lands as a difference of views between colleagues, not an attack.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Acknowledge, then differ
 

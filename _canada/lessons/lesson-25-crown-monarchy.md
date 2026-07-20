@@ -66,7 +66,7 @@ confidence of the elected House rules.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The pieces
 

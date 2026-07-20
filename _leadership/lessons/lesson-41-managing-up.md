@@ -54,7 +54,7 @@ your manager from *you*, early, never as a surprise (especially in front of thei
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### No surprises — the cardinal rule
 

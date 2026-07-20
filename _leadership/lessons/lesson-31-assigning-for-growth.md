@@ -53,7 +53,7 @@ and growth; you can't only do one.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The fastest-person trap
 

@@ -50,7 +50,7 @@ makes recognition motivating and real. It's SBI (Lesson 19) applied to the posit
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Specific beats generic
 

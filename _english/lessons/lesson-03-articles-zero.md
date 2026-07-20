@@ -34,7 +34,7 @@ uncountable** — you can't put *a* in front of them or make them plural
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### General statements: no article
 

@@ -38,7 +38,7 @@ and scannable, and frees you to focus on the content instead of the shape.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Start with a summary / TL;DR
 

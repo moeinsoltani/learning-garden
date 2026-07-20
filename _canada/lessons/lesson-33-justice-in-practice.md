@@ -64,7 +64,7 @@ belong in the manual.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Your rights on arrest or detention (the s.10 script)
 

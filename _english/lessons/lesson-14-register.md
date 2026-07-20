@@ -39,7 +39,7 @@ the context.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The three registers and what shifts between them
 

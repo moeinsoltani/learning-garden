@@ -64,7 +64,7 @@ wrong.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Where your sense of progress goes — and how to get it back
 

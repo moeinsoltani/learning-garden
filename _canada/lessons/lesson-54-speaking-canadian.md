@@ -51,7 +51,7 @@ just speaking English in Canada; you're speaking Canadian.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The core lexicon (deploy immediately)
 

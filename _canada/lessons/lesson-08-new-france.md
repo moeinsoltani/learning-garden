@@ -68,7 +68,7 @@ Lesson 10, set up a century in advance.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Champlain and the founding bargain
 

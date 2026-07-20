@@ -39,7 +39,7 @@ your spoken English.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Contractions make speech warm and natural
 

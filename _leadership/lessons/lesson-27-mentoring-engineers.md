@@ -55,7 +55,7 @@ stretches deliberately, not hope growth happens on its own.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Scaffolding: stretch + safety net
 

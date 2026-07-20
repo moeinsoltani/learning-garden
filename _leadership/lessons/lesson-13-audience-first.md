@@ -59,7 +59,7 @@ five other things means it gets lost).
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The curse of knowledge
 

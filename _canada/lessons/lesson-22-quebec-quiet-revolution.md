@@ -72,7 +72,7 @@ both men's answers.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The Quiet Revolution: the state replaces the Church
 

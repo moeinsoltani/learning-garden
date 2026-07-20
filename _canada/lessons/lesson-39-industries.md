@@ -71,7 +71,7 @@ repeat the arc.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Energy: the superpower with a plumbing problem
 

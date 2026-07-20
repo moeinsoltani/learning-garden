@@ -37,7 +37,7 @@ which is the single most useful thing a meeting can make obvious up front.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The agenda (sent ahead)
 

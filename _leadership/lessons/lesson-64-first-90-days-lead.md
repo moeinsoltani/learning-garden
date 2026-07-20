@@ -53,7 +53,7 @@ charge.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Listen first — the ~30-day no-big-changes period
 

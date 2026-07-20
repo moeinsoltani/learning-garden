@@ -36,7 +36,7 @@ misunderstanding.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Ask to repeat — blamelessly
 

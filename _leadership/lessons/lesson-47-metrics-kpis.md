@@ -55,7 +55,7 @@ to judgment, not replacements for it.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### North-star vs input metrics
 

@@ -51,7 +51,7 @@ early) rather than doing the easy parts first and hitting the fatal risk late.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The pre-mortem — imagine you already failed
 

@@ -39,7 +39,7 @@ down.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Explain the *why*, not just the *what*
 

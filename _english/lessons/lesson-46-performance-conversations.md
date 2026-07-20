@@ -41,7 +41,7 @@ the truth *and* that you're on their side.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Be direct — don't bury the message
 

@@ -67,7 +67,7 @@ discount.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Voting, three ways (and the turnout ladder)
 

@@ -53,7 +53,7 @@ settle ("name it to tame it"), and *only then* can useful problem-solving happen
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Name it to tame it
 

@@ -53,7 +53,7 @@ what keeps dependencies from being the reason you slip.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Map the critical path
 

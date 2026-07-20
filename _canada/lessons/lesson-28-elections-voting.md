@@ -63,7 +63,7 @@ correctly.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The mechanics of voting
 

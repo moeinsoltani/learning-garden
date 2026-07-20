@@ -54,7 +54,7 @@ deliberately as things change, rather than defaulting to either extreme.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### It scales inversely with role scope
 

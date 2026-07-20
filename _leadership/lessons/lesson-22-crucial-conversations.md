@@ -55,7 +55,7 @@ not winning the argument — is the core skill.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Silence and violence — the two failure modes
 

@@ -54,7 +54,7 @@ behavior — culture is built (or destroyed) in the small everyday moments.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### What psychological safety is — and isn't
 

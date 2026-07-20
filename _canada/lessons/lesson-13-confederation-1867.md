@@ -68,7 +68,7 @@ option*.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The road: three conferences
 

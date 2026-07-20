@@ -59,7 +59,7 @@ write the ADR. Matching deliberation to reversibility is a core leadership skill
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Reversible vs one-way doors
 

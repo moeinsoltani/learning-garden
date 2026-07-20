@@ -56,7 +56,7 @@ to parting ways — doing it with dignity.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Diagnose first — why is the person underperforming?
 

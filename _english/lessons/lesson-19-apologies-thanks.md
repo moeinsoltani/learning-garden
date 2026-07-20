@@ -37,7 +37,7 @@ gets tiring; genuine, specific thanks builds warmth and relationships.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Apologize only for real mistakes, sized right
 

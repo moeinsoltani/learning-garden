@@ -62,7 +62,7 @@ Phase 2.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The war and the fifteen minutes
 

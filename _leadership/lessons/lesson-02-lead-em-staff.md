@@ -63,7 +63,7 @@ role-expectations conversation explicitly — is the point of this lesson.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The three roles, concretely
 

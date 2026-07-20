@@ -37,7 +37,7 @@ complete in itself. Nailing this is a skill worth deliberate practice.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Write for someone who reads only the summary
 

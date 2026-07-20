@@ -58,7 +58,7 @@ that everyone does and nobody thinks of as rituals.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### School, the shared operating system
 

@@ -52,7 +52,7 @@ the right thing.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The triad and healthy tension
 

@@ -49,7 +49,7 @@ the reliable structure that keeps feedback behavioral, and it's a skill you can 
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Observation, not judgment
 

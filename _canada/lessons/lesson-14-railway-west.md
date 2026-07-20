@@ -69,7 +69,7 @@ of dispossession, in one artifact.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Buying a third of a continent
 

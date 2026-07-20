@@ -55,7 +55,7 @@ that drive decisions.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The structure follows the reader's reasoning
 

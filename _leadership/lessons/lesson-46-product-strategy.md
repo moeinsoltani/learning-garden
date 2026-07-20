@@ -52,7 +52,7 @@ request.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Jobs-to-be-done — the underlying need
 

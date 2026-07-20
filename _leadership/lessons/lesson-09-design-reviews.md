@@ -57,7 +57,7 @@ overrule when needed.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The reviewer's stance: curious, not gatekeeping
 

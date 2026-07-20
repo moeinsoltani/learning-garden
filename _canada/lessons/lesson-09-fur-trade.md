@@ -64,7 +64,7 @@ and set the protocols (gift exchange, kinship) under which trade happened.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Two rival systems
 

@@ -54,7 +54,7 @@ directly and honestly — rather than pretending nothing changed — is what mak
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### The peer-to-boss transition — renegotiate every relationship
 

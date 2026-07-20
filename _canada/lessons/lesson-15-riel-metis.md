@@ -70,7 +70,7 @@ transferred, surveyed, and settled without being asked?
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Red River, 1869–70: resistance that worked
 

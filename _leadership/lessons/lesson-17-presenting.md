@@ -58,7 +58,7 @@ number, an image), while you deliver the narrative.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Story shape holds attention
 

@@ -53,7 +53,7 @@ requesters trusting you even when you decline them.
 
 ---
 
-## How It Works
+## Going Deeper
 
 ### Making prioritization visible — the one ranked list
 
