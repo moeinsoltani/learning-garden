@@ -1,6 +1,6 @@
 # CLAUDE.md — Linux Systems Learning Project
 
-This repo hosts **eight independent learning tracks** on one Just the Docs site:
+This repo hosts **nine independent learning tracks** on one Just the Docs site:
 - **Networking** — in the `_networking/` collection
 - **Virtualization (QEMU/KVM)** — in the `_virtualization/` collection
 - **Security & Identity** — in the `_security/` collection
@@ -9,6 +9,7 @@ This repo hosts **eight independent learning tracks** on one Just the Docs site:
 - **English for Work** — in the `_english/` collection (rewrite-drill labs, no terminal)
 - **Canada: History & Civics** — in the `_canada/` collection (source & scenario labs, no terminal)
 - **Trees & Birds of Canada** — in the `_nature/` collection (image-heavy, look-and-identify labs, no terminal)
+- **Family & Parenthood** — in the `_family/` collection (warm life-stage guides, no terminal; general health *education*, not medical advice — every lesson carries an `{: .important }` "not a doctor" disclaimer)
 
 ## Student Profile
 - Linux experience: was a beginner; has now completed the networking, virtualization,
@@ -20,7 +21,7 @@ This repo hosts **eight independent learning tracks** on one Just the Docs site:
 - Use the Linux VM for labs (WSL2 as fallback for early lessons)
 
 ## Repository Structure
-The site is split into eight Jekyll collections, each its own nav section:
+The site is split into nine Jekyll collections, each its own nav section:
 ```
 index.md                         # landing page / track chooser (nav_order 1, site root)
 lab-setup.md                     # environment prep + how-to-study guide (nav_order 2, site root)
@@ -33,9 +34,10 @@ _leadership/
 _english/
 _canada/
 _nature/
+_family/
 ```
 - `<track>` below means `networking`, `virtualization`, `security`, `os`,
-  `leadership`, `english`, `canada`, or `nature`.
+  `leadership`, `english`, `canada`, `nature`, or `family`.
 - A page's URL is `/<track>/lessons/<file>.html` (collection permalink keeps the
   `lessons/` path so relative `(lesson-NN-...)` links between phase and lesson
   pages resolve).
@@ -51,7 +53,7 @@ For each lesson:
 
 ## Site Theme
 - Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
-- Config: `_config.yml` — defines all eight collections and their nav names under
+- Config: `_config.yml` — defines all nine collections and their nav names under
   `just_the_docs.collections`. Do not change the theme or collection setup without
   updating this file.
 - Phase parent pages live in `_<track>/lessons/phase-NN-name.md` with `has_children: true`

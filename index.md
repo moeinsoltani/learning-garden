@@ -85,6 +85,15 @@ Built around real photographs; labs are look-and-identify exercises.
 
 [Trees & Birds learning plan]({{ '/nature/learning-plan.html' | relative_url }}){: .btn .btn-primary }
 
+### 👶 Family & Parenthood
+
+Warm, practical guides for big life steps — starting with planning for a baby:
+what to know and do before pregnancy, during the nine months, and after delivery,
+for both partners. General, evidence-based education (not a substitute for your
+own doctor).
+
+[Family & Parenthood learning plan]({{ '/family/learning-plan.html' | relative_url }}){: .btn .btn-primary }
+
 ---
 
 {: .note }

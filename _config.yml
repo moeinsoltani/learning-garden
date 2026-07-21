@@ -65,6 +65,9 @@ collections:
   nature:
     permalink: "/:collection/:path:output_ext"
     output: true
+  family:
+    permalink: "/:collection/:path:output_ext"
+    output: true
 
 just_the_docs:
   collections:
@@ -91,6 +94,9 @@ just_the_docs:
       nav_fold: true
     nature:
       name: "Trees & Birds of Canada"
+      nav_fold: true
+    family:
+      name: "Family & Parenthood"
       nav_fold: true
 
 exclude:
