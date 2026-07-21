@@ -1,5 +1,5 @@
-title: Linux Systems Learning Journal
-description: Practical Linux systems — networking, virtualization, and security & identity, hands-on
+title: Learning Garden
+description: A hands-on learning journal — Linux systems, engineering leadership, English, Canada, and the trees & birds of Canada
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 baseurl: "/learning-garden"
@@ -11,7 +11,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Linux Systems Learning Journal"
+footer_content: "Learning Garden"
 
 # Callout blocks used throughout the lessons ({: .note } etc.). Just the Docs
 # only styles callouts that are declared here — without this block they render
@@ -62,6 +62,9 @@ collections:
   canada:
     permalink: "/:collection/:path:output_ext"
     output: true
+  nature:
+    permalink: "/:collection/:path:output_ext"
+    output: true
 
 just_the_docs:
   collections:
@@ -85,6 +88,9 @@ just_the_docs:
       nav_fold: true
     canada:
       name: "Canada: History & Civics"
+      nav_fold: true
+    nature:
+      name: "Trees & Birds of Canada"
       nav_fold: true
 
 exclude:

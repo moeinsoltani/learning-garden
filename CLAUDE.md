@@ -1,6 +1,6 @@
 # CLAUDE.md — Linux Systems Learning Project
 
-This repo hosts **seven independent learning tracks** on one Just the Docs site:
+This repo hosts **eight independent learning tracks** on one Just the Docs site:
 - **Networking** — in the `_networking/` collection
 - **Virtualization (QEMU/KVM)** — in the `_virtualization/` collection
 - **Security & Identity** — in the `_security/` collection
@@ -8,6 +8,7 @@ This repo hosts **seven independent learning tracks** on one Just the Docs site:
 - **Engineering Leadership** — in the `_leadership/` collection (scenario labs, no terminal)
 - **English for Work** — in the `_english/` collection (rewrite-drill labs, no terminal)
 - **Canada: History & Civics** — in the `_canada/` collection (source & scenario labs, no terminal)
+- **Trees & Birds of Canada** — in the `_nature/` collection (image-heavy, look-and-identify labs, no terminal)
 
 ## Student Profile
 - Linux experience: was a beginner; has now completed the networking, virtualization,
@@ -19,7 +20,7 @@ This repo hosts **seven independent learning tracks** on one Just the Docs site:
 - Use the Linux VM for labs (WSL2 as fallback for early lessons)
 
 ## Repository Structure
-The site is split into seven Jekyll collections, each its own nav section:
+The site is split into eight Jekyll collections, each its own nav section:
 ```
 index.md                         # landing page / track chooser (nav_order 1, site root)
 lab-setup.md                     # environment prep + how-to-study guide (nav_order 2, site root)
@@ -31,9 +32,10 @@ _os/
 _leadership/
 _english/
 _canada/
+_nature/
 ```
 - `<track>` below means `networking`, `virtualization`, `security`, `os`,
-  `leadership`, `english`, or `canada`.
+  `leadership`, `english`, `canada`, or `nature`.
 - A page's URL is `/<track>/lessons/<file>.html` (collection permalink keeps the
   `lessons/` path so relative `(lesson-NN-...)` links between phase and lesson
   pages resolve).
@@ -49,7 +51,7 @@ For each lesson:
 
 ## Site Theme
 - Theme: **Just the Docs** (dark color scheme) via `remote_theme: just-the-docs/just-the-docs@v0.10.0`
-- Config: `_config.yml` — defines all seven collections and their nav names under
+- Config: `_config.yml` — defines all eight collections and their nav names under
   `just_the_docs.collections`. Do not change the theme or collection setup without
   updating this file.
 - Phase parent pages live in `_<track>/lessons/phase-NN-name.md` with `has_children: true`
@@ -72,9 +74,9 @@ Then immediately after front matter:
 - **Home button**: `[← Home]({{ '/' | relative_url }}){: .btn .btn-outline }` (Just the Docs button style, uses Jekyll relative_url so it works under /learning-garden/ baseurl)
 - **Concept** — mental model, analogy, ASCII diagram
 - **How It Works** — mechanics (brief, focused on "why"). *In the non-terminal
-  tracks (canada, leadership, english) this section is titled **Going Deeper**
-  instead, since "how it works" reads oddly over history/advice content — see the
-  Lab-variants note below.*
+  tracks (canada, leadership, english, nature) this section is titled **Going
+  Deeper** instead, since "how it works" reads oddly over history/advice/nature
+  content — see the Lab-variants note below.*
 - **Lab** — exact commands with expected output (`$` = run this, `#` = comment)
 - **Checkpoint** — each question has:
   1. `**Your answer:**` blank field for the student
@@ -84,12 +86,13 @@ Then immediately after front matter:
 Model answers must always be written — never leave a checkpoint or homework without one.
 
 ### Lab variants for the non-terminal tracks
-The `leadership` and `english` tracks keep the same hidden-answer format, but their
-**Lab** is not terminal commands. Two section-name differences apply across all three
-non-terminal tracks (canada, leadership, english): the second section is titled
-**Going Deeper** (not "How It Works"), and — in canada and leadership — every lesson
-opens with a `{: .note }` **"Words to know"** callout (plain-English definitions +
-pronunciations) immediately after the H1, before Concept. The Lab specifics:
+The `leadership`, `english`, `canada`, and `nature` tracks keep the same
+hidden-answer format, but their **Lab** is not terminal commands. Two section-name
+differences apply across all four non-terminal tracks (canada, leadership, english,
+nature): the second section is titled **Going Deeper** (not "How It Works"), and —
+in canada, leadership, and nature — every lesson opens with a `{: .note }`
+**"Words to know"** callout (plain-English definitions + pronunciations)
+immediately after the H1, before Concept. The Lab specifics:
 - **Leadership** — a realistic scenario ("your PM promised a date you can't hit");
   the student writes their response (`**Your response:**` field), then reveals a
   model answer explaining the reasoning, common mistakes, and useful phrasing.
@@ -101,10 +104,18 @@ pronunciations) immediately after the H1, before Concept. The Lab specifics:
   newcomer friend…"), with `**Your answer:**` fields and hidden model answers.
   Checkpoints are citizenship-test-style factual questions so the track doubles
   as citizenship-test prep.
+- **Nature (Trees & Birds)** — a **Lab — Look & Identify**: photo-and-scenario
+  exercises where the student reads or is shown a tree/bird/scene and identifies
+  it or explains it to a friend (`**Your answer:**` / `**Your response:**` fields,
+  hidden model answers). The track is **image-first**: most lessons embed several
+  real Wikimedia Commons photographs (see the Nature image convention below).
+  Checkpoints are factual ID questions; the capstone (Lesson 16) ends with a
+  cumulative 20-question final quiz.
 - Further Reading for these tracks cites books/articles (The Manager's Path,
   StaffEng, LeadDev, style guides; for Canada: Discover Canada, The Canadian
-  Encyclopedia at thecanadianencyclopedia.ca, canada.ca, Wikipedia) instead of
-  man pages; only link URLs certain to exist.
+  Encyclopedia at thecanadianencyclopedia.ca, canada.ca, Wikipedia; for Nature:
+  Wikipedia species pages, Merlin/iNaturalist/eBird, the ABA code of ethics)
+  instead of man pages; only link URLs certain to exist.
 
 ## Handling Student Questions
 When the student asks a question about a term or concept from a lesson:
@@ -137,6 +148,7 @@ Each track has its own plan; **always consult the relevant one before creating a
 - Engineering Leadership: `_leadership/learning-plan.md`
 - English for Work: `_english/learning-plan.md`
 - Canada: History & Civics: `_canada/learning-plan.md`
+- Trees & Birds of Canada: `_nature/learning-plan.md`
 
 ## Networking Lesson Index
 - Lesson 01: `_networking/lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
@@ -391,3 +403,35 @@ before `## Concept` — simple one-line definitions for technical/historical ter
 easy-respelling pronunciations (e.g., "Inuit (say: IN-oo-it)", "Métis (may-TEE)") for
 Indigenous, French, and other specific names. Keep this box when editing lessons, and add
 one to any future Canada lesson.
+
+## Trees & Birds of Canada Lesson Index
+Phase parent pages live at `_nature/lessons/phase-NN-name.md`. File paths follow
+`_nature/lessons/lesson-NN-<slug>.md`. Labs are **Look & Identify** photo-and-scenario
+exercises (see Lab variants). This is the **image-first** track. Mark each ✓ as its file lands.
+- Phase 1 — Learning to Look: 01 why-watch ✓, 02 identifying-trees ✓, 03 identifying-birds ✓, 04 tools-and-ethics ✓
+- Phase 2 — Trees of Canada: 05 conifers ✓, 06 maples ✓, 07 broadleaf ✓, 08 provincial-trees ✓, 09 forest-regions ✓
+- Phase 3 — Birds of Canada: 10 backyard-birds ✓, 11 water-birds ✓, 12 raptors ✓, 13 forest-birds ✓, 14 iconic-birds ✓
+- Phase 4 — Seasons, Habitats & Field Skills: 15 seasons-migration ✓, 16 capstone-walk ✓
+
+*(Trees & Birds track complete — lessons 01–16 all written across 4 phases. Update this
+index if lessons change. Lesson 16 is the capstone: a "read the scene" walk plus a
+cumulative 20-question final quiz. Cross-links: forest regions ↔ Canada Lesson 02 physical
+regions / 03 climate-north; iconic species (loon, maple, snowy owl, Canada goose) ↔ Canada
+Lesson 45 symbols-holidays; western redcedar ↔ Canada Lesson 06 first-peoples.)*
+
+Nature-track conventions:
+- **Words to know** box: every lesson opens with a `{: .note }` **"Words to know"** callout
+  after the H1 (same convention as Canada/Leadership) — plain-English definitions +
+  easy-respelling pronunciations for tricky species names (e.g., "pileated (PIE-lee-ay-tid)",
+  "Métis"-style respellings). Keep/extend it when editing.
+- **Images**: every species/scene image is a **real Wikimedia Commons photo hotlinked at
+  960px** with an italic caption crediting `[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:<name>)`.
+  Two URL patterns are used: (a) the standard thumb URL
+  `https://upload.wikimedia.org/wikipedia/commons/thumb/<h>/<hh>/<File>/960px-<File>` — get a
+  real one from the Wikipedia REST summary API
+  (`https://en.wikipedia.org/api/rest_v1/page/summary/<Title>` → `thumbnail.source`, then bump
+  `330px`→`960px`); and (b) when a page's lead image is unsuitable (e.g. paper birch's is a
+  painting), the hash-free `https://commons.wikimedia.org/wiki/Special:FilePath/<File>?width=960`.
+  Never guess an image URL — verify it via the REST API or media-list first, and make sure the
+  alt text matches the actual photo (the Douglas-fir/birch mix-up in an early draft is the
+  cautionary tale). Reusing an already-verified image across lessons is fine and encouraged.

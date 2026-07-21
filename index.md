@@ -3,11 +3,11 @@ title: Home
 nav_order: 1
 ---
 
-# Linux Systems — Learning Journal
+# Learning Garden
 
-A hands-on, bottom-up journal for learning Linux systems internals. Pick a track —
-each is an independent curriculum with a phased learning plan and self-contained
-lessons (mental model, mechanics, labs with expected output, and checkpoints).
+A hands-on, bottom-up learning journal. Pick a track — each is an independent
+curriculum with a phased learning plan and self-contained lessons (mental model,
+mechanics, labs with expected output, and checkpoints).
 
 New here? **[Set up your lab environment]({{ '/lab-setup.html' | relative_url }})**
 first — it takes ten minutes and every lesson's lab depends on it.
@@ -75,6 +75,15 @@ the economy, and culture & identity. Labs are source & scenario exercises, with
 citizenship-test-style checkpoints throughout.
 
 [Canada learning plan]({{ '/canada/learning-plan.html' | relative_url }}){: .btn .btn-primary }
+
+### 🌲 Trees & Birds of Canada
+
+A picture-first field course: how to identify trees and birds, the common conifers
+and broadleaf trees, the maples and the forest regions, backyard birds, water
+birds, raptors and forest birds, and the natural year of migration and winter.
+Built around real photographs; labs are look-and-identify exercises.
+
+[Trees & Birds learning plan]({{ '/nature/learning-plan.html' | relative_url }}){: .btn .btn-primary }
 
 ---
 
