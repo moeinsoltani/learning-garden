@@ -1,14 +1,18 @@
 ---
-title: "Lesson 01 — Planning for a Baby: Before, During & After Pregnancy"
+title: "Lesson 01 — The Whole Journey at a Glance"
 nav_order: 1
-parent: "Phase 1: Starting a Family"
+parent: "Phase 1: Deciding & Preparing"
 ---
 
 [← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
 
 ---
 
-# Lesson 01: Planning for a Baby — Before, During & After Pregnancy
+# Lesson 01: The Whole Journey at a Glance
+
+*This lesson is your map of the entire course: the whole path from before
+pregnancy to after birth, in one place. Every stage named here gets its own
+detailed lesson later — think of this as the overview you'll come back to.*
 
 {: .important }
 > **Read this first — this lesson is a map, not a doctor.**
@@ -405,3 +409,4 @@ together — that care and teamwork is, genuinely, the best possible start. 💛
 
 <!-- nav-next -->
 [← Home]({{ '/' | relative_url }}){: .btn .btn-outline }
+[Next: Lesson 2 — Are we ready? →](lesson-02-are-we-ready){: .btn .btn-primary }

@@ -87,10 +87,11 @@ Built around real photographs; labs are look-and-identify exercises.
 
 ### 👶 Family & Parenthood
 
-Warm, practical guides for big life steps — starting with planning for a baby:
-what to know and do before pregnancy, during the nine months, and after delivery,
-for both partners. General, evidence-based education (not a substitute for your
-own doctor).
+The complete journey to parenthood, for both partners: deciding & preparing,
+pregnancy trimester by trimester, birth, the newborn "fourth trimester", recovery
+& your relationship, and the first year — 40 lessons across 8 phases. General,
+evidence-based education with warnings and sources (not a substitute for your own
+doctor).
 
 [Family & Parenthood learning plan]({{ '/family/learning-plan.html' | relative_url }}){: .btn .btn-primary }
 

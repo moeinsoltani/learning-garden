@@ -88,12 +88,12 @@ Then immediately after front matter:
 Model answers must always be written — never leave a checkpoint or homework without one.
 
 ### Lab variants for the non-terminal tracks
-The `leadership`, `english`, `canada`, and `nature` tracks keep the same
+The `leadership`, `english`, `canada`, `nature`, and `family` tracks keep the same
 hidden-answer format, but their **Lab** is not terminal commands. Two section-name
-differences apply across all four non-terminal tracks (canada, leadership, english,
-nature): the second section is titled **Going Deeper** (not "How It Works"), and —
-in canada, leadership, and nature — every lesson opens with a `{: .note }`
-**"Words to know"** callout (plain-English definitions + pronunciations)
+differences apply across all five non-terminal tracks (canada, leadership, english,
+nature, family): the second section is titled **Going Deeper** (not "How It Works"),
+and — in canada, leadership, nature, and family — every lesson opens with a
+`{: .note }` **"Words to know"** callout (plain-English definitions + pronunciations)
 immediately after the H1, before Concept. The Lab specifics:
 - **Leadership** — a realistic scenario ("your PM promised a date you can't hit");
   the student writes their response (`**Your response:**` field), then reveals a
@@ -151,6 +151,7 @@ Each track has its own plan; **always consult the relevant one before creating a
 - English for Work: `_english/learning-plan.md`
 - Canada: History & Civics: `_canada/learning-plan.md`
 - Trees & Birds of Canada: `_nature/learning-plan.md`
+- Family & Parenthood: `_family/learning-plan.md`
 
 ## Networking Lesson Index
 - Lesson 01: `_networking/lessons/lesson-01-namespaces-intro.md` — What a network namespace is ✓
@@ -437,3 +438,32 @@ Nature-track conventions:
   Never guess an image URL — verify it via the REST API or media-list first, and make sure the
   alt text matches the actual photo (the Douglas-fir/birch mix-up in an early draft is the
   cautionary tale). Reusing an already-verified image across lessons is fine and encouraged.
+
+## Family & Parenthood Lesson Index
+Phase parent pages live at `_family/lessons/phase-NN-name.md`. File paths follow
+`_family/lessons/lesson-NN-<slug>.md`. Labs are **Plan Together** scenario/checklist
+exercises (see Lab variants). Non-terminal, text-only (no images). Mark each ✓ as its file lands.
+- Phase 1 — Deciding & Preparing: 01 planning-for-a-baby ✓ *(overview)*, 02 are-we-ready ✓, 03 preconception-health ✓, 04 nutrition-lifestyle ✓, 05 how-conception-works ✓
+- Phase 2 — The First Trimester: 06 confirming-and-first-visit ✓, 07 first-trimester ✓, 08 eating-safely ✓, 09 early-screening ✓, 10 miscarriage-and-loss ✓
+- Phase 3 — Mid & Late Pregnancy: 11 second-trimester ✓, 12 third-trimester ✓, 13 pregnancy-complications ✓, 14 warning-signs ✓, 15 staying-well ✓
+- Phase 4 — Getting Ready for Birth: 16 choosing-your-care ✓, 17 birth-plan-pain-relief ✓, 18 classes-and-packing ✓, 19 home-and-gear ✓
+- Phase 5 — Labour & Delivery: 20 signs-and-stages ✓, 21 vaginal-birth ✓, 22 c-section ✓, 23 golden-hour ✓
+- Phase 6 — The Newborn: 24 newborn-basics ✓, 25 safe-sleep ✓, 26 breastfeeding ✓, 27 formula-feeding ✓, 28 daily-care ✓, 29 soothing-and-crying ✓, 30 newborn-health ✓
+- Phase 7 — Recovery & the New Family: 31 mothers-recovery ✓, 32 postpartum-mental-health ✓, 33 partners-role ✓, 34 relationship-after-baby ✓, 35 sleep-visitors-village ✓
+- Phase 8 — The First Year: 36 starting-solids ✓, 37 development-milestones ✓, 38 sleep-first-year ✓, 39 health-safety ✓, 40 back-to-work-childcare ✓
+
+*(Family & Parenthood track complete — lessons 01–40 across 8 phases. Lesson 01 is a
+whole-journey overview; the rest go deep. Update this index if lessons change.)*
+
+Family-track conventions:
+- **Safety framing is mandatory:** every lesson opens with an `{: .important }` "general
+  education, not medical advice — when in doubt, call" disclaimer, and health red flags use
+  `{: .warning }` boxes. This is health-adjacent content — keep advice mainstream and
+  evidence-based, never prescriptive on doses/decisions, and always defer to the reader's
+  provider. Written for **both partners**.
+- **Sources:** Further Reading cites reputable public-health/clinical pages only — NHS
+  (`nhs.uk/pregnancy/`, `nhs.uk/conditions/baby/`), MedlinePlus (`medlineplus.gov/*.html`),
+  WHO, ACOG, SOGC (`pregnancyinfo.ca`), Mayo, and Wikipedia. Verify every URL resolves
+  (curl) before finishing — several MedlinePlus/Wikipedia slugs 404'd in the first draft and
+  had to be corrected. `canada.ca` is unreachable from the sandbox (can't verify), so it was
+  avoided in favour of confirmable sources.
